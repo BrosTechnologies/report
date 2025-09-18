@@ -420,39 +420,39 @@ Con los eventos pivotales, se agruparon los elementos dentro de los **bounded co
 </p> 
 
 <p align="center">
-  <img src="images/event_step2.JPG" alt="PB" width="1000">
+  <img src="images/event_step2.jpg" alt="PB" width="1000">
 </p> 
 
 <p align="center">
-  <img src="images/event_step3.JPG" alt="PB" width="1000">
+  <img src="images/event_step3.jpg" alt="PB" width="1000">
 </p> 
 
 <p align="center">
-  <img src="images/event_step4.JPG" alt="PB" width="1000">
+  <img src="images/event_step4.jpg" alt="PB" width="1000">
 </p> 
 
 <p align="center">
-  <img src="images/event_step5.JPG" alt="PB" width="1000">
+  <img src="images/event_step5.jpg" alt="PB" width="1000">
 </p> 
 
 <p align="center">
-  <img src="images/event_step6.JPG" alt="PB" width="1000">
+  <img src="images/event_step6.jpg" alt="PB" width="1000">
 </p> 
 
 <p align="center">
-  <img src="images/event_step7.JPG" alt="PB" width="1000">
+  <img src="images/event_step7.jpg" alt="PB" width="1000">
 </p> 
 
 <p align="center">
-  <img src="images/event_step8.JPG" alt="PB" width="1000">
+  <img src="images/event_step8.jpg" alt="PB" width="1000">
 </p> 
 
 <p align="center">
-  <img src="images/event_step9.JPG" alt="PB" width="1000">
+  <img src="images/event_step9.jpg" alt="PB" width="1000">
 </p> 
 
 <p align="center">
-  <img src="images/event_step10.JPG" alt="PB" width="1000">
+  <img src="images/event_step10.jpg" alt="PB" width="1000">
 </p> 
 
 
@@ -492,7 +492,7 @@ Se aplicaron los siguientes criterios para validar los límites de cada contexto
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 
 <p align="center">
-  <img src="images/context.PNG" alt="PB" width="1000">
+  <img src="images/context.png" alt="PB" width="1000">
 </p> 
 
 
