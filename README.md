@@ -258,6 +258,19 @@ del ABET – EAC - Student Outcome 3.
 
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+**Brostechnologies** es una startup fundada por jóvenes universitarios de la Universidad Peruana de Ciencias Aplicadas (UPC), enfocada en ofrecer soluciones para la gestión eficiente de proyectos de construcción dirigidos a pequeñas y medianas empresas constructoras, así como a trabajadores administrativos. A través de nuestra plataforma digital, ***Engitrack***, los usuarios pueden realizar solicitudes de servicios, además de supervisar el progreso y los gastos de cada obra.
+
+Nuestra meta es simplificar la administración y garantizar mayor transparencia en los procesos constructivos. Entre las principales funciones que gestionamos se encuentran: la administración de personal, el control de materiales, la gestión presupuestal, el seguimiento de plazos de ejecución y el monitoreo en tiempo real del avance de los proyectos.
+
+En **Brostechnologies** consideramos esencial optimizar los procesos de construcción para que nuestros clientes incrementen sus ganancias, reduzcan tiempos de ejecución y puedan tomar decisiones basadas en información confiable. Apostamos por la tecnología como un recurso clave para transformar el sector, facilitando que incluso las pequeñas y medianas empresas accedan a una gestión profesional, organizada y eficiente de sus obras.
+
+**Misión:** Ofrecer soluciones digitales innovadoras que optimicen la gestión de proyectos de construcción en pequeñas y medianas empresas, permitiendo una mejor administración de recursos, seguimiento de avances, control de gastos y otros procesos, con el propósito de impulsar la eficiencia, la transparencia y la toma de decisiones estratégicas en el sector.
+
+**Visión:** Convertirnos en la plataforma líder en Latinoamérica en la digitalización de procesos constructivos para pequeñas y medianas empresas, transformando la gestión de obras mediante tecnología accesible, eficiente y orientada a las necesidades de nuestros usuarios.
+
+
+## **Fase 1: Identificación de Áreas (30 minutos)**
 [Contenido]
 ### 1.1.2. Perfiles de integrantes del equipo
 | Foto | Nombre y Apellidos | Código de Estudiante | Carrera | Resumen de Conocimientos y Habilidades |
@@ -319,6 +332,156 @@ del ABET – EAC - Student Outcome 3.
 
 ### 2.5.1. EventStorming
 #### 2.5.1.1. Candidate Context Discovery
+
+## **Fase 1: Identificación de Áreas (30 minutos)**
+
+Se analizó el **EventStorming completo** y se buscaron las áreas del dominio que generan mayor valor.  
+ Áreas detectadas:
+
+* **Gestión de Inventario**: alta criticidad porque sin materiales no hay avance en obra (entradas, uso, alertas, historial).
+
+* **Gestión de Proyectos**: define el inicio y estructura del trabajo (ingresar proyecto, asignar maquinaria, vincular trabajadores).
+
+* **Control de Trabajadores**: garantiza que las tareas se ejecuten (registro, asignación, asistencia, roles).
+
+* **Control de Maquinaria**: asegurar disponibilidad y uso adecuado en cada obra.
+
+* **Reportes / Incidentes**: seguimiento del avance y visibilidad hacia stakeholders (reportes diarios/semanales, evidencias, notificaciones).
+
+## **Fase 2: Identificación de Eventos Pivotales (45 minutos)**
+
+Aquí se destacaron eventos que **marcan transiciones claras entre contextos**:
+
+* **Proyecto registrado** → activa la necesidad de registrar trabajadores, asignar maquinaria, y preparar inventario (transición hacia otros contextos).
+
+* **Trabajador registrado** → habilita asignación de roles/tareas y control de asistencia.
+
+* **Material entry registered** → puede derivar en alerta de bajo inventario, afecta la continuidad de proyectos.
+
+* **Daily report generated** → comunica a otros contextos el estado de avance, puede disparar notificaciones e incidentes.
+
+* **Incident registered** (ejemplo extendido dentro de control de incidentes) → dispara procesos de seguridad, reasignación de recursos, notificaciones.
+
+## **Fase 3: Agrupación y Refinamiento (15 minutos)**
+
+Con los eventos pivotales, se agruparon los elementos dentro de los **bounded contexts definidos**:
+
+### **Control de Trabajadores**
+
+* Worker registered
+
+* Task/role assigned to worker
+
+* Attendance controlled
+
+* Workers list per project consulted
+
+### **Gestión de Proyectos**
+
+* Project registered
+
+* Machinery assigned to project
+
+* Workers associated with project
+
+* Select project to view reports
+
+### **Control de Inventario**
+
+* Material entry registered
+
+* Material usage registered
+
+* Low inventory alert received
+
+* Inventory transactions consulted
+
+### **Control de Incidentes**
+
+* Incident registered (extensión futura de “reportes”)
+
+* Incident resolved
+
+* Notifications triggered by incidents
+
+### **Control de Maquinaria**
+
+* Machinery assigned to project registered
+
+* Machinery usage logged
+
+* Machinery availability updated  
+  
+
+## **Evolución del event storming**
+
+<p align="center">
+  <img src="images/event_step1.JPG" alt="PB" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/event_step2.JPG" alt="PB" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/event_step3.JPG" alt="PB" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/event_step4.JPG" alt="PB" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/event_step5.JPG" alt="PB" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/event_step6.JPG" alt="PB" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/event_step7.JPG" alt="PB" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/event_step8.JPG" alt="PB" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/event_step9.JPG" alt="PB" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/event_step10.JPG" alt="PB" width="1000">
+</p> 
+
+
+## **Fase 4: Criterios de Separación de Contextos**
+
+Se aplicaron los siguientes criterios para validar los límites de cada contexto:
+
+* **Autonomía funcional**: cada bounded context debe tener lógica de negocio propia sin depender de otros.
+
+* **Alta cohesión interna**: eventos, comandos y reglas de un contexto deben estar estrechamente relacionados.
+
+* **Baja dependencia externa**: la interacción con otros contextos ocurre solo a través de eventos publicados o APIs bien definidas.
+
+* **Diferentes usuarios/roles**: inventario es gestionado por un rol distinto al de proyectos o recursos humanos.
+
+* **Evolución independiente**: se espera que cada contexto pueda escalar y evolucionar de manera separada.
+
+## **Resultados y Recomendaciones**
+
+* El dominio queda dividido en **5 bounded contexts claros** (trabajadores, proyectos, inventario, incidentes, maquinaria).
+
+* **Eventos pivotales** como *Proyecto registrado*, *Trabajador registrado* y *Material entry registered* funcionan como conectores clave entre contextos.
+
+* **Recomendación**: usar *event-driven integration* entre contextos (ej: cuando se registra un proyecto, se publican eventos que disparan flujos en trabajadores, inventario y maquinaria).
+
+* **Siguiente paso**: diseñar los *ubiquitous language* de cada contexto y documentar las *context maps* (relaciones entre bounded contexts: partnership, customer-supplier, conformist, etc.).
+
+
+
 #### 2.5.1.2. Domain Message Flows Modeling
 #### 2.5.1.3. Bounded Context Canvases
 
@@ -327,6 +490,12 @@ del ABET – EAC - Student Outcome 3.
 ### 2.5.3. Software Architecture
 #### 2.5.3.1. Software Architecture Context Level Diagrams
 #### 2.5.3.2. Software Architecture Container Level Diagrams
+
+<p align="center">
+  <img src="images/context.PNG" alt="PB" width="1000">
+</p> 
+
+
 #### 2.5.3.3. Software Architecture Deployment Diagrams
 
 ## 2.6. Tactical-Level Domain-Driven Design
