@@ -416,7 +416,7 @@ Con los eventos pivotales, se agruparon los elementos dentro de los **bounded co
 ## **Evolución del event storming**
 
 <p align="center">
-  <img src="images/event_step1.JPG" alt="PB" width="1000">
+  <img src="images/event_step1.jpg" alt="PB" width="1000">
 </p> 
 
 <p align="center">
