@@ -309,6 +309,35 @@ En **Brostechnologies** consideramos esencial optimizar los procesos de construc
 
 ### 2.2.1. Diseño de entrevistas
 
+#### Segmento objetivo #1: Supervisores de obra
+**Introducción y contexto** 
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tiene?
+- ¿En qué distrito reside?
+- ¿Puedes contarme sobre tu rol como supervisor? ¿Qué haces en un día típico?
+- ¿Cuántos obreros y qué tipo de materiales gestionas en una obra promedio?
+
+**Procesos actuales** 
+- ¿Cómo confirmas la asistencia de los obreros cada día? 
+- ¿Qué haces si alguien falta?
+- ¿Cómo llevas el control del inventario de materiales? ¿Qué herramientas usas?
+- ¿Cómo registras los avances de la obra y preparas reportes? ¿Cuánto tiempo te toma?
+
+**Puntos de dolor**
+- ¿Qué es lo más frustrante o lento en la gestión de obreros o materiales? Dame un ejemplo reciente.
+- ¿Alguna vez has tenido problemas por errores en inventario o reportes? ¿Qué pasó?
+- ¿Qué tan fácil o difícil es coordinar con otros roles, como asistentes administrativos?
+
+**Necesidades y expectativas**
+- Si tuvieras una herramienta que centralizará asistencia, inventario y reportes ¿te ayudaría? ¿de qué manera?
+- ¿Qué tan importante es tener información en tiempo real desde la obra? ¿Por qué?
+- ¿Qué te haría confiar en una nueva plataforma digital? ¿Qué te preocuparía?
+
+**Cierre**
+- ¿Hay algo que no hayamos tocado que te gustaría que una herramienta como esta resolviera?
+- ¿Estarías dispuesto a probar una plataforma como ArquiTech? ¿Qué necesitarías para convencerte?
+
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
