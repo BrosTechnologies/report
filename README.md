@@ -670,7 +670,19 @@ Se entrevistó a un total de 3 contratantes con experiencia en proyectos de cons
 
 
 
-
+| USER TASK  | Carlos Huaman |  | Mariana Torres |  |
+| ----- | :---: | :---: | :---: | :---: |
+|  | **Frequency** | **Importance** | **Frequency** | **Importance** |
+| Control de inventario de materiales | Always | High | Often | High |
+| Supervisión del personal en obra | Always | High | Unlikely | Medium |
+| Reporte de avances de obra | Often | High | Always | High |
+| Comunicación con proveedores | Often | High | Often | Medium |
+| Gestión de presupuestos y gastos | Always | High | Often | High |
+| Verificación de cumplimiento normativo y seguridad | Often | High | Always | High |
+| Resolución de problemas imprevistos (“apagar incendios”) | Always | High | Unlikely | Medium |
+| Revisión de informes digitales o físicos | Often | High | Always | High |
+| Coordinación con clientes/contratantes | Always | High | Always | High |
+| Toma de decisiones de continuidad del proyecto | Often | High | Always | High |
 
 
 
