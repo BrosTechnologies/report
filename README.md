@@ -695,6 +695,24 @@ User Journey Mapping del segmento #2: Contratista de empresas privadas:
 
 ### 2.3.5. Ubiquitous Language
 
+  
+**Project (Proyecto):** Conjunto de actividades de construcción o remodelación con objetivos, plazos y presupuesto definidos.  
+**Site (Obra):** Lugar físico donde se ejecuta el proyecto de construcción.  
+**Supervisor (Supervisor/Jefe de Obra):** Profesional responsable de coordinar al personal en campo, controlar materiales y reportar avances.   
+**Contractor (Contratista/Contratante):** Persona o empresa que contrata servicios de construcción para un proyecto.  
+**Supplier (Proveedor):** Empresa o persona encargada de abastecer materiales o servicios necesarios para la obra.  
+**Budget (Presupuesto):** Estimación económica del costo total del proyecto, que incluye materiales, mano de obra y servicios.  
+**Inventory (Inventario):** Registro actualizado de materiales disponibles para el desarrollo del proyecto.  
+**Task (Tarea):** Actividad específica que debe realizarse dentro del proyecto para cumplir los objetivos establecidos.  
+**Report (Informe):** Documento o registro digital que comunica el estado de avances, gastos, problemas o resultados del proyecto.  
+**Progress (Avance):** Nivel de ejecución alcanzado en la obra en relación con lo planificado.  
+**Compliance (Cumplimiento):** Grado en que la obra respeta las normativas legales, de seguridad y de calidad.  
+**Delay (Retraso):** Diferencia negativa entre lo planificado y lo ejecutado en tiempos o entregables del proyecto.  
+**Incident (Incidente):** Evento imprevisto que afecta la seguridad, calidad o continuidad de la obra.  
+**Milestone (Hito):** Punto clave o etapa importante dentro del cronograma del proyecto, usado para medir el progreso.  
+**Communication Channel (Canal de Comunicación):** Medio formal o informal utilizado para intercambiar información entre los actores del proyecto (ej. WhatsApp, email, reuniones).  
+**Stakeholder (Interesado):** Persona o grupo que tiene interés en el desarrollo del proyecto, ya sea por inversión, operación o responsabilidad.  
+
 
 ## 2.4. Requirements specification
 
