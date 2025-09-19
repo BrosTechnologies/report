@@ -418,13 +418,51 @@ Creemos que la adopción rápida de Engitrack por parte de supervisores y trabaj
 
 ## 1.3. Segmentos objetivo
 
----
+**Segmento objetivo \#1: Supervisores de obra**  
+Este segmento está compuesto por profesionales encargados de supervisar y gestionar la ejecución de los proyectos de construcción. En muchas pequeñas y medianas empresas, el rol de supervisor suele ser asumido también por el jefe de obra, quien cumple múltiples funciones que van desde la supervisión directa en campo hasta la toma de decisiones administrativas y técnicas.  
+**Características demográficas**  
+Ubicación: Principalmente en zonas urbanas y semiurbanas de Lima Metropolitana, como San Juan de Lurigancho, Villa El Salvador, Ate y San Martín de Porres, donde se concentran pequeñas y medianas empresas constructoras.
+
+- Edad: Entre 28 y 50 años, con una media de 38 años.  
+- Nivel socioeconómico: Clase media.
+
+Desafíos: Los supervisores de obra enfrentan el reto de mantener los proyectos dentro del presupuesto estimado, asegurar la disponibilidad de materiales para la ejecución de la obra, comunicar de manera clara los avances a los contratantes y garantizar la coordinación del personal en campo.
+
+**Segmento objetivo \#2: Contratantes de empresas privadas**  
+Este segmento está compuesto por personas o empresas que contratan servicios de construcción, ya sea para edificaciones comerciales, remodelaciones o proyectos privados de mediana escala. Su interés principal es que la obra cumpla con los plazos, la calidad y las normativas establecidas, además de recibir información transparente y confiable del progreso.  
+**Características demográficas**  
+Ubicación: Principalmente en zonas urbanas y semiurbanas de Lima Metropolitana, como San Juan de Lurigancho, Villa El Salvador, Ate y San Martín de Porres, donde se concentran pequeñas y medianas empresas constructoras.
+
+- Edad: Entre 34 y 45 años, con una media de 39 años.  
+- Nivel socioeconómico: Clase media-alta.
+
+Desafíos: Necesitan que las obras sean entregadas a tiempo para evitar interrupciones en sus operaciones o pérdidas económicas. Además, esperan que todo el proceso esté en regla (licencias, seguros, normas de construcción y seguridad laboral) y que exista transparencia en el uso de materiales y recursos.
+
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
 
 ### 2.1.1. Análisis competitivo
+
+
+| ¿Por qué realizar este análisis? |  | Es fundamental realizarlo debido a que te brinda una visión más detallada de los competidores del rubro donde se está desarrollando nuestra startup. Esto nos permite identificar los FODA de nuestra startup, así como de los competidores. Además, nos ayuda a detectar aspectos clave para saber en donde marcamos la diferencia contra los otros competidores, y así poder sobresalir en el mercado. Incluso podemos reconocer nuestras fortalezas y debilidades, lo que servirá de apoyo para la toma de decisiones estratégicas más acertadas. |  |  |  |
+| :---: | :---: | ----- | :---: | :---: | :---: |
+| **Nombre** |  | EngiTrack | Procore | BuilderTrend | BuildWise |
+| **Logo** |  |  |  |  |  |
+| **Perfil** | **Overview** | Plataforma digital integral para PYMEs constructoras y equipos administrativos. Optimiza procesos y decisiones. | Plataforma robusta para grandes constructoras; impulsa la gestión basada en datos y escalabilidad. | Software para construcción residencial y remodelación. | Plataforma ágil y accesible para PYMEs; también brinda asesoría técnica. |
+|  | **Ventaja competitiva ¿Qué valor ofrece a los clientes?** | Solución completa, accesible y fácil de usar, con soporte personalizado e informes automatizados. | Funcionalidad avanzada y escalabilidad para proyectos grandes. | Mejora comunicación, planificación y presupuesto en proyectos de vivienda. | Solución sencilla y accesible para obras pequeñas y medianas, con soporte directo. |
+| **Plan de marketing** | **Mercado objetivo** | Supervisores de obras y contratantes de PYMEs constructoras. | Grandes empresas constructoras, gerentes de proyectos, contratistas generales. | Constructores de viviendas, remodeladores, contratistas especializados. | Pequeñas constructoras, remodeladores independientes y contratistas locales. |
+|  | **Estrategias de marketing** | Precio competitivo, pruebas gratuitas, capacitación gratuita, atención personalizada, marketing de contenidos. | Marketing de contenido, ferias de construcción, alianzas estratégicas. | Publicidad en redes sociales, videos tutoriales, marketing segmentado, SEO. | SEO, precios simples y asociaciones con gremios de construcción. |
+| **Precios y costos** | **Productos y servicios** | Gestión de proyectos, control de inventario, gestión de personal en obra, reportes visuales de avances. | Gestión de proyectos, finanzas, calidad, seguridad, recursos y documentos. | Planificación, presupuestos, CRM, pagos, facturación, informes financieros. | Control de presupuestos, programación, seguimiento de proyectos, control de costos y materiales. |
+|  | **Precios y costos** | Prueba gratuita 30 días; luego suscripción desde **USD 45/mes**. | Planes personalizados desde **USD 375/mes** según módulos. | Planes desde **USD 99/mes**, según necesidades. | Tarifa mensual/anual fija que incluye todas las funcionalidades. |
+|  | **Canales de distribución** | Landing page, redes sociales, talleres gratuitos, atención personalizada vía chat/teléfono. | Plataforma web, app móvil, ventas B2B, integraciones con terceros. | Plataforma web, app móvil, ventas online, soporte y capacitación. | Plataforma web, app móvil, venta directa online, soporte en línea. |
+| **Análisis FODA (SWOT)**    | **Fortalezas** | Precio accesible, soporte personalizado, prueba gratuita. | Plataforma consolidada, soporte 24/7. | Interfaz amigable, recursos de capacitación. | Precio competitivo, atención personalizada. |
+|  | **Oportunidades** | Digitalización creciente, poca oferta local. | Expansión en LATAM. | Expansión en remodelaciones. | Digitalización creciente en LATAM. |
+|  | **Debilidades** | Producto en fase de crecimiento, baja visibilidad. | Alto costo, curva de aprendizaje. | Costos elevados para planes avanzados. | Marca poco conocida. |
+|  | **Amenazas** | Ingreso de competidores internacionales, resistencia al cambio. | Competencia con soluciones más accesibles. | Entrada de nuevos competidores con soluciones más baratas. | Competidores consolidados con mayores recursos. |
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
