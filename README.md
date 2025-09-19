@@ -761,13 +761,12 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 <img width="2500" height="500" alt="structurizr-106317-LandscapeView-key" src="https://github.com/user-attachments/assets/99f91dad-5fe7-4e7c-8f1e-c28f2c79b770" />
 
 #### 2.5.3.2. Software Architecture Container Level Diagrams
-
 <p align="center">
   <img src="images/context.png" alt="PB" width="1000">
 </p> 
 
-
 #### 2.5.3.3. Software Architecture Deployment Diagrams
+<img width="567" height="526" alt="deploy-diagram" src="https://github.com/user-attachments/assets/59ba03b6-6c56-4d86-ab13-1b25a8dddedd" />
 
 ## 2.6. Tactical-Level Domain-Driven Design
 
