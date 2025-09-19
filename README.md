@@ -1276,8 +1276,67 @@ Repositories:
 
 ### 2.6.4. Bounded Context: Control de Incidentes
 #### 2.6.4.1. Domain Layer
+
+**Entities:**  
+**Incident:** Registra incidentes ocurridos en los proyectos con detalles de severidad y medidas tomadas.
+
+**Value Objects:**
+
+**IncidentSeverity:** Niveles de gravedad (HIGH, MEDIUM, LOW).
+
+**IncidentStatus:** Estados del incidente (PENDING, RESOLVED).
+
+**Aggregates:**
+
+**Incident:** Agregado raíz que gestiona el ciclo de vida completo de los incidentes.
+
+Domain Services:
+
+**IncidentService:** Servicio para gestión de incidentes y generación de reportes PDF.
+
+**Repositories:**
+
+**IncidentRepository:** Persistencia y consultas de incidentes filtrados por proyecto.
+
 #### 2.6.4.2. Interface Layer
+
+* **IncidentController:**  
+  * registrarIncidente(request) → endpoint para registrar un nuevo incidente.  
+  * resolverIncidente(id, acciones) → endpoint para marcar incidente como resuelto.  
+  * consultarIncidentes(proyectoId, filtros) → endpoint para listar incidentes por proyecto, estado o severidad.  
+  * descargarReporteIncidente(id) → endpoint para generar y descargar un reporte PDF del incidente.  
+* **Consumers (opcional):**  
+  * IncidentEventConsumer: escucha eventos relacionados a incidentes críticos (ej. notificaciones a contratantes o área de seguridad).
+
 #### 2.6.4.3. Application Layer
+
+**Command Handlers:**
+
+* **RegistrarIncidenteCommandHandler**: gestiona el registro de un incidente nuevo en el sistema.
+
+* **ResolverIncidenteCommandHandler**: actualiza el estado de un incidente a “RESOLVED” y almacena las medidas tomadas.
+
+**Query Handlers:**
+
+* **ConsultarIncidentesQueryHandler**: obtiene la lista de incidentes filtrados por proyecto, severidad o estado.
+
+* **ConsultarDetalleIncidenteQueryHandler**: recupera la información detallada de un incidente específico.
+
+**Event Handlers:**
+
+* **IncidenteCriticoEventHandler**: maneja eventos cuando un incidente de severidad HIGH es registrado, disparando alertas o notificaciones.
+
+* **GenerarReporteIncidenteHandler**: genera un reporte PDF de un incidente o conjunto de incidentes para el contratante.
+
+**2.6.4.4. Infrastructure Layer**   
+**IncidentRepositoryImpl:** Implementa la interfaz IncidentRepository en la base de datos.
+
+**IncidentReportGenerator:** Generación de reportes PDF con librería externa (ej. JasperReports, iText).
+
+**IncidentEventPublisher**: Publica eventos de incidentes graves hacia otros bounded contexts (ej. notificar a Gestión de Proyectos).
+
+**FileStorageAdapter:** Guarda evidencias fotográficas de incidentes en un servicio en la nube.
+
 #### 2.6.4.4 Infrastructure Layer
 **- IncidentRepositoryImpl:** Implementa la interfaz IncidentRepository en la base de datos.
 
