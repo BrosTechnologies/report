@@ -420,7 +420,14 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EY
 **Resumen:**
 Maryori Atanacio, una profesional de 24 años de edad, con experiencia en la construcción de centros comerciales, destacó que su elección de una constructora se basa en criterios estrictos de seguridad, calidad y transparencia. Expuso que sus principales frustraciones han sido la mala planificación de tiempos y la falta de análisis de riesgos, lo que le ha generado pérdidas económicas y una visibilidad limitada del progreso real de la obra. Por esta razón, Maryori se mostró muy a favor de la tecnología, afirmando que una plataforma digital intuitiva que le permitiera monitorear en tiempo real el avance, los materiales y el personal, no solo le daría más tranquilidad, sino que sería un factor decisivo para influir en su decisión de contratación.
 
+**Entrevista 3**
 
+  <img src="images/Entrevista 6.png" alt="PB" width="1000"> 
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EeMrcCZWLoFHhaMqdKa8TpEBH8Z4RaADoFZh77_2uB-DUw?e=SlbAam&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen:**
+Jefry Alfredo Prado Remón, un joven de 24 años residente de San Juan de Lurigancho, expresó su interés en proyectos de construcción de edificios, indicando que su criterio para elegir una constructora se basa en la calidad de sus profesionales y su legalidad, la cual verificaría a través de su RUC. Aunque no ha tenido experiencias negativas previas, considera que la tecnología es un factor importante, ya que una plataforma digital que muestre el avance en tiempo real le permitiría supervisar el proyecto a distancia y tener un mejor control del proceso, confiando más si esta ofrece visualizaciones como planos y volumetrías. Por lo tanto, afirmó que si una constructora empleara una herramienta de gestión moderna como la descrita, la consideraría seriamente para su contratación por la modernización que esto representa.
 
 ### 2.2.3. Análisis de entrevistas
 
