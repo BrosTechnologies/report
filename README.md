@@ -1186,8 +1186,76 @@ Repositories:
 
 ### 2.6.3. Bounded Context: Control de Trabajadores
 #### 2.6.3.1. Domain Layer
+
+**Entities:**
+
+* **Worker**: Representa a los trabajadores asignados a proyectos.
+
+* **Attendance**: Registra la asistencia de un trabajador en un proyecto (fecha, estado: PRESENTE/AUSENTE, workerId, projectId).
+
+**Value Objects:**
+
+* **WorkerName**: Valida y encapsula nombres de trabajadores.
+
+* **WorkerRole**: Valida roles/cargos de trabajadores.
+
+* **AttendanceStatus**: Define los estados de asistencia (PRESENTE, AUSENTE, JUSTIFICADO).
+
+**Aggregates:**
+
+* **Worker**: Agregado raíz que gestiona la información de trabajadores y su asignación a proyectos.
+
+* **Attendance**: Agregado raíz que coordina los registros de asistencia de trabajadores.
+
+**Domain Services:**
+
+* **WorkerService**: Servicio completo para gestión de trabajadores (CRUD y consultas por proyecto).
+
+* **AttendanceService**: Servicio que gestiona la lógica de asistencia (registro, validaciones, generación de reportes de asistencia).
+
+**Repositories:**
+
+* **WorkerRepository**: Contrato para persistencia y consultas de trabajadores filtrados por proyecto.
+
+* **AttendanceRepository**: Contrato para persistencia de registros de asistencia.
+
 #### 2.6.3.2. Interface Layer
+
+**Controllers:**
+
+* **WorkerController:** expone endpoints REST  para:
+
+  * Registrar nuevo trabajador.
+
+  * Consultar lista de trabajadores por proyecto.
+
+  * Actualizar información de un trabajador.
+
+  * Eliminar trabajador de un proyecto.
+
+**Consumers (opcional):**
+
+* **WorkerEventConsumer:** escucha eventos relacionados a trabajadores (ejemplo: asignación automática desde un sistema externo de RR.HH. o validación de identidad vía API RENIEC).
+
 #### 2.6.3.3. Application Layer
+
+**Registro de trabajadores** (RegistrarTrabajadorCommandHandler)
+
+**Control de asistencia** (RegistrarAsistenciaCommandHandler)
+
+**Consultar lista de trabajadores** (ConsultarTrabajadoresQueryHandler)
+
+**2.6.3.4. Infrastructure Layer**   
+**WorkerRepositoryImpl:** Implementa la interfaz WorkerRepository con consultas por proyecto.
+
+**AttendanceRepositoryImpl:** Persistencia de registros de asistencia.
+
+**IdentityVerificationAdapter (opcional):** Servicio externo para validar identidades (ej. integración con API RENIEC, si se considera necesario).
+
+**NotificationService:** Publica eventos cuando un trabajador se registra o falta (para Payroll o supervisión).
+
+* 
+
 #### 2.6.3.4 Infrastructure Layer
 **- WorkerRepositoryImpl:** Implementa la interfaz WorkerRepository con consultas por proyecto.
 
