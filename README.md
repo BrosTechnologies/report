@@ -952,6 +952,44 @@ Se aplicaron los siguientes criterios para validar los límites de cada contexto
 
 
 #### 2.5.1.2. Domain Message Flows Modeling
+En Engitrack, el *Domain Message Flows Modeling* se centra en mostrar cómo los distintos *bounded contexts* (Proyectos, Inventario, Trabajadores, Incidentes y Maquinaria) interactúan entre sí mediante mensajes de negocio (comandos, eventos o notificaciones).  
+Estos flujos permiten visualizar de forma clara las reacciones que se producen cuando un contexto emite un mensaje y otro lo procesa, reflejando la coreografía completa del sistema.
+
+---
+
+## Escenario 1 – Registro de Usuario y Proyecto
+
+![Escenario 1](./ruta/escenario1.png)
+
+Flujo inicial del sistema. El supervisor se registra en la plataforma → el sistema valida las credenciales en *Auth* → se crea el perfil correspondiente en *Profile* → se inicia la creación del primer proyecto en *Projects* → *Notifications* emite un aviso → *Email Service* envía un correo de bienvenida.  
+Este flujo establece la base para comenzar a operar dentro de Engitrack.
+
+---
+
+## Escenario 2 – Consumo de Material y Alerta de Stock Bajo
+
+![Escenario 2](./ruta/escenario2.png)
+
+Flujo de control de inventario. El supervisor registra en la aplicación el consumo de un insumo → *Inventory* procesa la disminución de stock → si se detecta un nivel bajo se genera el evento *StockLow* → *Notifications* emite la alerta correspondiente → el *Email/Push Service* notifica al supervisor.  
+Este flujo asegura la continuidad operativa evitando quiebres de stock en obra.
+
+---
+
+## Escenario 3 – Reporte Diario con Evidencia Fotográfica
+
+![Escenario 3](./ruta/escenario3.png)
+
+Flujo de comunicación con el cliente. El supervisor genera un reporte diario desde la aplicación → *Reports* inicia el registro de información → el sistema permite adjuntar evidencias fotográficas en *Object Storage* → las imágenes se asocian al reporte → *Notifications* confirma el envío del reporte → *Email Service* remite al contratante un enlace con el informe completo.  
+Este flujo garantiza trazabilidad y transparencia en la gestión de avance.
+
+---
+
+## Escenario 4 – Registro de Incidente de Seguridad
+
+![Escenario 4](./ruta/escenario4.png)
+
+Flujo de gestión de seguridad. El supervisor reporta un incidente en campo → la aplicación envía el evento a *Incidents* → el contexto actualiza la información en *Projects* y dispara un evento a *Notifications* → este genera un aviso al *Email/Push Service* → el administrador recibe la alerta.  
+Este flujo es clave para la atención temprana de riesgos y la gestión de la seguridad en obra.
 
 #### 2.5.1.3. Bounded Context Canvases
 
