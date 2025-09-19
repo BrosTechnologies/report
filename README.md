@@ -431,6 +431,51 @@ Jefry Alfredo Prado Remón, un joven de 24 años residente de San Juan de Luriga
 
 ### 2.2.3. Análisis de entrevistas
 
+En esta sección se desglosan y analizan los hallazgos obtenidos de las entrevistas realizadas a los dos segmentos objetivo. El propósito es identificar patrones, características comunes y necesidades clave, sustentando cada punto con datos cuantitativos derivados de nuestra muestra de entrevistados. Esta información será la base para la construcción de los arquetipos de usuario (user personas).
+
+#### Análisis del Segmento #1: Supervisores de Obra
+
+Se entrevistó a un total de 3 profesionales que cumplen el rol de supervisor o jefe de obra. El análisis revela una notable consistencia en sus procesos, desafíos y expectativas.
+
+**Características Objetivas y Subjetivas:**
+
+- Perfil Demográfico: Los entrevistados son jóvenes profesionales del rubro, con edades entre los 26 y 28 años, residentes de distintos distritos de Lima (San Miguel, La Molina, San Juan de Lurigancho). Todos gestionan equipos de entre 15 y 25 obreros en promedio.
+- Procesos y Herramientas Actuales: Existe una dependencia total de métodos manuales y herramientas básicas. El 100% (3 de 3) de los supervisores utiliza una combinación de listas en papel, cuadernos y hojas de Excel para gestionar la asistencia, el inventario de materiales y los reportes. Se destaca que estas herramientas a menudo están desactualizadas.
+- Puntos de Dolor (Frustraciones): Los problemas son recurrentes y compartidos. El 100% (3 de 3) mencionó los errores en el inventario y los retrasos ocasionados por la mala gestión de materiales como sus principales frustraciones. Además, el 100% (3 de 3) percibe la elaboración de reportes como una tarea que consume mucho tiempo (entre 1 y 2 horas diarias) y el 67% (2 de 3) señaló tener dificultades de coordinación con el personal administrativo.
+- Necesidades y Actitud hacia la Tecnología: Hay una clara apertura a la digitalización. El 100% (3 de 3) de los entrevistados considera que una herramienta digital que centralice la información (asistencia, inventario y reportes) y ofrezca datos en tiempo real sería de gran utilidad para ahorrar tiempo y reducir errores. Los criterios clave para adoptar una nueva plataforma son la facilidad de uso (mencionado por todos), la accesibilidad desde el móvil y que cuente con funcionalidad offline para zonas de baja conectividad.
+
+**Cuadro Resumen de Análisis - Supervisores de Obra**
+
+| Característica               | Hallazgos Clave de las Entrevistas                                                                    | Sustento Estadístico (N=3) |
+|------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------|
+| Herramientas de Gestión      | Uso combinado de cuadernos, listas manuales y hojas de Excel para todas las tareas de control.        | 100%                       |
+| Principal Problema Operativo | Errores constantes en el inventario de materiales que provocan retrasos en la obra.                   | 100%                       |
+| Gestión del Tiempo           | La elaboración de reportes diarios (escritos y fotográficos) consume entre 1 y 2 horas de su jornada. | 67%                        |
+| Necesidad Principal          | Desean una herramienta digital que centralice la información para acceder a datos en tiempo real.     | 100%                       |
+| Factor de Adopción Clave     | La plataforma debe ser sencilla, intuitiva y fácil de usar, preferiblemente desde un celular.         | 100%                       |
+| Disposición al Cambio        | Todos los entrevistados manifestaron estar dispuestos a probar una nueva plataforma digital.          | 100%                       |
+
+#### Análisis del Segmento #2: Contratantes de Empresas Privadas
+
+Se entrevistó a un total de 3 contratantes con experiencia en proyectos de construcción privados de mediana escala. Su análisis revela que la confianza, la transparencia y el cumplimiento de plazos son los pilares de su relación con las empresas constructoras.
+
+**Características Objetivas y Subjetivas:**
+
+- Perfil Demográfico: Son profesionales jóvenes, con edades entre 24 y 26 años, que residen en Lima (Pueblo Libre, San Juan de Lurigancho) y contratan proyectos como locales comerciales y edificios.
+- Procesos y Criterios de Selección: La elección de una constructora se basa en la confianza, experiencia y cumplimiento de plazos. El 100% (3 de 3) de los entrevistados se informa del avance mediante una combinación de reportes (semanales o por correo), llamadas y visitas a la obra.
+- Puntos de Dolor (Frustraciones): La falta de visibilidad es la principal frustración. El 100% (3 de 3) ha experimentado o teme una falta de transparencia y visibilidad sobre el progreso real, el uso de materiales o la gestión del personal. El 67% (2 de 3) ha sufrido pérdidas económicas directas por retrasos y mala planificación de las constructoras.
+- Necesidades y Actitud hacia la Tecnología: La tecnología es vista como un diferenciador clave. El 100% (3 de 3) afirmó que el uso de una plataforma digital por parte de la constructora influiría positivamente en su decisión de contratación, ya que lo asocian con modernización, transparencia y agilidad. Todos coinciden en que una herramienta que ofrezca monitoreo en tiempo real les daría mayor tranquilidad, control y seguridad sobre su inversión.
+
+**Cuadro Resumen de Análisis - Contratantes**
+
+| Característica                | Hallazgos Clave de las Entrevistas                                                                                               | Sustento Estadístico (N=3) |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| Principal Frustración         | Falta de transparencia y visibilidad sobre el avance real de la obra, generando desconfianza.                                    | 100%                       |
+| Impacto de la Mala Gestión    | Han sufrido pérdidas económicas debido a retrasos y mala planificación de las constructoras.                                     | 67%                        |
+| Necesidad Principal           | Acceder a una plataforma con información y reportes en tiempo real para tener mayor control y seguridad.                         | 100%                       |
+| Valor de la Tecnología        | El uso de tecnología moderna por parte de una constructora es un factor importante que transmite confianza.                      | 100%                       |
+| Influencia en la Contratación | Afirman que el uso de una herramienta de gestión digital influiría de manera positiva o decisiva en su elección de constructora. | 100%                       |
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
