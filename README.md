@@ -62,7 +62,7 @@
 </div>
 
 <p align="center">
-    <strong>, 2025</strong>
+    <strong>Setiembre, 2025</strong>
 </p>
 
 ---
