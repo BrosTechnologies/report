@@ -718,6 +718,42 @@ Se aplicaron los siguientes criterios para validar los límites de cada contexto
 #### 2.5.1.3. Bounded Context Canvases
 
 ### 2.5.2. Context Mapping
+El equipo partió de las funcionalidades clave detectadas (User Stories y Event Storming) en el producto (EngiTrack) y definió cinco bounded contexts principales:
+- Gestión de Proyectos
+- Control de Maquinaria
+- Control de Inventario
+- Control de Trabajadores
+
+**Control de Incidentes:**
+Durante la elaboración se discutieron alternativas usando las preguntas guía:
+¿Qué pasaría si movemos un capability a otro context?
+ → Se evaluó mover asistencia de trabajadores a Gestión de Proyectos, pero se decidió mantenerlo en Control de Trabajadores para preservar cohesión.
+
+¿Qué pasaría si partimos un bounded context en múltiples?
+ → Se evaluó dividir Control de Incidentes en Seguridad laboral y Gestión de recursos perdidos, pero se optó por mantenerlo unificado para evitar duplicidad.
+
+¿Qué pasaría si creamos un shared service?
+ → Se detectó que Gestión de Proyectos y Control de Trabajadores comparten información de asignación de roles, por lo que se consideró un Shared Kernel.
+
+¿Qué pasaría si usamos un Anticorruption Layer?
+ → Se decidió aplicar un ACL entre Control de Incidentes y Gestión de Proyectos para simplificar la información que sube al nivel del proyecto (solo impactos relevantes).
+
+**Diseños candidatos:**
+- Diseño A: Unir Maquinaria y Trabajadores en un mismo bounded context (justificación: ambos se relacionan con asignación de recursos).
+- Diseño B: Mantener cada bounded context independiente pero con Gestión de Proyectos como core domain y relaciones Customer/Supplier.
+- Diseño C: Separar Incidentes en dos bounded contexts especializados (seguridad y materiales).
+
+Al final evuluamos simplicidad vs. acoplamiento, y se eligió el Diseño B como la mejor opción.
+
+**Relaciones finales:**
+- Gestión de Proyectos ← Supplier: Inventario, Maquinaria, Trabajadores, Incidentes.
+- Shared Kernel: Gestión de Proyectos ↔ Trabajadores (roles y asignaciones).
+- Customer/Supplier: Trabajadores ↔ Maquinaria; Trabajadores ↔ Incidentes; Inventario ↔ Incidentes.
+- Anticorruption Layer: Incidentes → Gestión de Proyectos (resumen de impactos).
+
+El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core domain, manteniendo los demás bounded contexts como satélites que se integran bajo patrones de relación claros. Se rechazaron diseños con excesiva fragmentación porque aumentaban la complejidad de sincronización y se priorizó una organización balanceada entre cohesión interna y bajo acoplamiento entre contextos.
+
+<img width="1624" height="810" alt="Captura de pantalla 2025-09-18 004743" src="https://github.com/user-attachments/assets/df234ba5-008b-494e-9341-ea3fac9fefd8" />
 
 ### 2.5.3. Software Architecture
 #### 2.5.3.1. Software Architecture Context Level Diagrams
