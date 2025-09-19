@@ -466,6 +466,27 @@ Desafíos: Necesitan que las obras sean entregadas a tiempo para evitar interrup
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Brostechnologies aplicará una estrategia de diferenciación enfocada en la accesibilidad, simplicidad de uso y adaptación al contexto local de las PYMEs constructoras en el Perú. A diferencia de competidores como Procore o BuilderTrend, que ofrecen soluciones robustas pero con precios elevados y orientadas a grandes constructoras, nuestra propuesta prioriza la usabilidad, costos asequibles y soporte personalizado, respondiendo directamente a las limitaciones y necesidades del mercado local.
+
+El valor central de nuestra solución es ofrecer una plataforma ligera e intuitiva que centralice la información de obra, brinde reportes visuales en tiempo real y permita a los supervisores y contratantes mantener un control transparente sin necesidad de inversiones costosas ni capacitaciones complejas. Este enfoque nos permitirá posicionarnos como la herramienta ideal para pequeñas y medianas empresas que buscan modernizarse sin comprometer su presupuesto.
+
+**Estrategias preliminares frente a competidores:**
+
+* Diferenciación por accesibilidad: ofrecer planes desde \[PRECIO\] con prueba gratuita de 30 días, en contraste con las tarifas elevadas de Procore (USD 375/mes).  
+* Enfoque local: adaptar funcionalidades a la realidad de las PYMEs en Lima Metropolitana, considerando normativas y dinámicas de obra locales.  
+* Soporte personalizado: acompañamiento directo vía chat, talleres virtuales y capacitaciones gratuitas, frente a los servicios impersonales de los grandes competidores.  
+* Marketing educativo: generación de contenidos prácticos (webinars, tutoriales, guías) que muestren los beneficios inmediatos de digitalizar procesos.
+
+**Tácticas para aprovechar debilidades y enfrentar amenazas:**
+
+* Aprovechar la complejidad y curva de aprendizaje de competidores internacionales ofreciendo una interfaz simple y mobile-first.  
+* Enfrentar la resistencia al cambio tecnológico mediante capacitaciones prácticas y demostraciones gratuitas que reduzcan la percepción de riesgo.  
+* Diferenciarse de competidores con baja visibilidad de marca (como BuildWise) mediante campañas digitales segmentadas y presencia en gremios de construcción locales.  
+* Mitigar la amenaza de nuevos competidores de bajo costo reforzando la propuesta de valor con reportes automatizados y transparencia en tiempo real, aspectos aún limitados en el mercado.
+
+En definitiva, Brostechnologies busca posicionarse como la alternativa ágil, accesible y confiable para las PYMEs constructoras, cubriendo la brecha existente entre soluciones internacionales de alto costo y las herramientas informales actuales, y consolidando una ventaja competitiva basada en cercanía, simplicidad y valor local.  
+
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
@@ -641,6 +662,23 @@ Se entrevistó a un total de 3 contratantes con experiencia en proyectos de cons
 <img width="1050" height="1600" alt="Mariana Torres (1)" src="https://github.com/user-attachments/assets/a6cba093-236a-4590-90a2-5cca36b9fdba" />
 
 ### 2.3.2. User Task Matrix
+
+
+
+| USER TASK  | Carlos Huaman |  | Mariana Torres |  |
+| ----- | :---: | :---: | :---: | :---: |
+|  | **Frequency** | **Importance** | **Frequency** | **Importance** |
+| Control de inventario de materiales | Always | High | Often | High |
+| Supervisión del personal en obra | Always | High | Unlikely | Medium |
+| Reporte de avances de obra | Often | High | Always | High |
+| Comunicación con proveedores | Often | High | Often | Medium |
+| Gestión de presupuestos y gastos | Always | High | Often | High |
+| Verificación de cumplimiento normativo y seguridad | Often | High | Always | High |
+| Resolución de problemas imprevistos (“apagar incendios”) | Always | High | Unlikely | Medium |
+| Revisión de informes digitales o físicos | Often | High | Always | High |
+| Coordinación con clientes/contratantes | Always | High | Always | High |
+| Toma de decisiones de continuidad del proyecto | Often | High | Always | High |
+
 
 
 ### 2.3.3. User Journey Mapping
