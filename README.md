@@ -757,6 +757,9 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 
 ### 2.5.3. Software Architecture
 #### 2.5.3.1. Software Architecture Context Level Diagrams
+<img width="1600" height="2000" alt="structurizr-106317-LandscapeView" src="https://github.com/user-attachments/assets/0a07fc0a-39cb-4a0e-9952-5c6f3c142c4d" />
+<img width="2500" height="500" alt="structurizr-106317-LandscapeView-key" src="https://github.com/user-attachments/assets/99f91dad-5fe7-4e7c-8f1e-c28f2c79b770" />
+
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 
 <p align="center">
