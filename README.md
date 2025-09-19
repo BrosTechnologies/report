@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-    <strong>Nombre del startup: </strong> [Startup]
+    <strong>Nombre del startup: </strong> BrosTechnologies
 </p>
 
 <p align="center">
-    <strong>Nombre del producto:</strong> [Producto]
+    <strong>Nombre del producto:</strong> Engitrack
 </p>
 
 <div>
