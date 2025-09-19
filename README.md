@@ -862,13 +862,7 @@ Con los eventos pivotales, se agruparon los elementos dentro de los **bounded co
 
 ### **Control de Inventario**
 
-* Material entry registered
 
-* Material usage registered
-
-* Low inventory alert received
-
-* Inventory transactions consulted
 
 ### **Control de Incidentes**
 
