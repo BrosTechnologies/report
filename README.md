@@ -544,7 +544,13 @@ Se entrevistó a un total de 3 contratantes con experiencia en proyectos de cons
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
+<img width="1050" height="1600" alt="Carlos Huamán (1)" src="https://github.com/user-attachments/assets/428767d8-e978-45b3-81c6-ada8f1178c26" />
+
+<img width="1050" height="1600" alt="Mariana Torres (1)" src="https://github.com/user-attachments/assets/a6cba093-236a-4590-90a2-5cca36b9fdba" />
+
 ### 2.3.2. User Task Matrix
+
+
 ### 2.3.3. User Journey Mapping
 User Journey Mapping del segmento #1: Supervisor de Obra
 <img width="894" height="853" alt="Captura de pantalla 2025-09-18 224004" src="https://github.com/user-attachments/assets/18b98ab2-9984-4bb6-a2a2-ddf20978408f" />
