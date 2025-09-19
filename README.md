@@ -337,7 +337,6 @@ En **Brostechnologies** consideramos esencial optimizar los procesos de construc
 - ¿Hay algo que no hayamos tocado que te gustaría que una herramienta como esta resolviera?
 - ¿Estarías dispuesto a probar una plataforma como ArquiTech? ¿Qué necesitarías para convencerte?
 
-
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
