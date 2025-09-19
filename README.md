@@ -307,10 +307,7 @@ Frente a esta problemática, Brostechnologies identifica una brecha importante e
 
 **Why (¿Por qué es importante gestionar bien una obra?)**
 
-- Control de costos y tiempo: una gestión adecuada evita compras innecesarias, desperdicio de materiales y penalidades por retrasos.
-- Calidad y seguridad: facilita verificar el cumplimiento de normas, uso de EPP y calidad de materiales.
-- Confianza entre partes: transparencia en la ejecución mejora la relación con contratantes y reduce disputas contractuales.
-- Productividad: reduce el tiempo dedicado a tareas administrativas (registro manual, consolidación de datos) y permite que supervisores tomen decisiones informadas en campo.
+
 
 **When (¿Cuándo ocurre?)**
 
