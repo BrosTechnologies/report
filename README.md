@@ -1108,8 +1108,64 @@ Propósito: Consumir eventos de autenticación/autorización y comunicarlos al d
 
 ### 2.6.2. Bounded Context: Control de Inventario
 #### 2.6.2.1. Domain Layer
+Entities:
+
+**Material:** Representa los materiales de construcción con detalles de compra, stock y transacciones.
+
+Value Objects:
+
+**MaterialStatus:** Estados del material (RECEIVED, PENDING).
+
+Aggregates:
+
+**Material:** Agregado raíz que gestiona el inventario, controla el stock y emite eventos de uso.
+
+Domain Services:
+
+**MaterialService:** Servicio completo para CRUD de materiales, control de stock e historial de transacciones.
+
+Repositories:
+
+**MaterialRepository:** Persistencia y consultas de materiales filtrados por proyecto y nombre.
+
 #### 2.6.2.2. Interface Layer
+
+**Controllers:**
+
+* **MaterialController**: Gestiona las operaciones principales sobre los materiales:
+
+  * RegistrarMaterial (POST)
+
+  * ConsultarMateriales (GET, con filtros por proyecto y nombre)
+
+  * ActualizarStock (PUT)
+
+  * ConsultarHistorialTransacciones (GET)
+
+**Consumers (opcional, si es que hay mensajería o eventos):**
+
+* **StockEventConsumer**: Escucha eventos publicados por la Application Layer (ej. material recibido, stock actualizado) y los procesa para notificaciones o integraciones externas.
+
 #### 2.6.2.3. Application Layer
+
+
+* Registrar entrada de materiales (RegistrarEntradaMaterialesCommandHandler)
+
+* Registrar uso de materiales (RegistrarUsoMaterialesCommandHandler)
+
+* Consultar historial de transacciones (ConsultarHistorialInventarioQueryHandler)
+
+* Generar alerta por bajo stock (StockAlertEvent)
+
+**2.6.2.4. Infrastructure Layer**   
+**MaterialRepositoryImpl**: Implementa la interfaz MaterialRepository para CRUD de materiales en la base de datos.
+
+**StockAlertPublisher:** Envía mensajes al sistema de notificaciones (ej. RabbitMQ, Firebase) cuando el stock es bajo.
+
+**CloudStorageAdapter:** Conector para almacenamiento de documentos de compra o fotos de materiales en un servicio en la nube (ej. AWS S3, Firebase Storage).
+
+* 
+
 #### 2.6.2.4 Infrastructure Layer
 **- MaterialRepositoryImpl:** Implementa la interfaz MaterialRepository para CRUD de materiales en la base de datos.
 
