@@ -771,7 +771,13 @@ Se aplicaron los siguientes criterios para validar los límites de cada contexto
 #### 2.6.4.5. Bounded Context Software Architecture Component Level Diagrams
 #### 2.6.4.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.4.6.1. Bounded Context Domain Layer Class Diagrams
+
+  <img src="images/Layer%20Class%20Diagrams.png" alt="PB" width="1000">
+
 ##### 2.6.4.6.2. Bounded Context Database Design Diagram
+
+  <img src="images/Design%20Diagram.png" alt="PB" width="1000"> 
+
 
 ### 2.6.5. Bounded Context: Control de Maquinaria
 #### 2.6.5.1. Domain Layer
