@@ -546,6 +546,12 @@ Se entrevistó a un total de 3 contratantes con experiencia en proyectos de cons
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
+User Journey Mapping del segmento #1: Supervisor de Obra
+<img width="894" height="853" alt="Captura de pantalla 2025-09-18 224004" src="https://github.com/user-attachments/assets/18b98ab2-9984-4bb6-a2a2-ddf20978408f" />
+
+User Journey Mapping del segmento #2: Contratista de empresas privadas:
+<img width="951" height="804" alt="Captura de pantalla 2025-09-18 223909" src="https://github.com/user-attachments/assets/71710299-1a89-4a2a-bec7-dddbf03bd775" />
+
 ### 2.3.4. Empathy Mapping
 <img width="1050" height="1270" alt="Empathy Carlos Huaman" src="https://github.com/user-attachments/assets/e00bd736-ea18-4dfd-abc8-0c13d4929d75" />
 
