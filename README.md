@@ -344,6 +344,17 @@ Frente a esta problemática, Brostechnologies identifica una brecha importante e
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
+En el sector construcción en Lima Metropolitana y otras ciudades del Perú, las pequeñas y medianas empresas (PYMEs) enfrentan grandes dificultades para gestionar de manera eficiente sus proyectos. El sector presenta altos niveles de informalidad y baja adopción tecnológica, lo que limita su competitividad.
+
+Hemos observado que, a diferencia de las grandes constructoras que cuentan con sistemas integrados de planificación y control, las PYMEs continúan dependiendo de métodos manuales o herramientas básicas como hojas de cálculo, cuadernos de obra, llamadas telefónicas o aplicaciones de mensajería. Estas prácticas generan desorganización, duplicidad de datos, errores de control y retrasos significativos en la toma de decisiones.
+
+Los supervisores y jefes de obra (que suelen asumir múltiples funciones en campo y oficina) carecen de un sistema centralizado que los apoye en la coordinación de equipos, gestión de inventarios, control presupuestal, cumplimiento de normas de seguridad y comunicación con los contratantes. Al mismo tiempo, los clientes y contratantes demandan mayor transparencia, reportes actualizados y visibilidad en tiempo real de los avances, condiciones que hoy rara vez se cumplen en las PYMEs.
+
+Actualmente, existen soluciones internacionales como Procore o Buildertrend que ofrecen funcionalidades avanzadas, pero sus altos costos de suscripción (USD 95 a 300 mensuales) hacen que resulten inaccesibles para la mayoría de las empresas locales. Esto crea una brecha entre las necesidades de digitalización de las PYMEs y las soluciones disponibles en el mercado.
+
+¿Cómo podemos ayudar a las PYMEs del sector construcción en Lima Metropolitana a optimizar la gestión de sus proyectos mediante una herramienta digital accesible y adaptada a su realidad, que centralice la información de obra, apoye a supervisores en sus múltiples funciones y ofrezca a los contratantes transparencia y visibilidad en tiempo real, reduciendo riesgos operativos y mejorando la competitividad?
+
+Como segmento inicial, enfocaremos nuestra solución en los supervisores de obra de PYMEs constructoras en Lima Metropolitana, quienes desempeñan un rol crítico en la coordinación de proyectos y enfrentan directamente las limitaciones de los procesos actuales.
 
 #### 1.2.2.2. Lean UX Assumptions
 
