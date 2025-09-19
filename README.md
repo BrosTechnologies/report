@@ -478,7 +478,10 @@ El valor central de nuestra solución es ofrecer una plataforma ligera e intuiti
 
 **Estrategias preliminares frente a competidores:**
 
-
+* Diferenciación por accesibilidad: ofrecer planes desde \[PRECIO\] con prueba gratuita de 30 días, en contraste con las tarifas elevadas de Procore (USD 375/mes).  
+* Enfoque local: adaptar funcionalidades a la realidad de las PYMEs en Lima Metropolitana, considerando normativas y dinámicas de obra locales.  
+* Soporte personalizado: acompañamiento directo vía chat, talleres virtuales y capacitaciones gratuitas, frente a los servicios impersonales de los grandes competidores.  
+* Marketing educativo: generación de contenidos prácticos (webinars, tutoriales, guías) que muestren los beneficios inmediatos de digitalizar procesos.
 
 **Tácticas para aprovechar debilidades y enfrentar amenazas:**
 
