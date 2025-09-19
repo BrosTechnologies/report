@@ -337,7 +337,37 @@ En **Brostechnologies** consideramos esencial optimizar los procesos de construc
 - ¿Hay algo que no hayamos tocado que te gustaría que una herramienta como esta resolviera?
 - ¿Estarías dispuesto a probar una plataforma como ArquiTech? ¿Qué necesitarías para convencerte?
 
+#### Segmento objetivo #2: Contratantes de empresas privadas
+
+**Introducción y contexto**
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tiene?
+- ¿En qué distrito reside?
+- ¿Qué tipo de proyectos de construcción contratas normalmente (ej. locales, edificios)?
+- ¿Cómo es el proceso para elegir una constructora? ¿Qué buscas en ellas?
+
+**Procesos actuales**
+- ¿Cómo te mantienes informado sobre el avance de una obra? ¿Qué información recibes y con qué frecuencia?
+- ¿Qué herramientas o métodos usa la constructora para reportarte?
+- ¿Cómo verificas que se cumplan licencias, normas de seguridad o plazos?
+ 
+**Puntos de dolor**
+- ¿Qué problemas has tenido con constructoras en el pasado? Por ejemplo, retrasos o falta de claridad.
+- ¿Qué tan frustrante es no tener visibilidad completa sobre el uso de materiales o el personal en obra?
+- ¿Alguna vez has perdido dinero por demoras o errores en un proyecto? ¿Qué pasó?
+
+**Necesidades y expectativas**
+- Si pudieras acceder a una plataforma que te muestre en tiempo real el avance, materiales y personal de la obra, ¿cómo te ayudaría?
+- ¿Qué tan importante es para ti que la constructora use tecnología moderna? ¿Por qué?
+- ¿Qué características de una herramienta digital te harían confiar más en una constructora?
+
+**Cierre**
+- ¿Hay algo que las constructoras podrían mejorar para darte más tranquilidad?
+- Si una constructora usará una plataforma como ArquiTech para reportarte, ¿influiría en tu decisión de contratarla? ¿Por qué?
+
 ### 2.2.2. Registro de entrevistas
+
+
 
 ### 2.2.3. Análisis de entrevistas
 
