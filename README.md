@@ -766,7 +766,7 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 </p> 
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
-<img width="567" height="526" alt="deploy-diagram" src="https://github.com/user-attachments/assets/59ba03b6-6c56-4d86-ab13-1b25a8dddedd" />
+<img width="975" height="912" alt="Captura de pantalla 2025-09-18 222510" src="https://github.com/user-attachments/assets/2d6ef752-c5e8-4bc5-bad0-737d9bfd45cc" />
 
 ## 2.6. Tactical-Level Domain-Driven Design
 
