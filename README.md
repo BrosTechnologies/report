@@ -558,6 +558,8 @@ Se entrevistó a un total de 3 contratantes con experiencia en proyectos de cons
 
 ### 2.4.1. User Stories
 ### 2.4.2. Impact Mapping
+<img width="1240" height="2998" alt="Impact map 1 (1)" src="https://github.com/user-attachments/assets/bd732350-10aa-4266-9b2f-6f9e6546fe5d" />
+
 ### 2.4.3. Product Backlog
 
 ## 2.5. Strategic-Level Domain-Driven Design
