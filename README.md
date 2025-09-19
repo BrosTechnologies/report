@@ -389,8 +389,18 @@ En la entrevista realizada por Mario Prado, Marco Vargas, supervisor de obra de 
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115357_upc_edu_pe/EQOnuqetOuNFsK8Cc8T7xxIBT1uKykTy4uMiwQoUxydP5A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eOaHkg
 
 **Resumen:**
-
 Jones Gonzales, supervisor y jefe de obra de 28 años en La Molina, coordina entre 15 y 20 obreros y controla materiales como cemento, fierro y ladrillos mediante listas en papel, cuadernos y Excel poco actualizados. Sus principales problemas son errores de inventario, retrasos por entregas incompletas y tiempo perdido en reportes y coordinaciones administrativas. Considera que una plataforma como EngiTrack, que centralice asistencia, inventario y reportes en tiempo real, le permitiría ahorrar tiempo y reducir errores, siempre que sea sencilla, accesible desde el celular y funcional con conectividad limitada.
+
+**Entrevista 3**
+
+  <img src="images/Entrevista 3.png" alt="PB" width="1000"> 
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115357_upc_edu_pe/EeDOX4pYQvdPrYcttkxLHK4BI0O7dCk-g2ul-31BFbwiTQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DfTCaS
+
+**Resumen:**
+Ricardo Salazar, supervisor de obra de 26 años y residente en San Juan de Lurigancho, señaló que su labor diaria incluye coordinar entre 20 y 25 obreros, registrar asistencia manualmente, controlar materiales básicos con cuadernos o Excel y preparar reportes que le toman hasta dos horas extras. Los principales problemas que enfrenta son errores en inventario, retrasos por falta de materiales y dificultades para coordinar con el área administrativa. Considera que una herramienta como EngiTrack sería valiosa si centraliza asistencia, inventario y reportes, ofreciendo información en tiempo real y alertas de bajo stock. Estaría dispuesto a adoptarla siempre que sea fácil de usar, confiable en obra y accesible en costo.
+
+
 
 ### 2.2.3. Análisis de entrevistas
 
