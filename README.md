@@ -784,9 +784,15 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 **- EmailNotificationService:** Envío de correos electrónicos de notificación sobre proyectos a contratantes.
 
 #### 2.6.1.5. Bounded Context Software Architecture Component Level Diagrams
+<img width="4600" height="3628" alt="structurizr-106317-Component-001" src="https://github.com/user-attachments/assets/58600ad9-67db-4e1c-882a-9d42e3d1ab19" />
+
 #### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
+<img width="1461" height="828" alt="Captura de pantalla 2025-09-18 223257" src="https://github.com/user-attachments/assets/6f20b94c-8bf9-4f35-9baa-2648c40f8109" />
+
 ##### 2.6.1.6.2. Bounded Context Database Design Diagram
+<img width="1466" height="723" alt="Captura de pantalla 2025-09-18 223230" src="https://github.com/user-attachments/assets/549f75f7-46bf-4e5a-8ae1-93e21cdf31c6" />
+
 
 ### 2.6.2. Bounded Context: Control de Inventario
 #### 2.6.2.1. Domain Layer
@@ -801,8 +807,13 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 
 #### 2.6.2.5. Bounded Context Software Architecture Component Level Diagrams
 #### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
+<img width="4600" height="3120" alt="structurizr-106317-Component-001 (1)" src="https://github.com/user-attachments/assets/e5498d2e-2c02-4edd-9397-b7b48e2ce7e0" />
+
 ##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
+<img width="1757" height="832" alt="Captura de pantalla 2025-09-18 223128" src="https://github.com/user-attachments/assets/de53f682-98a7-41ae-a076-bc320b4ea3b2" />
+
 ##### 2.6.2.6.2. Bounded Context Database Design Diagram
+<img width="572" height="821" alt="Captura de pantalla 2025-09-18 223041" src="https://github.com/user-attachments/assets/a8432360-da31-488e-ab57-679c69ee0c28" />
 
 
 ### 2.6.3. Bounded Context: Control de Trabajadores
@@ -821,7 +832,11 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 #### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
+<img width="882" height="838" alt="Captura de pantalla 2025-09-18 222903" src="https://github.com/user-attachments/assets/c0e63429-8a6d-4fd0-abd0-f7a960cabdbf" />
+
 ##### 2.6.3.6.2. Bounded Context Database Design Diagram
+<img width="570" height="408" alt="Captura de pantalla 2025-09-18 223006" src="https://github.com/user-attachments/assets/aa2bd402-60e7-4666-a701-51c4de7534c8" />
+
 
 ### 2.6.4. Bounded Context: Control de Incidentes
 #### 2.6.4.1. Domain Layer
