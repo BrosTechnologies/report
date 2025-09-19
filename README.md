@@ -771,10 +771,81 @@ Se aplicaron los siguientes criterios para validar los límites de cada contexto
 
 ### 2.6.5. Bounded Context: Control de Maquinaria
 #### 2.6.5.1. Domain Layer
+
+**Entities:**
+
+- Machinery: Representa la maquinaria y equipos asignados a proyectos.
+
+**Value Objects:**
+
+- MachineryStatus: Estados operativos de la maquinaria (OPERATIONAL, UNDER_MAINTENANCE, AVAILABLE).
+
+**Aggregates:**
+
+- Machinery: Agregado raíz que gestiona el registro y estado de la maquinaria.
+
+**Domain Services:**
+
+- MachineryService: Servicio para gestión de maquinaria (creación y consultas).
+
+**Repositories:**
+
+- MachineryRepository: Persistencia y consultas de maquinaria con búsqueda por placa de licencia.
+
+
 #### 2.6.5.2. Interface Layer
+
+APIs REST para gestión de maquinaria (registro, consulta, cambio de estado y mantenimiento programado). Los endpoints están protegidos con JWT y autorización por roles (ADMIN, SUPERVISOR, ALMACEN).
+
+**Controllers**
+
+- MachineryController
+
+CRUD de maquinaria, búsqueda por placa/serie y filtros por estado/proyecto.
+
+
+- MachineryStatusController
+
+Cambios de estado operativos (OPERATIONAL, UNDER_MAINTENANCE, AVAILABLE) y registro de mantenimiento.
+
+
+- MachinerySearchController
+
+Endpoints de búsqueda avanzada (texto libre, paginado, sorting).
+
+
 #### 2.6.5.3. Application Layer
+
+**Registrar maquinaria**
+RegistrarMaquinariaCommandHandler: Maneja el registro de nueva maquinaria en el sistema, vinculada a un proyecto específico.
+
+**Actualizar estado de maquinaria**
+ActualizarEstadoMaquinariaCommandHandler: Cambia el estado operativo de la maquinaria (OPERATIONAL, UNDER_MAINTENANCE, AVAILABLE).
+
+**Programar mantenimiento**
+ProgramarMantenimientoCommandHandler: Registra mantenimientos programados y actualiza el historial de la maquinaria.
+
+**Consultar maquinaria**
+ConsultarMaquinariaQueryHandler: Devuelve la lista de maquinaria registrada, filtrada por proyecto, estado o usuario con permisos.
+
+**Búsqueda avanzada**
+BuscarMaquinariaAvanzadaQueryHandler: Gestiona consultas con criterios avanzados (placa, número de serie, filtros combinados, paginación).
+
+**Evento de mantenimiento programado**
+MantenimientoProgramadoEvent: Se emite al sistema de notificaciones para alertar a supervisores y responsables de almacén sobre mantenimientos próximos.
+
+
 #### 2.6.5.4 Infrastructure Layer
+
+- MachineryRepositoryImpl: Implementa la interfaz MachineryRepository.
+- MaintenanceSchedulerAdapter: Integra con un servicio externo de mensajería o cron jobs para programar mantenimientos.
+- QRScannerAdapter (opcional): Integración con librería externa de escaneo QR para registrar maquinaria.
+
 #### 2.6.5.5. Bounded Context Software Architecture Component Level Diagrams
+
+  <img src="images/Bounded%20Context%20Software%20Architecture%20Component%20Level%20Diagrams.png" alt="PB" width="1000"> 
+
+
 #### 2.6.5.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 2.6.5.6.1. Bounded Context Domain Layer Class Diagrams
