@@ -286,9 +286,6 @@ En **Brostechnologies** consideramos esencial optimizar los procesos de construc
 
 **Visión:** Convertirnos en la plataforma líder en Latinoamérica en la digitalización de procesos constructivos para pequeñas y medianas empresas, transformando la gestión de obras mediante tecnología accesible, eficiente y orientada a las necesidades de nuestros usuarios.
 
-
-## **Fase 1: Identificación de Áreas (30 minutos)**
-[Contenido]
 ### 1.1.2. Perfiles de integrantes del equipo
 | Foto | Nombre y Apellidos  | Código de Estudiante | Carrera | Resumen de Conocimientos y Habilidades |
 |------|---------------------|----------------------|---------|----------------------------------------|
