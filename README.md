@@ -411,6 +411,14 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115357_upc_edu_pe/ET
 **Resumen:**
 En la entrevista realizada por Mario Prado, Jhon Arce, contratante de 26 años y residente en Pueblo Libre, señaló que suele contratar proyectos de locales comerciales y edificios medianos, eligiendo constructoras principalmente por su experiencia, confianza y cumplimiento de plazos. Actualmente se mantiene informado mediante reportes semanales, correos, llamadas y visitas en campo, aunque ha enfrentado problemas como retrasos, poca transparencia en costos y falta de visibilidad sobre materiales o personal, lo que genera desconfianza e incluso pérdidas económicas por demoras. Jhon considera muy importante que las constructoras adopten tecnología moderna para brindar agilidad y transparencia, y afirmó que una plataforma digital con reportes claros, alertas y acceso en tiempo real le daría mayor control y seguridad. Finalmente, destacó que la comunicación y el cumplimiento de plazos son aspectos que deben mejorar, y que el uso de una herramienta como ArquiTech influiría positivamente en su decisión de contratación al transmitir confianza.
 
+**Entrevista 2**
+
+  <img src="images/Entrevista 5.png" alt="PB" width="1000"> 
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EY89G_ufCcJKjIbyVhkB1g8Beijsz3Ai9e00NzLbv_XeHg?e=xtHb4p&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen:**
+Maryori Atanacio, una profesional de 24 años de edad, con experiencia en la construcción de centros comerciales, destacó que su elección de una constructora se basa en criterios estrictos de seguridad, calidad y transparencia. Expuso que sus principales frustraciones han sido la mala planificación de tiempos y la falta de análisis de riesgos, lo que le ha generado pérdidas económicas y una visibilidad limitada del progreso real de la obra. Por esta razón, Maryori se mostró muy a favor de la tecnología, afirmando que una plataforma digital intuitiva que le permitiera monitorear en tiempo real el avance, los materiales y el personal, no solo le daría más tranquilidad, sino que sería un factor decisivo para influir en su decisión de contratación.
 
 
 
