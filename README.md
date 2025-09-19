@@ -765,6 +765,38 @@ User Journey Mapping del segmento #2: Contratista de empresas privadas:
 
 ### 2.4.3. Product Backlog
 
+
+
+| Orden | User Story ID | Título | Descripción | Story Points |
+| :---: | :---: | ----- | ----- | :---: |
+| 1 | HU01 | Registrar Entrada de Materiales | Como Supervisor de Obra, quiero registrar la entrada de materiales, para mantener un inventario actualizado y evitar retrasos. | 2 |
+| 2 | HU02 | Registrar Uso de Materiales en Obra | Como Supervisor de Obra, quiero registrar el uso de materiales, para controlar el consumo y evitar desperdicios. | 2 |
+| 3 | HU03 | Recibir Alertas de Bajo Nivel de Inventario | Como Supervisor de Obra, quiero recibir alertas cuando el inventario esté bajo, para abastecer a tiempo y evitar retrasos. | 3 |
+| 4 | HU04 | Consultar Historial de Transacciones de Inventario | Como Supervisor de Obra, quiero consultar el historial de transacciones de inventario, para auditar el uso de materiales y detectar irregularidades. | 5 |
+| 5 | HU05 | Registrar Maquinaria Asignada al Proyecto | Como Supervisor de Obra, quiero registrar maquinaria asignada al proyecto, para gestionar su disponibilidad y evitar retrasos. | 2 |
+| 6 | HU06 | Registro de trabajadores | Como supervisor de obra, quiero registrar a los trabajadores con sus datos personales, cargo y especialidad, para tener un control ordenado y centralizado del personal en cada proyecto. | 3 |
+| 7 | HU07 | Asignación de tareas y roles | Como supervisor de obra, quiero asignar tareas específicas y roles a cada trabajador dentro de una obra, para saber sus responsabilidades diarias en una lista de trabajadores. | 3 |
+| 8 | HU08 | Control de Asistencia | Como supervisor de obra, quiero llevar el control de asistencia diaria de los trabajadores en obra, para contar con un registro confiable que respalde pagos y evaluaciones. | 5 |
+| 9 | HU09 | Ingresar un Nuevo Proyecto | Como Supervisor de Obra, quiero ingresar un nuevo proyecto, para planificar y gestionar todas las actividades relacionadas con la obra. | 3 |
+| 10 | HU10 | Lista de trabajadores por obra | Como supervisor de obra, quiero ver una lista de todos los trabajadores asignados a cada obra, para saber rápidamente quién está trabajando en cada proyecto y qué roles cumplen. | 3 |
+| 11 | HU11 | Ver descripción de ArquiTech | Como contratante de empresa privada, quiero leer una descripción clara de la plataforma para entender sus beneficios. | 1 |
+| 12 | HU12 | Contactar al equipo de ArquiTech | Como supervisor de obra, quiero contactarme con el equipo de soporte para obtener más información y contratar el servicio. | 3 |
+| 13 | HU13 | Explorar beneficios | Como supervisor de obra, quiero explorar los beneficios de la plataforma en la landing page, para entender cómo puede ayudarme a gestionar mejor mis proyectos y ahorrar tiempo. | 1 |
+| 14 | HU14 | Observar medios oficiales de comunicación | Como supervisor de obra, quiero contactarme con el equipo directamente a través de medios oficiales para realizar consultas. | 1 |
+| 15 | HU15 | Visitar redes sociales de ArquiTech | Como supervisor de obra, quiero visitar las redes sociales de la plataforma para conocer opiniones de otros usuarios. | 1 |
+| 16 | HU16 | Editar información de perfil | Como usuario de la plataforma, quiero poder editar mi información personal (nombre, correo, cargo), para mantener mis datos actualizados. | 2 |
+| 17 | HU17 | Cambiar foto de perfil | Como usuario registrado, quiero subir o cambiar mi foto de perfil, para personalizar mi cuenta y facilitar la identificación. | 1 |
+| 18 | HU18 | Cambiar contraseña | Como usuario autenticado, quiero cambiar mi contraseña, para mantener segura mi cuenta. | 2 |
+| 19 | HU19 | Configurar notificaciones | Como usuario administrador, quiero configurar mis preferencias de notificación (correo, SMS, alertas in-app), para recibir los avisos más importantes por los medios que prefiera. | 2 |
+| 20 | HU20 | Generar reporte diario de avance | Permite al Supervisor de Obra registrar el avance diario (actividades, asistencia del personal y materiales usados). | 3 |
+| 21 | HU21 | Visualizar reportes semanales | Permite al Gerente de Obra acceder a un resumen semanal consolidado con gráficos y métricas del proyecto. | 3 |
+| 22 | HU22 | Recibir notificación de nuevo reporte | Envía una notificación (push o correo) automáticamente al contratante o gerente cada vez que se genera un nuevo reporte. | 2 |
+| 23 | HU23 | Agregar evidencias fotográficas | Permite al Supervisor adjuntar imágenes al reporte diario como respaldo visual del avance, incidentes o condiciones de la obra. | 5 |
+| 24 | HU24 | Seleccionar obra específica para ver reportes | Permite a usuarios que gestionan múltiples obras filtrar los reportes por proyecto. | 2 |
+| 25 | HU25 | Visualizar lista de proyectos | Como Supervisor de Obra, quiero visualizar una lista de mis proyectos activos, para tener un panorama claro de todas mis obras. | 3 |
+
+
+
 ## 2.5. Strategic-Level Domain-Driven Design
 
 ### 2.5.1. EventStorming
@@ -920,6 +952,7 @@ Se aplicaron los siguientes criterios para validar los límites de cada contexto
 
 
 #### 2.5.1.2. Domain Message Flows Modeling
+
 #### 2.5.1.3. Bounded Context Canvases
 
 ### 2.5.2. Context Mapping
@@ -974,11 +1007,85 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 <img width="975" height="912" alt="Captura de pantalla 2025-09-18 222510" src="https://github.com/user-attachments/assets/2d6ef752-c5e8-4bc5-bad0-737d9bfd45cc" />
 
 ## 2.6. Tactical-Level Domain-Driven Design
-
 ### 2.6.1. Bounded Context: Gestión de Proyectos
 #### 2.6.1.1. Domain Layer
+
+Entities:
+
+**User:** Representa a los usuarios del sistema con información personal y roles.
+
+**Project:** Entidad principal que gestiona los proyectos con fechas, presupuesto y estado.
+
+Value Objects:
+
+**Role:** Enumera los roles disponibles en el sistema (SUPERVISOR, CONTRACTOR, USER).
+
+**ProjectStatus:** Define los estados posibles de un proyecto (ACTIVE, PAUSED, COMPLETED).
+
+Aggregates:
+
+**User:** Agregado raíz para la gestión de usuarios y sus roles.
+
+**Project:** Agregado raíz que coordina la información del proyecto y sus relaciones con usuarios.
+
+Domain Services:
+
+**UserCommandService:** Maneja comandos de registro y autenticación de usuarios.
+
+**UserQueryService:** Consultas para obtener información de usuarios.
+
+**ProjectCommandService:** Servicio para la creación de proyectos.
+
+**ProjectQueryService:** Consultas para obtener proyectos filtrados por usuario y rol.
+
+Repositories:
+
+**UserRepository:** Persistencia y consultas de usuarios.
+
+**ProjectRepository:** Persistencia y consultas de proyectos con filtros por usuario y rol.
+
 #### 2.6.1.2. Interface Layer
+
+**UserController**  
+Propósito: Gestionar las operaciones relacionadas con los usuarios (registro, autenticación, consultas básicas).
+
+Métodos principales:
+
+registerUser() – recibe datos de registro y los envía a UserCommandService.
+
+authenticateUser() – gestiona inicio de sesión a través de UserCommandService.
+
+getUserInfo() – consulta información de un usuario mediante UserQueryService.
+
+**ProjectController**
+
+Propósito: Gestionar los proyectos y exponer sus operaciones principales al cliente.
+
+Métodos principales:
+
+createProject() – recibe datos de creación y los envía a ProjectCommandService.
+
+getProjectsByUser() – consulta proyectos según rol/usuario a través de ProjectQueryService.
+
+getProjectDetails() – devuelve información detallada de un proyecto específico.
+
+**AuthConsumer** (opcional, si consideramos integración con servicios externos de autenticación)
+
+Propósito: Consumir eventos de autenticación/autorización y comunicarlos al dominio.
+
 #### 2.6.1.3. Application Layer
+
+* Gestionar comandos (Commands) enviados por los supervisores o contratantes.  
+* Resolver consultas (Queries) para mostrar información consolidada (inventario, reportes, proyectos).  
+* Emitir eventos (Events) hacia otros actores o sistemas (ejemplo: alerta de bajo stock, generación de reportes).  
+* Generar reporte de avance (GenerarReporteCommandHandler)
+
+* Consultar reportes (ConsultarReporteQueryHandler)  
+* Crear proyecto (CrearProyectoCommandHandler)
+
+* Consultar proyectos (ConsultarProyectosQueryHandler)  
+* 
+
 #### 2.6.1.4 Infrastructure Layer
 **- UserRepositoryImpl:** Implementa la interfaz UserRepository usando persistencia en base de datos relacional.
 
