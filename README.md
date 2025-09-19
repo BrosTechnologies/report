@@ -358,39 +358,59 @@ Como segmento inicial, enfocaremos nuestra solución en los supervisores de obra
 
 #### 1.2.2.2. Lean UX Assumptions
 Para guiar el desarrollo de nuestra solución Engitrack y asegurarnos de que estamos abordando los problemas correctos para los usuarios adecuados, hemos formulado una serie de supuestos. Estos supuestos son hipótesis que necesitan ser validadas a lo largo del proceso Lean UX. Los hemos clasificado en tres áreas críticas: **negocio, usuario y funcionalidad.**
+
 **Supuestos de Negocio:**
+
 Estos supuestos se centran en la viabilidad y el valor que Brostechnologies espera generar en el mercado.
+
 - Creemos que las PYMEs constructoras están dispuestas a pagar una suscripción mensual por una herramienta digital si esta les demuestra un retorno de inversión claro a través de la reducción de sobrecostos, el ahorro de tiempo y la prevención de penalidades por retrasos.
 - Creemos que existe un mercado desatendido y suficientemente grande en Lima Metropolitana y otras ciudades de Latinoamérica que considera las soluciones internacionales existentes como demasiado costosas y complejas para sus necesidades operativas diarias.
 - Creemos que al ofrecer una plataforma accesible y diseñada para la realidad del sector de construcción local, podemos lograr una rápida adopción y posicionarnos como la solución de entrada para la digitalización de las PYMEs. 
+
 **Supuestos de Usuario:**
+
 Estos supuestos se relacionan con nuestros usuarios objetivo, sus problemas, comportamientos y necesidades.
+
 - Creemos que los supervisores de obra son el segmento de usuario clave para empezar, ya que son quienes más sienten el impacto negativo de la gestión manual y tienen una alta influencia en la adopción de nuevas herramientas en el proyecto.
 - Creemos que los supervisores valorarán una aplicación móvil que centralice la información (personal, materiales, avances) por encima de sus métodos actuales (WhatsApp, Excel, cuadernos), porque les permitirá tomar decisiones más rápidas y fundamentadas en campo.
 - Creemos que los clientes y contratantes de las PYMEs constructoras demandan mayor transparencia y que esta necesidad presiona a las constructoras para que adopten herramientas que ofrezcan reportes claros y en tiempo real.
+
 **Supuestos de Funcionalidad**
+
 Estos supuestos se refieren a las características específicas de la plataforma Engitrack y el valor que entregarán.
+
 - Creemos que las funcionalidades más críticas para aportar valor inicial son el registro de asistencia, el control de inventario de materiales y la generación de reportes de avance diario con evidencia fotográfica.
 - Creemos que una interfaz de usuario sencilla e intuitiva, que requiera mínima capacitación, es un factor decisivo para que los supervisores y trabajadores adopten la herramienta sin resistencia.
 - Creemos que una funcionalidad de modo offline que permita registrar datos sin conexión a internet para sincronizarlos después es indispensable para el uso continuo de la aplicación en las obras, donde la conectividad suele ser inestable.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 **Hipótesis de negocio:**
+
 Creemos que la disposición de las PYMEs constructoras a pagar una suscripción mensual por Engitrack se logrará si los supervisores de obra logran reducir sobrecostos, ahorrar tiempo y prevenir penalidades por retrasos gracias al uso de la plataforma.
 (Referencia: Assumption de negocio 1)
+
 **Hipótesis de mercado:**
+
 Creemos que el posicionamiento de Engitrack como la solución de entrada a la digitalización de PYMEs en Lima Metropolitana se logrará si las empresas constructoras encuentran en nuestra herramienta una alternativa accesible y adaptada a su realidad frente a las soluciones internacionales demasiado costosas y complejas.
 (Referencia: Assumption de negocio 2 y 3)
+
 **Hipótesis de usuario clave:**
+
 Creemos que la adopción inicial de Engitrack por parte de las PYMEs se logrará si los supervisores de obra centralizan exitosamente en la aplicación móvil la información de personal, materiales y avances, superando sus métodos actuales dispersos como WhatsApp, Excel o cuadernos.
 (Referencia: Assumption de usuario 1 y 2)
+
 **Hipótesis de transparencia:**
+
 Creemos que la confianza de los contratantes en Engitrack como alternativa correcta se logrará si los supervisores generan reportes de avance con evidencia fotográfica que brinden transparencia y visibilidad en tiempo real.
 (Referencia: Assumption de usuario 3 y funcionalidad 3)
+
 **Hipótesis de funcionalidad crítica:**
+
 Creemos que la percepción de Engitrack como una herramienta indispensable en obra se logrará si los supervisores pueden registrar asistencia, controlar inventarios y generar reportes diarios de manera sencilla e incluso en modo offline.
 (Referencia: Assumption de funcionalidad 1 y 3.)
+
 **Hipótesis de usabilidad:**
+
 Creemos que la adopción rápida de Engitrack por parte de supervisores y trabajadores se logrará si la interfaz de usuario es lo suficientemente sencilla e intuitiva para requerir mínima capacitación.
 (Referencia: Assumption de funcionalidad 2.)
 
