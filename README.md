@@ -367,6 +367,10 @@ En **Brostechnologies** consideramos esencial optimizar los procesos de construc
 
 ### 2.2.2. Registro de entrevistas
 
+#### Segmento objetivo #1: Supervisores de obra
+
+**Entrevistado 1**
+
 
 
 ### 2.2.3. Análisis de entrevistas
