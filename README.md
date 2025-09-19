@@ -806,9 +806,9 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 **- CloudStorageAdapter:** Conector para almacenamiento de documentos de compra o fotos de materiales en un servicio en la nube (ej. AWS S3, Firebase Storage).
 
 #### 2.6.2.5. Bounded Context Software Architecture Component Level Diagrams
-#### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
 <img width="4600" height="3120" alt="structurizr-106317-Component-001 (1)" src="https://github.com/user-attachments/assets/e5498d2e-2c02-4edd-9397-b7b48e2ce7e0" />
 
+#### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
 <img width="1757" height="832" alt="Captura de pantalla 2025-09-18 223128" src="https://github.com/user-attachments/assets/de53f682-98a7-41ae-a076-bc320b4ea3b2" />
 
