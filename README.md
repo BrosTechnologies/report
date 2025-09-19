@@ -400,6 +400,18 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115357_upc_edu_pe/Ee
 **Resumen:**
 Ricardo Salazar, supervisor de obra de 26 años y residente en San Juan de Lurigancho, señaló que su labor diaria incluye coordinar entre 20 y 25 obreros, registrar asistencia manualmente, controlar materiales básicos con cuadernos o Excel y preparar reportes que le toman hasta dos horas extras. Los principales problemas que enfrenta son errores en inventario, retrasos por falta de materiales y dificultades para coordinar con el área administrativa. Considera que una herramienta como EngiTrack sería valiosa si centraliza asistencia, inventario y reportes, ofreciendo información en tiempo real y alertas de bajo stock. Estaría dispuesto a adoptarla siempre que sea fácil de usar, confiable en obra y accesible en costo.
 
+#### Segmento objetivo #2: Contratantes de empresas privadas
+
+**Entrevista 1**
+
+  <img src="images/Entrevista 4.png" alt="PB" width="1000"> 
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115357_upc_edu_pe/ETtm_KHSnMNJq1WMV5yGOt4Bf6G-VT_LOLtyIh0HuaQuUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Fqh3CS
+
+**Resumen:**
+En la entrevista realizada por Mario Prado, Jhon Arce, contratante de 26 años y residente en Pueblo Libre, señaló que suele contratar proyectos de locales comerciales y edificios medianos, eligiendo constructoras principalmente por su experiencia, confianza y cumplimiento de plazos. Actualmente se mantiene informado mediante reportes semanales, correos, llamadas y visitas en campo, aunque ha enfrentado problemas como retrasos, poca transparencia en costos y falta de visibilidad sobre materiales o personal, lo que genera desconfianza e incluso pérdidas económicas por demoras. Jhon considera muy importante que las constructoras adopten tecnología moderna para brindar agilidad y transparencia, y afirmó que una plataforma digital con reportes claros, alertas y acceso en tiempo real le daría mayor control y seguridad. Finalmente, destacó que la comunicación y el cumplimiento de plazos son aspectos que deben mejorar, y que el uso de una herramienta como ArquiTech influiría positivamente en su decisión de contratación al transmitir confianza.
+
+
 
 
 ### 2.2.3. Análisis de entrevistas
