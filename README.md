@@ -261,7 +261,15 @@ del ABET – EAC - Student Outcome 3.
 
 # Objetivos SMART
 
----
+# Cuadro de Objetivos SMART - Equipo de Ingeniería de Software
+
+| Integrante                    | Objetivo SMART 1                                                                                                                               | Objetivo SMART 2                                                                                                                                                              |
+|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Roy Fernández Remón**       | Desarrollar dos aplicaciones completas implementando arquitectura hexagonal y principios de clean code, entregando el primer proyecto en 3 meses y el segundo antes de 6 meses. | Obtener la certificación AWS Solutions Architect Associate dedicando 10 horas semanales de estudio durante 12 semanas, aprobando el examen en el tercer trimestre del año.        |
+| **Prado Vargas, Mario Benjamín** | Reducir la deuda técnica en el código base actual en un cuarenta por ciento mediante técnicas de refactorización y mejora de procesos, midiendo el progreso mensualmente durante los próximos 4 meses. | Completar la especialización en DevOps mediante un programa estructurado de 40 horas que incluya la implementación práctica de una canalización de CI/CD para un proyecto real en un plazo de 3 meses. |
+| **Bellido Salas, Raúl**       | Dominar e implementar tres patrones de diseño arquitectónico en proyectos del portafolio personal, documentando cada caso de uso y sus beneficios dentro del próximo cuatrimestre. | Realizar una práctica profesional especializada en el área de ciberseguridad aplicada al desarrollo de software, con una duración de 320 horas durante el segundo semestre del año. |
+| **Castro Sanchez, Amir Gabriel** | Implementar un sistema integral de testing automatizado que alcance una cobertura de código del noventa por ciento para el proyecto principal, estableciendo métricas y reportes semanales durante los próximos 2 meses. | Completar un bootcamp intensivo de desarrollo móvil con Flutter con una duración de 8 semanas, que culmine con el desarrollo y publicación de una aplicación en stores oficiales. |
+| **Gonzales Valverde, Carlos Matthew** | Aumentar la velocidad y eficiencia de desarrollo en un veinticinco por ciento mediante la adopción de nuevas herramientas y metodologías, midiendo el progreso con métricas específicas durante un período de 5 meses. | Especializarse en inteligencia artificial aplicada al software mediante un curso avanzado de 100 horas, implementando un proyecto de machine learning con un dataset real antes de finalizar el año. |
 
 # Capítulo I: Presentación
 
