@@ -998,6 +998,11 @@ Este flujo es clave para la atención temprana de riesgos y la gestión de la se
 
 #### 2.5.1.3. Bounded Context Canvases
 
+<p align="center">
+  <img src="images/bounded_step4.jpg" alt="PB" width="1000">
+</p> 
+
+
 ### 2.5.2. Context Mapping
 El equipo partió de las funcionalidades clave detectadas (User Stories y Event Storming) en el producto (EngiTrack) y definió cinco bounded contexts principales:
 - Gestión de Proyectos
