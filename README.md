@@ -773,6 +773,11 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 #### 2.6.1.2. Interface Layer
 #### 2.6.1.3. Application Layer
 #### 2.6.1.4 Infrastructure Layer
+**- UserRepositoryImpl:** Implementa la interfaz UserRepository usando persistencia en base de datos relacional.
+**- ProjectRepositoryImpl:** Implementa la interfaz ProjectRepository con consultas SQL para proyectos y estados.
+**- AuthProviderAdapter:** Adaptador para servicios externos de autenticación (ej. JWT o OAuth2).
+**- EmailNotificationService:** Envío de correos electrónicos de notificación sobre proyectos a contratantes.
+
 #### 2.6.1.5. Bounded Context Software Architecture Component Level Diagrams
 #### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
@@ -783,6 +788,10 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 #### 2.6.2.2. Interface Layer
 #### 2.6.2.3. Application Layer
 #### 2.6.2.4 Infrastructure Layer
+**- MaterialRepositoryImpl:** Implementa la interfaz MaterialRepository para CRUD de materiales en la base de datos.
+**- StockAlertPublisher:** Envía mensajes al sistema de notificaciones (ej. RabbitMQ, Firebase) cuando el stock es bajo.
+**- CloudStorageAdapter:** Conector para almacenamiento de documentos de compra o fotos de materiales en un servicio en la nube (ej. AWS S3, Firebase Storage).
+
 #### 2.6.2.5. Bounded Context Software Architecture Component Level Diagrams
 #### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
@@ -794,6 +803,11 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 #### 2.6.3.2. Interface Layer
 #### 2.6.3.3. Application Layer
 #### 2.6.3.4 Infrastructure Layer
+**- WorkerRepositoryImpl:** Implementa la interfaz WorkerRepository con consultas por proyecto.
+**- AttendanceRepositoryImpl:** Persistencia de registros de asistencia.
+**- IdentityVerificationAdapter (opcional):** Servicio externo para validar identidades (ej. integración con API RENIEC, si se considera necesario).
+**- NotificationService:** Publica eventos cuando un trabajador se registra o falta (para Payroll o supervisión).
+
 #### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
@@ -804,6 +818,11 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 #### 2.6.4.2. Interface Layer
 #### 2.6.4.3. Application Layer
 #### 2.6.4.4 Infrastructure Layer
+**- IncidentRepositoryImpl:** Implementa la interfaz IncidentRepository en la base de datos.
+**- IncidentReportGenerator:** Generación de reportes PDF con librería externa (ej. JasperReports, iText).
+**- IncidentEventPublisher:** Publica eventos de incidentes graves hacia otros bounded contexts (ej. notificar a Gestión de Proyectos).
+**- FileStorageAdapter:** Guarda evidencias fotográficas de incidentes en un servicio en la nube.
+
 #### 2.6.4.5. Bounded Context Software Architecture Component Level Diagrams
 #### 2.6.4.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.4.6.1. Bounded Context Domain Layer Class Diagrams
@@ -882,10 +901,9 @@ MantenimientoProgramadoEvent: Se emite al sistema de notificaciones para alertar
 
 
 #### 2.6.5.4 Infrastructure Layer
-
-- MachineryRepositoryImpl: Implementa la interfaz MachineryRepository.
-- MaintenanceSchedulerAdapter: Integra con un servicio externo de mensajería o cron jobs para programar mantenimientos.
-- QRScannerAdapter (opcional): Integración con librería externa de escaneo QR para registrar maquinaria.
+**- MachineryRepositoryImpl:** Implementa la interfaz MachineryRepository.
+**- MaintenanceSchedulerAdapter:** Integra con un servicio externo de mensajería o cron jobs para programar mantenimientos.
+**- QRScannerAdapter (opcional):** Integración con librería externa de escaneo QR para registrar maquinaria.
 
 #### 2.6.5.5. Bounded Context Software Architecture Component Level Diagrams
 
