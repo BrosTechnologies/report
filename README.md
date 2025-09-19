@@ -287,6 +287,60 @@ En **Brostechnologies** consideramos esencial optimizar los procesos de construc
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 
+En el contexto actual del sector construcción en Lima Metropolitana y otras ciudades del país, muchas pequeñas y medianas empresas (PYMEs) enfrentan una realidad compleja al gestionar sus proyectos. El sector construcción en el Perú es uno de los principales motores de la economía, aportando más del 5% al PBI nacional, pero presenta un alto nivel de informalidad y baja adopción tecnológica en los procesos operativos. A pesar de que las grandes constructoras cuentan con sistemas integrados de planificación y control, la mayoría de las PYMEs siguen dependiendo de métodos manuales o herramientas básicas como hojas de cálculo, cuadernos de obra, llamadas telefónicas o aplicaciones de mensajería instantánea. Estas prácticas generan desorganización, duplicidad de datos, errores de control y retrasos significativos en la toma de decisiones.
+
+La situación se agrava porque los supervisores y jefes de obra deben cumplir múltiples funciones: coordinar equipos en campo, gestionar inventarios, controlar presupuestos, asegurar el cumplimiento de normas de seguridad y reportar avances a la administración o a los contratantes. Sin un sistema centralizado, estas tareas se vuelven poco eficientes, consumen tiempo valioso y exponen a las empresas a sobrecostos, incumplimientos contractuales y pérdida de competitividad. Por su parte, los clientes y contratantes demandan mayor transparencia, reportes claros y actualizados, y visibilidad en tiempo real del avance de sus proyectos, condiciones que hoy rara vez se cumplen en las PYMEs constructoras.
+
+Frente a esta problemática, Brostechnologies identifica una brecha importante en el mercado: la ausencia de una herramienta digital accesible, intuitiva y pensada específicamente para la realidad de las pequeñas y medianas empresas del sector. Mientras soluciones internacionales como Procore o Buildertrend ofrecen funcionalidades avanzadas, sus precios resultan prohibitivos para las PYMEs locales (planes desde USD 95 hasta USD 300 mensuales), lo que deja a estas empresas sin opciones asequibles que les permitan modernizar sus procesos. Este vacío constituye una oportunidad para que nuestra startup desarrolle una plataforma móvil que centralice la información de obra, optimice la gestión de recursos y promueva la transparencia en la comunicación con contratantes y clientes, incrementando la eficiencia y reduciendo los riesgos operativos.
+
+**What (¿Qué problema existe?)** 
+
+- Falta de centralización: la información de obra (asistencia de obreros, entradas/salidas de materiales, avances) se guarda en múltiples formatos y lugares (Excel, cuadernos, fotos), lo que dificulta consolidar estados reales del proyecto.
+- Comunicación informal: se depende de canales no estructurados (WhatsApp, llamadas) para reportar problemas o ausencias, sin trazabilidad ni estándar de reporte.
+- Escasa visibilidad para contratantes: los clientes reciben información incompleta o tardía, lo que genera desconfianza y conflictos.
+- Herramientas existentes no accesibles: soluciones completas en el mercado suelen ser costosas para PYMEs (planes comerciales de referencia en el mercado rondan desde ~USD 95 hasta USD 300+ mensuales), dejando un vacío para productos más económicos y enfocados en operaciones diarias.
+
+**Why (¿Por qué es importante gestionar bien una obra?)**
+
+- Control de costos y tiempo: una gestión adecuada evita compras innecesarias, desperdicio de materiales y penalidades por retrasos.
+- Calidad y seguridad: facilita verificar el cumplimiento de normas, uso de EPP y calidad de materiales.
+- Confianza entre partes: transparencia en la ejecución mejora la relación con contratantes y reduce disputas contractuales.
+- Productividad: reduce el tiempo dedicado a tareas administrativas (registro manual, consolidación de datos) y permite que supervisores tomen decisiones informadas en campo.
+
+**When (¿Cuándo ocurre?)**
+
+- Durante la etapa de ejecución y supervisión del proyecto: planificación diaria (inicio de jornada), monitoreo de actividades (durante el día) y cierre/conciliación (fin de jornada).
+- Cuando hay cambios operativos o imprevistos: retrasos en entrega de materiales, ausencias de personal clave, necesidad de valorización o ajustes presupuestarios.
+- También ocurre de forma continua en proyectos con múltiples frentes y alta rotación de personal.
+
+**Where (¿Dónde sucede?)** 
+
+- Principalmente en obra (sitio de construcción), oficina administrativa de la empresa constructora y en el punto de interacción con contratantes (presencial o remoto).
+- En el presente informe se enfatiza la realidad local de Lima Metropolitana (distritos con alta actividad de PYMEs constructoras), aunque la solución propuesta está diseñada para ser replicable a otras regiones urbanas y semiurbanas.
+
+**Who (¿A quién afecta?)** 
+
+- Supervisores y jefes de obra: pierden tiempo en tareas administrativas y carecen de información consolidada para decidir.
+- Asistentes administrativos y almacenistas: registros inconsistentes y retrabajo por datos duplicados.
+- Contratantes / clientes: reciben reportes incompletos o tardíos, lo que genera desconfianza y puede causar pérdidas económicas.
+- La propia empresa constructora: costos mayores, baja rentabilidad y riesgo reputacional que afectan su capacidad para conseguir nuevos contratos.
+
+**How (¿Cómo se manifiesta el problema?)**
+
+- Errores en inventario: compras duplicadas o faltantes por no actualizar stock en tiempo real.
+- Registros manuales y desincronizados: hojas de tareo físicas, Excel y fotos que requieren consolidación manual.
+- Reportes tardíos o sin estandarización: informes en formatos inconsistentes (Word, Excel, WhatsApp) que no facilitan comparaciones ni decisiones rápidas.
+- Descoordinación entre campo y oficina: demora en la transmisión de incidencias y en la gestión de reposiciones o ajustes.
+- Dependencia de conectividad: muchas obras tienen baja o intermitente conectividad; sin un modo offline/sincronización robusta, la herramienta pierde utilidad en campo.
+
+**How much (¿Qué tan grave es?)**
+
+- Impacto económico directo: entrevistas y casos reportados muestran pérdidas concretas por mala gestión.
+- Coste operativo acumulado: el tiempo de consolidación de reportes y correcciones puede consumir horas diarias del equipo, traducido en costos salariales y demoras en la toma de decisiones.
+- Riesgo de contratación y reputación: falta de transparencia puede impedir la obtención de nuevos contratos y ocasionar penalidades contractuales.
+- Barreras a la adopción: la percepción de complejidad y el costo de soluciones existentes limitan la digitalización de muchas PYMEs; una solución accesible y fácil de usar tiene potencial para reducir esta brecha rápidamente.
+
+
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
