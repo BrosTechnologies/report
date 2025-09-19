@@ -956,6 +956,44 @@ Se aplicaron los siguientes criterios para validar los límites de cada contexto
 
 
 #### 2.5.1.2. Domain Message Flows Modeling
+En Engitrack, el *Domain Message Flows Modeling* se centra en mostrar cómo los distintos *bounded contexts* (Proyectos, Inventario, Trabajadores, Incidentes y Maquinaria) interactúan entre sí mediante mensajes de negocio (comandos, eventos o notificaciones).  
+Estos flujos permiten visualizar de forma clara las reacciones que se producen cuando un contexto emite un mensaje y otro lo procesa, reflejando la coreografía completa del sistema.
+
+---
+
+## Escenario 1 – Registro de Usuario y Proyecto
+
+![Escenario 1](./ruta/escenario1.png)
+
+Flujo inicial del sistema. El supervisor se registra en la plataforma → el sistema valida las credenciales en *Auth* → se crea el perfil correspondiente en *Profile* → se inicia la creación del primer proyecto en *Projects* → *Notifications* emite un aviso → *Email Service* envía un correo de bienvenida.  
+Este flujo establece la base para comenzar a operar dentro de Engitrack.
+
+---
+
+## Escenario 2 – Consumo de Material y Alerta de Stock Bajo
+
+![Escenario 2](./ruta/escenario2.png)
+
+Flujo de control de inventario. El supervisor registra en la aplicación el consumo de un insumo → *Inventory* procesa la disminución de stock → si se detecta un nivel bajo se genera el evento *StockLow* → *Notifications* emite la alerta correspondiente → el *Email/Push Service* notifica al supervisor.  
+Este flujo asegura la continuidad operativa evitando quiebres de stock en obra.
+
+---
+
+## Escenario 3 – Reporte Diario con Evidencia Fotográfica
+
+![Escenario 3](./ruta/escenario3.png)
+
+Flujo de comunicación con el cliente. El supervisor genera un reporte diario desde la aplicación → *Reports* inicia el registro de información → el sistema permite adjuntar evidencias fotográficas en *Object Storage* → las imágenes se asocian al reporte → *Notifications* confirma el envío del reporte → *Email Service* remite al contratante un enlace con el informe completo.  
+Este flujo garantiza trazabilidad y transparencia en la gestión de avance.
+
+---
+
+## Escenario 4 – Registro de Incidente de Seguridad
+
+![Escenario 4](./ruta/escenario4.png)
+
+Flujo de gestión de seguridad. El supervisor reporta un incidente en campo → la aplicación envía el evento a *Incidents* → el contexto actualiza la información en *Projects* y dispara un evento a *Notifications* → este genera un aviso al *Email/Push Service* → el administrador recibe la alerta.  
+Este flujo es clave para la atención temprana de riesgos y la gestión de la seguridad en obra.
 
 #### 2.5.1.3. Bounded Context Canvases
 
@@ -1112,8 +1150,64 @@ Propósito: Consumir eventos de autenticación/autorización y comunicarlos al d
 
 ### 2.6.2. Bounded Context: Control de Inventario
 #### 2.6.2.1. Domain Layer
+Entities:
+
+**Material:** Representa los materiales de construcción con detalles de compra, stock y transacciones.
+
+Value Objects:
+
+**MaterialStatus:** Estados del material (RECEIVED, PENDING).
+
+Aggregates:
+
+**Material:** Agregado raíz que gestiona el inventario, controla el stock y emite eventos de uso.
+
+Domain Services:
+
+**MaterialService:** Servicio completo para CRUD de materiales, control de stock e historial de transacciones.
+
+Repositories:
+
+**MaterialRepository:** Persistencia y consultas de materiales filtrados por proyecto y nombre.
+
 #### 2.6.2.2. Interface Layer
+
+**Controllers:**
+
+* **MaterialController**: Gestiona las operaciones principales sobre los materiales:
+
+  * RegistrarMaterial (POST)
+
+  * ConsultarMateriales (GET, con filtros por proyecto y nombre)
+
+  * ActualizarStock (PUT)
+
+  * ConsultarHistorialTransacciones (GET)
+
+**Consumers (opcional, si es que hay mensajería o eventos):**
+
+* **StockEventConsumer**: Escucha eventos publicados por la Application Layer (ej. material recibido, stock actualizado) y los procesa para notificaciones o integraciones externas.
+
 #### 2.6.2.3. Application Layer
+
+
+* Registrar entrada de materiales (RegistrarEntradaMaterialesCommandHandler)
+
+* Registrar uso de materiales (RegistrarUsoMaterialesCommandHandler)
+
+* Consultar historial de transacciones (ConsultarHistorialInventarioQueryHandler)
+
+* Generar alerta por bajo stock (StockAlertEvent)
+
+**2.6.2.4. Infrastructure Layer**   
+**MaterialRepositoryImpl**: Implementa la interfaz MaterialRepository para CRUD de materiales en la base de datos.
+
+**StockAlertPublisher:** Envía mensajes al sistema de notificaciones (ej. RabbitMQ, Firebase) cuando el stock es bajo.
+
+**CloudStorageAdapter:** Conector para almacenamiento de documentos de compra o fotos de materiales en un servicio en la nube (ej. AWS S3, Firebase Storage).
+
+* 
+
 #### 2.6.2.4 Infrastructure Layer
 **- MaterialRepositoryImpl:** Implementa la interfaz MaterialRepository para CRUD de materiales en la base de datos.
 
@@ -1134,8 +1228,76 @@ Propósito: Consumir eventos de autenticación/autorización y comunicarlos al d
 
 ### 2.6.3. Bounded Context: Control de Trabajadores
 #### 2.6.3.1. Domain Layer
+
+**Entities:**
+
+* **Worker**: Representa a los trabajadores asignados a proyectos.
+
+* **Attendance**: Registra la asistencia de un trabajador en un proyecto (fecha, estado: PRESENTE/AUSENTE, workerId, projectId).
+
+**Value Objects:**
+
+* **WorkerName**: Valida y encapsula nombres de trabajadores.
+
+* **WorkerRole**: Valida roles/cargos de trabajadores.
+
+* **AttendanceStatus**: Define los estados de asistencia (PRESENTE, AUSENTE, JUSTIFICADO).
+
+**Aggregates:**
+
+* **Worker**: Agregado raíz que gestiona la información de trabajadores y su asignación a proyectos.
+
+* **Attendance**: Agregado raíz que coordina los registros de asistencia de trabajadores.
+
+**Domain Services:**
+
+* **WorkerService**: Servicio completo para gestión de trabajadores (CRUD y consultas por proyecto).
+
+* **AttendanceService**: Servicio que gestiona la lógica de asistencia (registro, validaciones, generación de reportes de asistencia).
+
+**Repositories:**
+
+* **WorkerRepository**: Contrato para persistencia y consultas de trabajadores filtrados por proyecto.
+
+* **AttendanceRepository**: Contrato para persistencia de registros de asistencia.
+
 #### 2.6.3.2. Interface Layer
+
+**Controllers:**
+
+* **WorkerController:** expone endpoints REST  para:
+
+  * Registrar nuevo trabajador.
+
+  * Consultar lista de trabajadores por proyecto.
+
+  * Actualizar información de un trabajador.
+
+  * Eliminar trabajador de un proyecto.
+
+**Consumers (opcional):**
+
+* **WorkerEventConsumer:** escucha eventos relacionados a trabajadores (ejemplo: asignación automática desde un sistema externo de RR.HH. o validación de identidad vía API RENIEC).
+
 #### 2.6.3.3. Application Layer
+
+**Registro de trabajadores** (RegistrarTrabajadorCommandHandler)
+
+**Control de asistencia** (RegistrarAsistenciaCommandHandler)
+
+**Consultar lista de trabajadores** (ConsultarTrabajadoresQueryHandler)
+
+**2.6.3.4. Infrastructure Layer**   
+**WorkerRepositoryImpl:** Implementa la interfaz WorkerRepository con consultas por proyecto.
+
+**AttendanceRepositoryImpl:** Persistencia de registros de asistencia.
+
+**IdentityVerificationAdapter (opcional):** Servicio externo para validar identidades (ej. integración con API RENIEC, si se considera necesario).
+
+**NotificationService:** Publica eventos cuando un trabajador se registra o falta (para Payroll o supervisión).
+
+* 
+
 #### 2.6.3.4 Infrastructure Layer
 **- WorkerRepositoryImpl:** Implementa la interfaz WorkerRepository con consultas por proyecto.
 
@@ -1156,8 +1318,67 @@ Propósito: Consumir eventos de autenticación/autorización y comunicarlos al d
 
 ### 2.6.4. Bounded Context: Control de Incidentes
 #### 2.6.4.1. Domain Layer
+
+**Entities:**  
+**Incident:** Registra incidentes ocurridos en los proyectos con detalles de severidad y medidas tomadas.
+
+**Value Objects:**
+
+**IncidentSeverity:** Niveles de gravedad (HIGH, MEDIUM, LOW).
+
+**IncidentStatus:** Estados del incidente (PENDING, RESOLVED).
+
+**Aggregates:**
+
+**Incident:** Agregado raíz que gestiona el ciclo de vida completo de los incidentes.
+
+Domain Services:
+
+**IncidentService:** Servicio para gestión de incidentes y generación de reportes PDF.
+
+**Repositories:**
+
+**IncidentRepository:** Persistencia y consultas de incidentes filtrados por proyecto.
+
 #### 2.6.4.2. Interface Layer
+
+* **IncidentController:**  
+  * registrarIncidente(request) → endpoint para registrar un nuevo incidente.  
+  * resolverIncidente(id, acciones) → endpoint para marcar incidente como resuelto.  
+  * consultarIncidentes(proyectoId, filtros) → endpoint para listar incidentes por proyecto, estado o severidad.  
+  * descargarReporteIncidente(id) → endpoint para generar y descargar un reporte PDF del incidente.  
+* **Consumers (opcional):**  
+  * IncidentEventConsumer: escucha eventos relacionados a incidentes críticos (ej. notificaciones a contratantes o área de seguridad).
+
 #### 2.6.4.3. Application Layer
+
+**Command Handlers:**
+
+* **RegistrarIncidenteCommandHandler**: gestiona el registro de un incidente nuevo en el sistema.
+
+* **ResolverIncidenteCommandHandler**: actualiza el estado de un incidente a “RESOLVED” y almacena las medidas tomadas.
+
+**Query Handlers:**
+
+* **ConsultarIncidentesQueryHandler**: obtiene la lista de incidentes filtrados por proyecto, severidad o estado.
+
+* **ConsultarDetalleIncidenteQueryHandler**: recupera la información detallada de un incidente específico.
+
+**Event Handlers:**
+
+* **IncidenteCriticoEventHandler**: maneja eventos cuando un incidente de severidad HIGH es registrado, disparando alertas o notificaciones.
+
+* **GenerarReporteIncidenteHandler**: genera un reporte PDF de un incidente o conjunto de incidentes para el contratante.
+
+**2.6.4.4. Infrastructure Layer**   
+**IncidentRepositoryImpl:** Implementa la interfaz IncidentRepository en la base de datos.
+
+**IncidentReportGenerator:** Generación de reportes PDF con librería externa (ej. JasperReports, iText).
+
+**IncidentEventPublisher**: Publica eventos de incidentes graves hacia otros bounded contexts (ej. notificar a Gestión de Proyectos).
+
+**FileStorageAdapter:** Guarda evidencias fotográficas de incidentes en un servicio en la nube.
+
 #### 2.6.4.4 Infrastructure Layer
 **- IncidentRepositoryImpl:** Implementa la interfaz IncidentRepository en la base de datos.
 
