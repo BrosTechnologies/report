@@ -963,7 +963,7 @@ Estos flujos permiten visualizar de forma clara las reacciones que se producen c
 
 ## Escenario 1 – Registro de Usuario y Proyecto
 
-![Escenario 1](./ruta/Registro-de-usuario-y-configuracion-de-perfil.png)
+![Escenario 1](./images/Registro-de-usuario-y-configuracion-de-perfil.png)
 
 Flujo inicial del sistema. El supervisor se registra en la plataforma → el sistema valida las credenciales en *Auth* → se crea el perfil correspondiente en *Profile* → se inicia la creación del primer proyecto en *Projects* → *Notifications* emite un aviso → *Email Service* envía un correo de bienvenida.  
 Este flujo establece la base para comenzar a operar dentro de Engitrack.
@@ -972,7 +972,7 @@ Este flujo establece la base para comenzar a operar dentro de Engitrack.
 
 ## Escenario 2 – Consumo de Material y Alerta de Stock Bajo
 
-![Escenario 2](./ruta/Consumo-de-Material-y-Alerta-de-Stock-Bajo.png)
+![Escenario 2](./images/Consumo-de-Material-y-Alerta-de-Stock-Bajo.png)
 
 Flujo de control de inventario. El supervisor registra en la aplicación el consumo de un insumo → *Inventory* procesa la disminución de stock → si se detecta un nivel bajo se genera el evento *StockLow* → *Notifications* emite la alerta correspondiente → el *Email/Push Service* notifica al supervisor.  
 Este flujo asegura la continuidad operativa evitando quiebres de stock en obra.
@@ -981,7 +981,7 @@ Este flujo asegura la continuidad operativa evitando quiebres de stock en obra.
 
 ## Escenario 3 – Reporte Diario con Evidencia Fotográfica
 
-![Escenario 3](./ruta/Reporte-Diario-con-Evidencia-Fotográfica.png)
+![Escenario 3](./images/Reporte-Diario-con-Evidencia-Fotográfica.png)
 
 Flujo de comunicación con el cliente. El supervisor genera un reporte diario desde la aplicación → *Reports* inicia el registro de información → el sistema permite adjuntar evidencias fotográficas en *Object Storage* → las imágenes se asocian al reporte → *Notifications* confirma el envío del reporte → *Email Service* remite al contratante un enlace con el informe completo.  
 Este flujo garantiza trazabilidad y transparencia en la gestión de avance.
@@ -990,7 +990,7 @@ Este flujo garantiza trazabilidad y transparencia en la gestión de avance.
 
 ## Escenario 4 – Registro de Incidente de Seguridad
 
-![Escenario 4](./ruta/Registro-de-Incidente-de-Seguridad.png)
+![Escenario 4](./images/Registro-de-Incidente-de-Seguridad.png)
 
 Flujo de gestión de seguridad. El supervisor reporta un incidente en campo → la aplicación envía el evento a *Incidents* → el contexto actualiza la información en *Projects* y dispara un evento a *Notifications* → este genera un aviso al *Email/Push Service* → el administrador recibe la alerta.  
 Este flujo es clave para la atención temprana de riesgos y la gestión de la seguridad en obra.
