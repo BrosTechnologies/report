@@ -179,53 +179,52 @@
     - [2.6.5.5. Bounded Context Software Architecture Component Level Diagrams](#2655-bounded-context-software-architecture-component-level-diagrams)
     - [2.6.5.6. Bounded Context Software Architecture Code Level Diagrams](#2656-bounded-context-software-architecture-code-level-diagrams)
       - [2.6.5.6.1. Bounded Context Domain Layer Class Diagrams](#26561-bounded-context-domain-layer-class-diagrams)
-      - [2.6.5.6.2. Bounded Context Database Design Diagram](#26562-bounded-context-database-design-diagram)
-   
-    
-
-- [Capítulo V: Solution UI/UX Design](#capítulo-v-solution-uiux-design)
-  - [5.1. Product design](#51-product-design)
-    - [5.1.1. Style Guidelines](#511-style-guidelines)
-      - [5.1.1.1. General Style Guidelines](#5111-general-style-guidelines)
-    - [5.1.2. Information Architecture](#512-information-architecture)
-      - [5.1.2.1. Organization Systems](#5121-organization-systems)
-      - [5.1.2.2. Labelling Systems](#5122-labelling-systems)
-      - [5.1.2.3. SEO Tags and Meta Tags](#5123-seo-tags-and-meta-tags)
-      - [5.1.2.4. Searching Systems](#5124-searching-systems)
-      - [5.1.2.5. Navigation Systems](#5125-navigation-systems)
-    - [5.1.3. Landing Page UI Design](#513-landing-page-ui-design)
-      - [5.1.3.1. Landing Page Wireframe](#5131-landing-page-wireframe)
-      - [5.1.3.2. Landing Page Mock-up](#5132-landing-page-mock-up)
-    - [5.1.4. Mobile Applications UX/UI Design](#514-mobile-applications-uxui-design)
-      - [5.1.4.1. Mobile Applications Wireframes](#5141-mobile-applications-wireframes)
-      - [5.1.4.2. Mobile Applications Wireflow Diagrams](#5142-mobile-applications-wireflow-diagrams)
-      - [5.1.4.3. Mobile Applications Mock-ups](#5143-mobile-applications-mock-ups)
-      - [5.1.4.4. Mobile Applications User Flow Diagrams](#5144-mobile-applications-user-flow-diagrams)
-      - [5.1.4.5. Mobile Applications Prototyping](#5145-mobile-applications-prototyping)   
-- [Capítulo VI: Product Implementation, Validation & Deployment](#capítulo-vi-product-implementation-validation--deployment)
-- [6.1. Software Configuration Management](#61-software-configuration-management)
-    - [6.1.1. Software Development Environment Configuration](#611-software-development-environment-configuration)
-    - [6.1.2. Source Code Management](#612-source-code-management)
-    - [6.1.3. Source Code Style Guide & Conventions](#613-source-code-style-guide--conventions)
-    - [6.1.4. Software Deployment Configuration](#614-software-deployment-configuration)
-  - [6.2. Landing Page & Mobile Application Implementation](#62-landing-page--mobile-application-implementation)
-    - [6.2.X. Sprint n](#62x-sprint-n)
-      - [6.2.X.1. Sprint Planning n](#62x1-sprint-planning-n)
-      - [6.2.X.2. Sprint Backlog n](#62x2-sprint-backlog-n)
-      - [6.2.X.3. Development Evidence for Sprint Review](#62x3-development-evidence-for-sprint-review)
-      - [6.2.X.4. Testing Suite Evidence for Sprint Review](#62x4-testing-suite-evidence-for-sprint-review)
-      - [6.2.X.5. Execution Evidence for Sprint Review](#62x5-execution-evidence-for-sprint-review)
-      - [6.2.X.6. Services Documentation Evidence for Sprint Review](#62x6-services-documentation-evidence-for-sprint-review)
-      - [6.2.X.7. Software Deployment Evidence for Sprint Review](#62x7-software-deployment-evidence-for-sprint-review)
-      - [6.2.X.8. Team Collaboration Insights during Sprint](#62x8-team-collaboration-insights-during-sprint)
-  - [6.3. Validation Interviews](#63-validation-interviews)
-    - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
-    - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
-    - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-según-heurísticas)
-  - [6.4. Video About-the-Product](#64-video-about-the-product)
+      - [2.6.5.6.2. Bounded Context Database Design Diagram](#26562-bounded-context-database-design-diagram)   
+- [Capítulo III: Solution UI/UX Design](#capítulo-iii-solution-uiux-design)
+  - [3.1. Product design](#31-product-design)
+    - [3.1.1. Style Guidelines](#311-style-guidelines)
+      - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)
+    - [3.1.2. Information Architecture](#312-information-architecture)
+      - [3.1.2.1. Organization Systems](#3121-organization-systems)
+      - [3.1.2.2. Labelling Systems](#3122-labelling-systems)
+      - [3.1.2.3. SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)
+      - [3.1.2.4. Searching Systems](#3124-searching-systems)
+      - [3.1.2.5. Navigation Systems](#3125-navigation-systems)
+    - [3.1.3. Landing Page UI Design](#313-landing-page-ui-design)
+      - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
+      - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)
+    - [3.1.4. Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
+      - [3.1.4.1. Mobile Applications Wireframes](#3141-mobile-applications-wireframes)
+      - [3.1.4.2. Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)
+      - [3.1.4.3. Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)
+      - [3.1.4.4. Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)
+      - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping) 
+- [Capítulo IV: Product Implementation & Validation](#capítulo-iv-product-implementation--validation)
+- [4.1. Software Configuration Management](#41-software-configuration-management)
+    - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
+    - [4.1.2. Source Code Management](#412-source-code-management)
+    - [4.1.3. Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)
+    - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
+  - [4.2. Landing Page & Mobile Application Implementation](#42-landing-page--mobile-application-implementation)
+    - [4.2.1. Sprint 1](#421-sprint-1)
+      - [4.2.1.1. Sprint Planning 1](#4211-sprint-planning-1)
+      - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
+      - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
+      - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
+      - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
+      - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
+      - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
+      - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
+  - [4.3. Validation Interviews](#43-validation-interviews)
+    - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
+    - [4.3.2. Registro de Entrevistas](#432-registro-de-entrevistas)
+    - [4.3.3. Evaluaciones según heurísticas](#433-evaluaciones-según-heurísticas)
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+  - [Video App Validation](#video-app-validation)
+  - [Video About-the-product](#video-about-the-product)
   - [Video About-the-team](#video-about-the-team)
+- [Glosario](#glosario)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -1498,62 +1497,61 @@ MantenimientoProgramadoEvent: Se emite al sistema de notificaciones para alertar
 
 ---
 
-# Capítulo V: Solution UI/UX Design ( ESTO YA ES PARA LA TP )
+# Capítulo III: Solution UI/UX Design
 
-## 5.1. Product design
+## 3.1. Product design
 
-### 5.1.1. Style Guidelines
-#### 5.1.1.1. General Style Guidelines
+### 3.1.1. Style Guidelines
+#### 3.1.1.1. General Style Guidelines
 
-### 5.1.2. Information Architecture
-#### 5.1.2.1. Organization Systems
-#### 5.1.2.2. Labelling Systems
-#### 5.1.2.3. SEO Tags and Meta Tags
-#### 5.1.2.4. Searching Systems
-#### 5.1.2.5. Navigation Systems
+### 3.1.2. Information Architecture
+#### 3.1.2.1. Organization Systems
+#### 3.1.2.2. Labelling Systems
+#### 3.1.2.3. SEO Tags and Meta Tags
+#### 3.1.2.4. Searching Systems
+#### 3.1.2.5. Navigation Systems
 
-### 5.1.3. Landing Page UI Design
-#### 5.1.3.1. Landing Page Wireframe
-#### 5.1.3.2. Landing Page Mock-up
+### 3.1.3. Landing Page UI Design
+#### 3.1.3.1. Landing Page Wireframe
+#### 3.1.3.2. Landing Page Mock-up
 
-### 5.1.4. Mobile Applications UX/UI Design
-#### 5.1.4.1. Mobile Applications Wireframes
-#### 5.1.4.2. Mobile Applications Wireflow Diagrams
-#### 5.1.4.3. Mobile Applications Mock-ups
-#### 5.1.4.4. Mobile Applications User Flow Diagrams
-#### 5.1.4.5. Mobile Applications Prototyping
+### 3.1.4. Mobile Applications UX/UI Design
+#### 3.1.4.1. Mobile Applications Wireframes
+#### 3.1.4.2. Mobile Applications Wireflow Diagrams
+#### 3.1.4.3. Mobile Applications Mock-ups
+#### 3.1.4.4. Mobile Applications User Flow Diagrams
+#### 3.1.4.5. Mobile Applications Prototyping
 
 ---
 
-# Capítulo VI: Product Implementation, Validation & Deployment
+# Capítulo IV: Product Implementation & Validation
 
-## 6.1. Software Configuration Management
-### 6.1.1. Software Development Environment Configuration
-### 6.1.2. Source Code Management
-### 6.1.3. Source Code Style Guide & Conventions
-### 6.1.4. Software Deployment Configuration
+## 4.1. Software Configuration Management
+### 4.1.1. Software Development Environment Configuration
+### 4.1.2. Source Code Management
+### 4.1.3. Source Code Style Guide & Conventions
+### 4.1.4. Software Deployment Configuration
 
-## 6.2. Landing Page & Mobile Application Implementation
-### 6.2.X. Sprint n
-#### 6.2.X.1. Sprint Planning n
-#### 6.2.X.2. Sprint Backlog n
-#### 6.2.X.3. Development Evidence for Sprint Review
-#### 6.2.X.4. Testing Suite Evidence for Sprint Review
-#### 6.2.X.5. Execution Evidence for Sprint Review
-#### 6.2.X.6. Services Documentation Evidence for Sprint Review
-#### 6.2.X.7. Software Deployment Evidence for Sprint Review
-#### 6.2.X.8. Team Collaboration Insights during Sprint
+## 4.2. Landing Page & Mobile Application Implementation
+### 4.2.1. Sprint 1
+#### 4.2.1.1. Sprint Planning 1
+#### 4.2.1.2. Sprint Backlog 1
+#### 4.2.1.3. Development Evidence for Sprint Review
+#### 4.2.1.4. Testing Suite Evidence for Sprint Review
+#### 4.2.1.5. Execution Evidence for Sprint Review
+#### 4.2.1.6. Services Documentation Evidence for Sprint Review
+#### 4.2.1.7. Software Deployment Evidence for Sprint Review
+#### 4.2.1.8. Team Collaboration Insights during Sprint
 
-## 6.3. Validation Interviews
-### 6.3.1. Diseño de Entrevistas
-### 6.3.2. Registro de Entrevistas
-### 6.3.3. Evaluaciones según heurísticas
-
-## 6.4. Video About-the-Product
+## 4.3. Validation Interviews
+### 4.3.1. Diseño de Entrevistas
+### 4.3.2. Registro de Entrevistas
+### 4.3.3. Evaluaciones según heurísticas
 
 ---
 
 # Conclusiones
+## Conclusiones y recomendaciones
 
 **1\. Se ha identificado y validado una oportunidad de mercado clara y desatendida.**  
 **El análisis confirma la existencia de una brecha crítica en el sector de la construcción peruano: las PYMEs constructoras, a diferencia de las grandes empresas, operan con métodos manuales y descentralizados (como WhatsApp, Excel y cuadernos físicos) que generan ineficiencias, sobrecostos y falta de transparencia. Si bien existen soluciones tecnológicas internacionales, estas son financiera y operativamente inaccesibles para este segmento. Esta validación justifica plenamente el desarrollo de Engitrack como una solución affordable, intuitiva y adaptada a la realidad local, posicionándola para capturar un mercado desatendido y con un alto potencial de crecimiento en Latinoamérica.**
@@ -1561,10 +1559,14 @@ MantenimientoProgramadoEvent: Se emite al sistema de notificaciones para alertar
 **2\. El éxito de la solución depende de la validación de hipótesis clave sobre adopción y usabilidad, centradas en el supervisor de obra.**  
 **El plan Lean UX canvas identifica que el usuario crítico y el vector de adopción inicial es el supervisor de obra. Las hipótesis más importantes a validar de inmediato no son técnicas, sino de comportamiento y valor percibido: si los supervisores estarán dispuestos a cambiar sus hábitos establecidos y adoptar una herramienta digital, y si el valor que obtienen (ahorro de tiempo, reducción de errores) justifica el costo para la empresa. Por lo tanto, el siguiente paso crucial no es desarrollar toda la plataforma, sino realizar pruebas de usabilidad con prototipos de baja fidelidad y entrevistas para aprender de este usuario clave, minimizando el riesgo y asegurando que el producto final resuelva sus problemas reales de manera efectiva.**
 
-## Conclusiones y recomendaciones
+## Video App Validation
+
+## Video About-the-product
+
 ## Video About-the-team
 
----
+
+# Glosario
 
 # Bibliografía
 
