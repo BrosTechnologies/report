@@ -1702,6 +1702,28 @@ Para evitar que los usuarios se sientan perdidos en el volumen de información q
 
 #### 3.1.2.5. Navigation Systems
 
+Los sistemas de navegación de Engitrack están diseñados para guiar a los usuarios de manera intuitiva a través de la aplicación móvil y el Landing Page, asegurando que puedan cumplir sus objetivos con la mínima fricción. Se han definido patrones de navegación claros y estandarizados para cada plataforma, optimizados para su respectivo contexto de uso.
+
+##### **Sistema de Navegación para la Aplicación Móvil**
+
+La navegación en la aplicación móvil prioriza la eficiencia y el acceso rápido a las funcionalidades operativas del día a día.
+
+* **Navegación Primaria (Barra de Navegación Inferior):** La estructura principal de la aplicación se basará en una barra de navegación persistente ubicada en la parte inferior de la pantalla. Este patrón es el estándar de la industria para aplicaciones móviles, ya que ofrece acceso ergonómico a las secciones más importantes desde cualquier punto de la aplicación. La barra contendrá enlaces a `Inicio`, `Proyectos`, `Inventario` y `Más`, agrupando las funciones menos frecuentes en este último para mantener una interfaz limpia.
+
+* **Navegación Jerárquica (Drill-Down):** Los usuarios explorarán el contenido de manera jerárquica. Al seleccionar un elemento de una lista (ej. un proyecto), se les presentará una pantalla con su información detallada. Un botón "Atrás" en la parte superior de la pantalla les permitirá retroceder al nivel anterior de manera predecible.
+
+* **Pestañas (Tabs):** Para organizar el contenido dentro de secciones complejas, como la vista de "Detalle del Proyecto", se utilizarán pestañas. Esto permite segmentar la información en subcategorías (ej. `Resumen`, `Tareas`, `Reportes`) sin necesidad de navegar a pantallas diferentes.
+
+* **Botón de Acción Flotante (FAB):** Las acciones de creación primarias de cada módulo (ej. "Añadir Proyecto", "Registrar Entrada") serán accesibles a través de un botón de acción flotante. Su ubicación prominente en la esquina inferior derecha proporciona un punto de entrada claro y contextual para las tareas más comunes del usuario.
+
+##### **Sistema de Navegación para el Landing Page**
+
+La navegación en el sitio web está orientada a comunicar la propuesta de valor de Engitrack y guiar a los visitantes hacia la conversión.
+
+* **Navegación Primaria (Barra de Navegación Fija):** Se empleará una barra de navegación superior que permanecerá fija (sticky) durante el desplazamiento vertical. Esto garantiza acceso constante a las secciones clave (`Características`, `Beneficios`, `Contacto`) y al botón de llamado a la acción principal (`Solicitar Demo`).
+
+* **Navegación Secundaria (Pie de Página):** El pie de página (footer) servirá como un sistema de navegación secundario, conteniendo enlaces a información legal (`Términos y Condiciones`, `Política de Privacidad`) y a los perfiles de redes sociales de la empresa.
+
 ### 3.1.3. Landing Page UI Design
 #### 3.1.3.1. Landing Page Wireframe
 #### 3.1.3.2. Landing Page Mock-up
