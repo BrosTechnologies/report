@@ -1759,6 +1759,9 @@ Enlace a los mockups de la aplicación en Figma:
 # Capítulo IV: Product Implementation & Validation
 
 ## 4.1. Software Configuration Management
+
+En esta sección se describirán las herramientas, convenciones, referencias y configuraciones utilizadas durante el desarrollo del proyecto, las cuales ayudaron a mantener la coherencia y orden en el trabajo realizado.
+
 ### 4.1.1. Software Development Environment Configuration
 ### 4.1.2. Source Code Management
 ### 4.1.3. Source Code Style Guide & Conventions
