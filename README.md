@@ -1725,7 +1725,13 @@ La navegación en el sitio web está orientada a comunicar la propuesta de valor
 * **Navegación Secundaria (Pie de Página):** El pie de página (footer) servirá como un sistema de navegación secundario, conteniendo enlaces a información legal (`Términos y Condiciones`, `Política de Privacidad`) y a los perfiles de redes sociales de la empresa.
 
 ### 3.1.3. Landing Page UI Design
+
 #### 3.1.3.1. Landing Page Wireframe
+
+A continuación, mostramos los wireframes de la landing page, los cuales representan la estructura básica y el layout sin elementos gráficos detallados. Estos sirven como una guía inicial para el diseño visual, asegurando que todos los elementos necesarios estén presentes y correctamente organizados.
+
+Enlace a los wireframes de la Landing Page en Figma:
+
 #### 3.1.3.2. Landing Page Mock-up
 
 ### 3.1.4. Mobile Applications UX/UI Design
