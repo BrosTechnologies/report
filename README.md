@@ -1937,11 +1937,28 @@ Nota: Al aumentar Y, el valor de Z se reinicia a 0.
 
 Incrementa con correcciones de errores menores, integrando commits realizados en ramas de
 corrección (hotfix) que se fusionan con la rama principal.
-Este enfoque asegura que las versiones del proyecto sean claras y fácilmente interpretables por todos los
-miembros del equipo y usuarios finales.
 
+Este enfoque asegura que las versiones del proyecto sean claras y fácilmente interpretables por todos los  miembros del equipo y usuarios finales.
 
 ### 4.1.4. Software Deployment Configuration
+
+Para configurar el despliegue de la Lading Page, seguimos los pasos detallados a continuación utilizando
+___________________ como plataforma:
+
+Enlace del Despliegue de la Lading Page:
+
+- Paso a paso del despliegue del landing llenar aquí ___________
+
+Para configurar el despliegue del Backend, seguimos los pasos detallados a continuación utilizando _______________
+como plataforma:
+
+Enlace del Despliegue del Backend: 
+
+- Paso a paso del despliegue del Backend llenar aquí ___________
+
+Para configurar el despliegue del Frontend en Android Studio, utilizaremos ______________ como plataforma:
+
+Enlace para acceder al archivo APK:
 
 ## 4.2. Landing Page & Mobile Application Implementation
 ### 4.2.1. Sprint 1
