@@ -1550,7 +1550,35 @@ La jerarquía tipográfica se define de la siguiente manera:
 Con el fin de crear una interfaz ordenada y con un ritmo visual consistente, se implementa un **sistema de espaciado basado en una cuadrícula de 8px**. Todos los márgenes, paddings y distancias entre los componentes de la UI serán múltiplos de 8 (ej: 8px, 16px, 24px, 32px). Este enfoque sistemático elimina la ambigüedad en las decisiones de diseño y asegura que los layouts se sientan equilibrados y profesionales.
 
 ### 3.1.2. Information Architecture
+
 #### 3.1.2.1. Organization Systems
+
+Para garantizar que los usuarios de Engitrack puedan navegar y procesar la información de manera eficiente, la arquitectura de la información se ha estructurado aplicando sistemas de organización visual y de categorización de contenido bien definidos. Estas decisiones buscan crear una experiencia de usuario lógica, predecible y adaptada a las necesidades de cada rol.
+
+##### **Sistemas de Organización Visual**
+
+La disposición de los elementos en la interfaz seguirá los siguientes esquemas para comunicar estructura y prioridad:
+
+* **Jerárquica (Visual Hierarchy):** Este sistema se utilizará para destacar la información más relevante y guiar la atención del usuario. Se aplicará principalmente en el **Dashboard Principal**, donde las métricas clave del proyecto (ej. porcentaje de avance, estado del presupuesto) se mostrarán en tarjetas con mayor prominencia visual. La jerarquía tipográfica (títulos, subtítulos y párrafos) se respetará en toda la aplicación para asegurar una correcta legibilidad y escaneo visual del contenido.
+
+* **Secuencial (Step-by-step):** Para las tareas complejas que requieren múltiples pasos, se implementará una organización secuencial que guiará al usuario a través del proceso de principio a fin, minimizando la carga cognitiva y la probabilidad de error. Este sistema se aplicará en flujos de trabajo críticos como la **generación de un reporte diario**, el **registro de un nuevo incidente** y la **incorporación de nuevos trabajadores o materiales** a un proyecto.
+
+* **Matricial (Matrix):** Para la visualización de conjuntos de datos complejos, se utilizará un formato matricial (tablas o cuadrículas). Esto permitirá a los usuarios consultar, ordenar y filtrar la información según diversos criterios. Este esquema será fundamental en las secciones de **Control de Inventario** y la **Lista de Trabajadores**, donde la capacidad de comparar y gestionar múltiples registros es esencial.
+
+##### **Esquemas de Categorización del Contenido**
+
+El contenido de la aplicación se agrupará utilizando los siguientes esquemas para asegurar que la información esté ordenada de manera lógica:
+
+* **Alfabético:** Se aplicará como método de ordenamiento para facilitar la búsqueda en listas largas. Las listas de **Trabajadores**, **Proveedores** y el catálogo de **Materiales** se ordenarán alfabéticamente por defecto.
+
+* **Cronológico:** Este esquema será el pilar para todo contenido que represente un historial de eventos. La información se presentará en orden cronológico descendente (lo más reciente primero), lo cual es un patrón intuitivo para el seguimiento de actividades. Se utilizará en el historial de **Reportes**, las **Transacciones de Inventario** y la lista de **Incidentes**.
+
+* **Por Tópicos (By Topic):** La estructura de navegación principal de la aplicación se organizará por tópicos, donde cada uno corresponde a un dominio funcional clave del sistema. Esta separación modular simplifica la interfaz y permite a los usuarios acceder directamente al área de su interés. Los tópicos principales serán: **Proyectos, Inventario, Trabajadores, Maquinaria e Incidentes**.
+
+* **Según Audiencia (By Audience):** El contenido y las funcionalidades se adaptarán al rol del usuario para ofrecer una experiencia relevante y segura.
+  * El **Supervisor de Obra** tendrá acceso a una vista operativa completa, con permisos para la gestión activa de los recursos y la generación de reportes.
+  * El **Contratante** dispondrá de una vista de alto nivel y de solo lectura, enfocada en dashboards de seguimiento, resúmenes de avance y la consulta de informes consolidados.
+
 #### 3.1.2.2. Labelling Systems
 #### 3.1.2.3. SEO Tags and Meta Tags
 #### 3.1.2.4. Searching Systems
