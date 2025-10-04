@@ -1763,6 +1763,71 @@ Enlace a los mockups de la aplicación en Figma:
 En esta sección se describirán las herramientas, convenciones, referencias y configuraciones utilizadas durante el desarrollo del proyecto, las cuales ayudaron a mantener la coherencia y orden en el trabajo realizado.
 
 ### 4.1.1. Software Development Environment Configuration
+
+En esta parte, se mencionarán los distintos programasque el equipo utilizó para  llevar a cabo las tareas relacionadas con la creación del proyecto.
+
+**Project Management**
+
+- Trello: https://trello.com/
+
+La plataforma de Trello se empleó para la gestión de las tareas y la organización del flujo del trabajo en  el proyecto. Las tareas se presentaron dentro de tarjetas en listas con el integrante encargado de  realizarlas. Además, utilizamos funcionalidades como agregar etiquetas de colores y marcar el proceso  de las tareas. De esta manera, pudimos hacer seguimiento a nuestros avances en el proyecto.
+
+- Google Meet: https://meet.google.com/landing 
+
+Se utilizó la plataforma de Google Meet para realizar
+reuniones entre los integrantes del grupo, con el fin de coordinar las tareas de cada uno, compartir
+ideas sobre cómo se llevará a cabo el trabajo y definir las fechas de entrega.
+
+**Requirements Management**
+
+- Trello: https://trello.com/
+
+Trello se empleó para organizar los requisitos de la aplicación. En él se gestionó el product backlog,
+ordenado según la prioridad aplicando Fibonacci para enumerar las historias de usuario, y en otra
+sección organizándolas según las epics.
+
+**Product UX/UI Design**
+
+- Figma: https://www.figma.com/
+
+Figma nos ayudó a desarrollar los wireframes, mockups y prototipos de la aplicación móvil.
+
+- Miro: https://miro.com/es/
+
+Miro fue de utilidad para realizar los As-Is Scenario Mapping , To-Be Scenario Mapping y StrategicLevel Domain-Driven Design para cada uno de los segmentos objetivos.
+
+- LucidChart: https://www.lucidchart.com/
+
+LucidChart se utilizó para la creación de los diagramas de flujo y los diagramas de arquitectura de
+software.
+
+- Vertabelo: https://vertabelo.com/
+
+Vertabelo se uso para hacer los diagramas de los dos Bounded Context Database Design Diagram
+principales
+
+- UXPressia: https://uxpressia.com/
+
+UXPressia se empleó para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps.
+Usamos plantillas de UXPressia para elaborar cada una de estas herramientas, permitiendo exportar el
+trabajo realizado para incluirlo en el proyecto.
+
+**Software Development**
+
+- Landing Page
+
+La landing page fue desarrollada utilizando Html , CSS y JavaScript (JS), lo que permitió un desarrollo
+más estructurado y escalable. Además, se utilizaron estilos personalizados con CSS. El diseño y
+desarrollo fueron optimizados para su despliegue en GitHub Page.
+
+- Frontend mobile application with Android Studio
+Se utilizó Android Studio para diseñar la interfaz de un segmento objetivo de la aplicación móvil de
+forma nativa. Este frontend se construyó usando XML para definir las vistas (pantallas, botones, textos,
+etc.) y Kotlin como lenguajes de programación para controlar la lógica de la interfaz. Esta parte se
+encarga de la interacción directa del usuario con la app, permitiendo una experiencia fluida y acorde a
+las pautas de diseño de Android.
+
+
 ### 4.1.2. Source Code Management
 ### 4.1.3. Source Code Style Guide & Conventions
 ### 4.1.4. Software Deployment Configuration
