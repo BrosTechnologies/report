@@ -1502,7 +1502,52 @@ MantenimientoProgramadoEvent: Se emite al sistema de notificaciones para alertar
 ## 3.1. Product design
 
 ### 3.1.1. Style Guidelines
-#### 3.1.1.1. General Style Guidelines
+
+#### 3.1.1.1. General Style Guidelines 
+
+La presente guía de estilo establece los fundamentos visuales y comunicacionales para todos los productos digitales de **Engitrack**. El objetivo principal es garantizar una experiencia de usuario consistente, profesional y coherente, sentando las bases de un sistema de diseño escalable. Para ello, se ha decidido adoptar **Material Design 3 de Google** como sistema de diseño base, adaptándolo a la identidad de nuestra marca.
+
+#### **Branding y Tono de Comunicación**
+
+La identidad de Engitrack se construye sobre una base de confianza y eficiencia, valores críticos para el sector de la construcción.
+
+* **Personalidad de la Marca:** Engitrack se proyecta como una marca **Confiable, Eficiente y Profesional**. Buscamos que los supervisores y contratantes perciban la plataforma no solo como una herramienta, sino como un socio estratégico en la gestión de sus proyectos.
+
+* **Tono de Comunicación:** El lenguaje utilizado en la plataforma es un reflejo directo de nuestra personalidad. Por ello, el tono será:
+  * **Serio y Formal:** Para comunicar con la profesionalidad que el entorno B2B (Business-to-Business) demanda.
+  * **Respetuoso y Sereno:** Para transmitir control, orden y seguridad a los usuarios que gestionan entornos de trabajo complejos y de alto riesgo.
+
+#### **Paleta de Colores**
+
+La paleta de colores ha sido seleccionada para reforzar nuestra identidad de marca, utilizando un sistema armónico y accesible basado en Material Design. El color azul primario fue elegido por su asociación psicológica con la confianza, la estabilidad y la tecnología.
+
+| Rol del Color       | Nombre              | Código HEX | Muestra |
+| :------------------ | :------------------ | :--------- | :------ |
+| **Primario** | Primary Blue        | `#2196F3`  | 🔵      |
+| **Secundario** | Secondary Teal      | `#009688`  | 🟢      |
+| **Error** | Error Red           | `#D32F2F`  | 🔴      |
+| **Superficie (Fondo)**| Surface             | `#FFFFFF`  | ⚪      |
+| **Texto Primario** | On Surface          | `#212121`  | ⚫      |
+| **Texto Secundario**| On Surface Variant  | `#757575`  | ⚫      |
+
+#### **Tipografía**
+
+Para asegurar la máxima legibilidad y una estética limpia en todas las plataformas (móvil y web), se ha adoptado la familia tipográfica **Roboto**, el estándar oficial de Material Design. Su versatilidad y claridad la hacen ideal para interfaces de usuario funcionales.
+
+La jerarquía tipográfica se define de la siguiente manera:
+
+| Elemento                 | Fuente | Grosor (Weight) | Tamaño (Size) |
+| :----------------------- | :----- | :-------------- | :------------ |
+| **Headline Large (H1)** | Roboto | Regular         | 32px          |
+| **Headline Medium (H2)** | Roboto | Regular         | 28px          |
+| **Title Large (Título)** | Roboto | Medium          | 22px          |
+| **Body Large (Párrafo)** | Roboto | Regular         | 16px          |
+| **Body Medium** | Roboto | Regular         | 14px          |
+| **Label Large (Botón)** | Roboto | Medium          | 14px          |
+
+#### **Espaciado (Spacing)**
+
+Con el fin de crear una interfaz ordenada y con un ritmo visual consistente, se implementa un **sistema de espaciado basado en una cuadrícula de 8px**. Todos los márgenes, paddings y distancias entre los componentes de la UI serán múltiplos de 8 (ej: 8px, 16px, 24px, 32px). Este enfoque sistemático elimina la ambigüedad en las decisiones de diseño y asegura que los layouts se sientan equilibrados y profesionales.
 
 ### 3.1.2. Information Architecture
 #### 3.1.2.1. Organization Systems
