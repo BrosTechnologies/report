@@ -2062,7 +2062,12 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas.
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
+Durante este Sprint, se documentaron los endpoints desarrollados en el backend utilizando la
+especificación OpenAPI (swagger), con el objetivo de facilitar su comprensión, prueba y futura integración por
+parte de otros miembros del equipo o desarrolladores externos.
 
+A continuación, se presenta capturas de la relación de endpoints implementados y documentados, indicando
+las acciones que soportan, sus respectivos métodos HTTP, parámetros relevantes, ejemplo de uso y respuesta.
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
