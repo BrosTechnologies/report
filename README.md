@@ -1828,8 +1828,66 @@ etc.) y Kotlin como lenguajes de programación para controlar la lógica de la i
 encarga de la interacción directa del usuario con la app, permitiendo una experiencia fluida y acorde a
 las pautas de diseño de Android.
 
+- Backend 
+
+Se utilizó ____________ (Luego se completa) 
+
+**Software Testing**
+
+Para las pruebas funcionales de la Landing Page , el Backend y la aplicación móvil, se utilizaron herramientas
+de desarrollo de navegadores web como Google Chrome y Microsoft Edge.
+
+**Software Deployment**
+
+- Despliegue landing:
+- Despliegue Backend: 
+- Despliegue Frontend: 
+
+**Software Documentation**
+
+- Structurizr: https://structurizr.com/
+  
+Se empleó Structurizr para la creación de diagramas C4, cubriendo los niveles de contexto, contenedor
+  y componentes. Esta herramienta facilitó la visualización de la arquitectura del sistema utilizando una
+  sintaxis basada en texto, ideal para mantener la documentación actualizada y consistente.
+
+- GitHub: https://github.com/
+  
+GitHub se utilizó tanto para la creación de la documentación (report), Landing Page, Backend y la
+  aplicación móvil. Su sistema de control de versiones y las herramientas para trabajo colaborativo
+  permitieron gestionar cambios de manera eficiente.
 
 ### 4.1.2. Source Code Management
+
+La administración y estructuración de las múltiples modificaciones del proyecto se realizó mediante la
+creación de varios repositorios en GitHub. Nuestra organización se estructuró de la siguiente manera:
+
+**Organización:**
+
+https://github.com/BrosTechnologies
+
+- Repositorio de la documentación: https://github.com/BrosTechnologies/report 
+- Repositorio de la Landing Page: 
+- Repositorio de la Mobile Application:
+- Repositorio del Backend: 
+
+Para gestionar eficientemente los cambios en el código fuente, se utilizó **Gitflow**, un modelo de ramificación
+que facilita el desarrollo colaborativo. Se establecieron una rama principal y varias ramas auxiliares para
+mantener un flujo de trabajo organizado.
+
+**Ramas principales:**
+
+- main: Contiene las versiones oficiales del proyecto, listas para ser desplegadas en producción. Es la rama más
+estable y representa el estado final del código.
+
+**Ramas auxiliares:**
+
+- develop: Estas ramas se crean para desarrollar nuevas funcionalidades. Cada rama está enfocada en una tarea
+específica o mejora. Una vez completada y probada, se fusiona en el main
+
+Este modelo de ramificación permitió mantener un control riguroso sobre las versiones del código y facilitar el
+trabajo colaborativo entre los miembros del equipo
+
 ### 4.1.3. Source Code Style Guide & Conventions
 ### 4.1.4. Software Deployment Configuration
 
