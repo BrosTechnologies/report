@@ -2071,7 +2071,32 @@ las acciones que soportan, sus respectivos métodos HTTP, parámetros relevantes
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
+Durante este Sprint, no se realizaron cambios adicionales en el proceso de despliegue. Sin embargo, se
+mantiene operativo el entorno previamente configurado y desplegado para cada uno de los componentes del
+sistema.
+
+A continuación, se presentan los enlaces de despliegue correspondientes, junto con una captura
+representativa de cada uno:
+
+**Landing Page:**
+
+**Backend:**
+
+**Aplicación Móvil:**
+
+Imagen de la Landing Page funcionando en el navegador
+
+Imagen del Postman o Swagger mostrando que el backend responde 
+
+Imagen de la app móvil mostrando que funciona
+
 #### 4.2.1.8. Team Collaboration Insights during Sprint
+
+El equipo desarrolló el Landing Page, Backend y la Aplicación móvil . En la aplicación móvil , se enfoco mas en
+las vistas y la navegacion entre esas.
+
+A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del
+equipo a través de la plataforma GitHub:
 
 ## 4.3. Validation Interviews
 ### 4.3.1. Diseño de Entrevistas
