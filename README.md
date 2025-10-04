@@ -1734,6 +1734,10 @@ Enlace a los wireframes de la Landing Page en Figma:
 
 #### 3.1.3.2. Landing Page Mock-up
 
+Esta sección presenta los mockups de la landing page, que ilustran el diseño final con detalles gráficos, tipografía, y color. Los mockups son fundamentales para visualizar cómo se verá la página final y para realizar ajustes antes del desarrollo.
+
+Enlace a la mockup de la Landing Page en Figma:
+
 ### 3.1.4. Mobile Applications UX/UI Design
 #### 3.1.4.1. Mobile Applications Wireframes
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
