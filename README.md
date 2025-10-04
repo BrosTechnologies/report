@@ -1914,6 +1914,32 @@ Nuestro equipo sigue las Conventional Commits en su versión 1.0.0 (disponible e
 específico).
 - description: Ofrece un resumen conciso de los cambios implementados.
 
+##### **Convenciones de Versionado de Lanzamientos**
+
+Seguimos el estándar **Semantic Versioning 2.0.0**, en el cual las versiones se presentan como X.Y.Z, con las
+siguientes interpretaciones:
+
+- X (Major):
+
+Incrementa con cambios incompatibles con versiones anteriores. Comienza en 0 durante el desarrollo
+inicial y pasa a 1 cuando el proyecto está listo para su lanzamiento público.
+
+Nota: Al aumentar X, los valores de Y y Z se reinician a 0.
+
+- Y (Minor):
+
+Incrementa con cambios compatibles que agregan nuevas funcionalidades, generalmente provenientes
+de ramas release.
+
+Nota: Al aumentar Y, el valor de Z se reinicia a 0.
+
+- Z (Patch):
+
+Incrementa con correcciones de errores menores, integrando commits realizados en ramas de
+corrección (hotfix) que se fusionan con la rama principal.
+Este enfoque asegura que las versiones del proyecto sean claras y fácilmente interpretables por todos los
+miembros del equipo y usuarios finales.
+
 
 ### 4.1.4. Software Deployment Configuration
 
