@@ -1961,8 +1961,23 @@ Para configurar el despliegue del Frontend en Android Studio, utilizaremos _____
 Enlace para acceder al archivo APK:
 
 ## 4.2. Landing Page & Mobile Application Implementation
+
 ### 4.2.1. Sprint 1
+
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 1,
+enfocado en el desarrollo de la landing page, Backend y el frontend. Se detalla el progreso tangible y
+funcional, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del
+equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una
+cooperación efectiva.
+
 #### 4.2.1.1. Sprint Planning 1
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+  <img src="images/Sprint 1.png" alt="PB" width="1000"> 
+
+
+
 #### 4.2.1.2. Sprint Backlog 1
 #### 4.2.1.3. Development Evidence for Sprint Review
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
