@@ -2051,9 +2051,18 @@ En esta parte mostramos las tareas que se realizaron en este sprint.
 
 #### 4.2.1.5. Execution Evidence for Sprint Review
 
+En el Sprint 1 hemos logrado implementar la Lading Page, Backend como la aplicación móvil con las
+funcionalidades más relevantes.
 
+A continuación, se presentan capturas de pantalla de las vistas implementadas.
+
+1. Landing Page 
+2. Backend
+3. Aplicación Móvil
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
