@@ -1821,6 +1821,7 @@ más estructurado y escalable. Además, se utilizaron estilos personalizados con
 desarrollo fueron optimizados para su despliegue en GitHub Page.
 
 - Frontend mobile application with Android Studio
+
 Se utilizó Android Studio para diseñar la interfaz de un segmento objetivo de la aplicación móvil de
 forma nativa. Este frontend se construyó usando XML para definir las vistas (pantallas, botones, textos,
 etc.) y Kotlin como lenguajes de programación para controlar la lógica de la interfaz. Esta parte se
