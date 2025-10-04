@@ -1627,7 +1627,79 @@ Para describir el estado de un objeto o un campo de información, se usarán eti
 * **Campos de datos:** `Stock Disponible`, `Fecha de Inicio`, `Fecha de Fin`.
 
 #### 3.1.2.3. SEO Tags and Meta Tags
+
+Para asegurar la visibilidad de Engitrack tanto en motores de búsqueda como en las tiendas de aplicaciones, se ha definido una estrategia de etiquetas y metadatos. Esta estrategia se divide en optimización para motores de búsqueda (SEO) para el Landing Page y optimización para tiendas de aplicaciones (ASO) para el producto móvil.
+
+##### **SEO Tags para el Landing Page**
+
+Las siguientes etiquetas se implementarán en el sitio web para mejorar su posicionamiento orgánico y atraer al público objetivo correcto.
+
+* **Title Tag:** `Engitrack | Software de Gestión de Obras para Constructoras en Perú`
+  * **Sustento:** Este título es conciso e incluye la marca y las palabras clave más relevantes ("Gestión de Obras", "Constructoras", "Perú"), comunicando de inmediato el propósito y el mercado objetivo de la plataforma.
+
+* **Meta Description:** `Optimiza tus proyectos de construcción con Engitrack. Controla inventario, personal y reportes en tiempo real. ¡La herramienta digital para PYMEs constructoras en Perú!`
+  * **Sustento:** Redactada para ser atractiva en los resultados de búsqueda, esta descripción resume los beneficios clave y define claramente al público objetivo (PYMEs constructoras), incentivando el clic.
+
+* **Meta Keywords:** `gestión de obras, software construcción perú, control de proyectos, app para constructoras, pymes construcción, manejo de inventario obra, reportes de avance`
+  * **Sustento:** Se incluye esta lista de términos de búsqueda específicos que nuestro segmento objetivo utilizaría, cumpliendo con los requisitos del enunciado para la estructuración del informe.
+
+* **Meta Author:** `BrosTechnologies`
+  * **Sustento:** Se atribuye la propiedad intelectual y desarrollo del sitio a la startup.
+
+##### **ASO (App Store Optimization) para la Aplicación Móvil**
+
+Para la publicación de la aplicación en Google Play Store y Apple App Store, se utilizarán los siguientes elementos para maximizar su visibilidad y atractivo.
+
+* **App Title:** `Engitrack: Gestión de Obras`
+  * **Sustento:** Combina el nombre de la marca con su función principal, mejorando la detectabilidad para usuarios que buscan soluciones de "gestión de obras".
+
+* **App Subtitle:** `Controla tus proyectos de construcción.`
+  * **Sustento:** Es una frase corta y descriptiva que refuerza el propósito central de la aplicación de manera inmediata.
+
+* **App Keywords:** `construcción, obra, proyectos, inventario, reportes, pyme, supervisor, contratista, perú, ingeniería`
+  * **Sustento:** Corresponden a los términos de búsqueda más probables que un profesional del sector utilizaría dentro de las tiendas de aplicaciones.
+
+* **App Description:**
+  * **Descripción Corta:** `La app para supervisores de obra. Gestiona personal, inventario y reportes de avance.`
+  * **Descripción Larga:** `¡Lleva la gestión de tus obras al siguiente nivel con Engitrack! Diseñada para las PYMEs constructoras del Perú, nuestra plataforma te permite centralizar toda la información de tus proyectos en un solo lugar.
+
+    Con Engitrack podrás:
+    - Controlar el inventario de materiales en tiempo real.
+    - Registrar la asistencia y las tareas del personal de obra.
+    - Generar reportes de avance diarios con evidencia fotográfica.
+    - Mejorar la comunicación y la transparencia con tus contratantes.
+
+    Optimiza tus recursos, reduce sobrecostos y toma decisiones informadas desde cualquier lugar. ¡Descarga Engitrack y empieza a construir de manera más eficiente!`
+  * **Sustento:** La descripción está estructurada para captar la atención rápidamente (descripción corta) y luego detallar los beneficios y funcionalidades clave de forma clara y persuasiva (descripción larga), utilizando un formato de lista para facilitar la lectura y destacando el valor agregado para el usuario.
+
 #### 3.1.2.4. Searching Systems
+
+Para evitar que los usuarios se sientan perdidos en el volumen de información que Engitrack gestionará, se implementará un robusto sistema de búsqueda contextual en cada uno de los módulos principales. El diseño de estos sistemas se centra en ofrecer al usuario medios de ayuda eficientes para localizar datos específicos a través de búsquedas de texto y filtros relevantes.
+
+##### **Búsqueda de Proyectos**
+
+* **Opción de Búsqueda:** La pantalla principal de "Proyectos" contará con una barra de búsqueda prominente que permitirá la búsqueda por **nombre del proyecto**.
+* **Filtros Disponibles:** Se incluirá un menú de filtros para refinar los resultados por **Estado** (`Activo`, `En Pausa`, `Completado`) y por **Rango de Fechas** de inicio.
+* **Presentación de Resultados:** La lista de proyectos se actualizará de forma instantánea a medida que el usuario escribe o aplica los filtros, mostrando las tarjetas de los proyectos que coinciden con los criterios. Esto proporciona retroalimentación inmediata y agiliza el proceso de búsqueda.
+
+##### **Búsqueda en Inventario**
+
+* **Opción de Búsqueda:** Dentro de la sección de "Inventario" de un proyecto, el usuario podrá buscar ítems por **nombre del material**.
+* **Filtros Disponibles:** La búsqueda podrá ser refinada con filtros por **Proveedor**, **Estado de Stock** (`En Stock`, `Stock Bajo`) y, en la vista de historial, por **Tipo de Transacción** (`Entrada`, `Salida`).
+* **Presentación de Resultados:** Los resultados se visualizarán mediante la actualización dinámica de la tabla de materiales. El sistema ocultará las filas que no coincidan con los criterios, presentando una vista limpia y enfocada de los ítems buscados.
+
+##### **Búsqueda de Trabajadores**
+
+* **Opción de Búsqueda:** En la sección "Trabajadores", el supervisor podrá localizar a un miembro del personal buscando por su **nombre**.
+* **Filtros Disponibles:** Se podrá filtrar la lista por el **Rol** del trabajador (ej. `Capataz`, `Obrero`).
+* **Presentación de Resultados:** La lista de trabajadores se filtrará en tiempo real, mostrando únicamente las tarjetas o filas correspondientes a los individuos que cumplen con el criterio de búsqueda.
+
+##### **Búsqueda de Incidentes**
+
+* **Opción de Búsqueda:** Se habilitará una búsqueda por **palabras clave** dentro del título o la descripción de los incidentes reportados, permitiendo una localización flexible de la información.
+* **Filtros Disponibles:** Los usuarios podrán filtrar la lista de incidentes por **Severidad** (`Alta`, `Media`, `Baja`), **Estado** (`Pendiente`, `Resuelto`) y **Rango de Fechas** de ocurrencia.
+* **Presentación de Resultados:** La interfaz mostrará una lista actualizada de las tarjetas de incidentes que coincidan con los términos de búsqueda y los filtros aplicados.
+
 #### 3.1.2.5. Navigation Systems
 
 ### 3.1.3. Landing Page UI Design
