@@ -1888,7 +1888,33 @@ específica o mejora. Una vez completada y probada, se fusiona en el main
 Este modelo de ramificación permitió mantener un control riguroso sobre las versiones del código y facilitar el
 trabajo colaborativo entre los miembros del equipo
 
-### 4.1.3. Source Code Style Guide & Conventions
+### 4.1.3. Source Code Style Guide & Conventions 
+
+- Utilizaremos el lenguaje de etiquetas HTML para el desarrollo principal de nuestra Landing Page.
+- Utilizaremos el lenguaje CSS para aplicar los estilos a la estructura de nuestra Landing Page.
+- Implementaremos el lenguaje JavaScript para añadir interactividad y funcionalidades dinámicas a la
+Landing Page.
+- Utilizaremos el lenguaje Kotlin para el desarrollo del frontend móvil en Android Studio, permitiendo
+crear interfaces nativas y fluidas en dispositivos Android.
+- se utilizo _______________________ para el desarrollo del backend permitiendo crear APIs
+RESTful que se comunican con una base de datos ___________________ para gestionar la lógica del negocio y el
+intercambio de datos con el frontend.
+
+##### **Convenciones de Commits** 
+
+Nuestro equipo sigue las Conventional Commits en su versión 1.0.0 (disponible en https://www.conventionalcommits.org/en/v1.0.0/) para garantizar claridad y coherencia en los registros. La estructura es la siguiente:
+
+**Formato:**
+
+`<type>[scope opcional]: <description>`
+
+- type: Indica el tipo de modificación realizada, con opciones como feat (nueva funcionalidad), fix
+(corrección de errores), docs (documentación), etc.
+- scope (opcional): Define el alcance del cambio realizado en el código (e.g., un módulo o componente
+específico).
+- description: Ofrece un resumen conciso de los cambios implementados.
+
+
 ### 4.1.4. Software Deployment Configuration
 
 ## 4.2. Landing Page & Mobile Application Implementation
