@@ -1580,6 +1580,52 @@ El contenido de la aplicación se agrupará utilizando los siguientes esquemas p
   * El **Contratante** dispondrá de una vista de alto nivel y de solo lectura, enfocada en dashboards de seguimiento, resúmenes de avance y la consulta de informes consolidados.
 
 #### 3.1.2.2. Labelling Systems
+
+El sistema de etiquetado de Engitrack se ha diseñado con los principios de simplicidad y claridad como pilares fundamentales. El objetivo es construir un lenguaje de interfaz consistente y predecible que minimice la carga cognitiva del usuario y evite cualquier tipo de ambigüedad. Para ello, se utilizarán etiquetas concisas y orientadas a la acción, estandarizando la terminología en toda la aplicación.
+
+##### **Etiquetas de Navegación Principal**
+
+La navegación principal de la aplicación utilizará sustantivos directos que describen de forma inequívoca el contenido de cada sección. Esto permite a los usuarios identificar y acceder rápidamente al área funcional que necesitan.
+
+* **Inicio:** Etiqueta para el dashboard o pantalla principal.
+* **Proyectos:** Para el área de gestión de proyectos.
+* **Inventario:** Para la gestión de materiales y control de stock.
+* **Trabajadores:** Para la administración del personal de obra.
+* **Maquinaria:** Para el seguimiento de maquinaria y equipos.
+* **Incidentes:** Para el registro y consulta de incidentes.
+* **Mi Cuenta:** Para el acceso al perfil y configuración del usuario.
+
+##### **Etiquetas de Acciones Principales (Call to Action - CTA)**
+
+Los botones que desencadenan las acciones más importantes seguirán un formato de **"Verbo + Sustantivo"**. Esta estructura comunica de forma explícita el resultado de la interacción, haciendo la interfaz más intuitiva.
+
+* **+ Nuevo Proyecto**
+* **Generar Reporte**
+* **Registrar Entrada** (Inventario)
+* **Registrar Salida** (Inventario)
+* **Añadir Trabajador**
+* **Reportar Incidente**
+
+##### **Etiquetas de Acciones de Gestión**
+
+Para las acciones secundarias, como la gestión de datos dentro de formularios o listas, se utilizarán términos universales y estandarizados en el diseño de interfaces. Esto reduce la curva de aprendizaje y aprovecha los modelos mentales que los usuarios ya poseen.
+
+* **Guardar**
+* **Cancelar**
+* **Editar**
+* **Eliminar**
+* **Ver Detalles**
+* **Aplicar Filtros**
+
+##### **Etiquetas de Estado y Datos**
+
+Para describir el estado de un objeto o un campo de información, se usarán etiquetas breves y precisas que comuniquen el contexto de un solo vistazo.
+
+* **Estado del Proyecto:** `Activo`, `En Pausa`, `Completado`.
+* **Severidad del Incidente:** `Alta`, `Media`, `Baja`.
+* **Estado del Incidente:** `Pendiente`, `Resuelto`.
+* **Campos de datos:** `Stock Disponible`, `Fecha de Inicio`, `Fecha de Fin`.
+
 #### 3.1.2.3. SEO Tags and Meta Tags
 #### 3.1.2.4. Searching Systems
 #### 3.1.2.5. Navigation Systems
