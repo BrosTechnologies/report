@@ -1976,7 +1976,58 @@ En esta parte mostramos las tareas que se realizaron en este sprint.
 
   <img src="images/Sprint 1.png" alt="PB" width="1000"> 
 
-
+<table style="width:100%; border-collapse: collapse;">
+    <tr>
+        <th style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint #</th>
+        <th style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint 1</th>
+    </tr>
+    <tr>
+        <th colspan="2" style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint Planning Background</th>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Date</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">05-10-2025</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Time</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">5:00 pm - 10:00 pm</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Location</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Canal de Voz de Discord</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Prepared By</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Fernández Remón, Roy</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Attendees (to planning meeting)</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Bellido Salas, Raúl<br>Castro Sanchez, Amir Gabriel<br>Gonzales Valverde, Carlos Matthew<br>Prado Vargas, Mario Benjamín<br>Fernández Remón, Roy</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 0 Review Summary</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Debido a que es nuestro primer sprint de desarrollo, no existe un review summary del sprint.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 0 Retrospective Summary</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Debido a que es nuestro primer sprint de desarrollo, no existen planes de mejora.</td>
+    </tr>
+    <tr>
+        <th colspan="2" style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 1 Goal</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">El objetivo principal de este sprint es desarrollar la Landing Page, el Backend y el Frontend de la aplicación móvil enfocándonos en la estructura inicial, la conexión y la presentación básica de funcionalidades clave.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 1 Velocity</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">8</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sum of Story Points</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">35</td>
+    </tr>
+</table>
 
 #### 4.2.1.2. Sprint Backlog 1
 #### 4.2.1.3. Development Evidence for Sprint Review
