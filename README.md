@@ -267,6 +267,8 @@ del ABET – EAC - Student Outcome 7.
 | **Castro Sanchez, Amir Gabriel** | Implementar un sistema integral de testing automatizado que alcance una cobertura de código del noventa por ciento para el proyecto principal, estableciendo métricas y reportes semanales durante los próximos 2 meses. | Completar un bootcamp intensivo de desarrollo móvil con Flutter con una duración de 8 semanas, que culmine con el desarrollo y publicación de una aplicación en stores oficiales. |
 | **Gonzales Valverde, Carlos Matthew** | Aumentar la velocidad y eficiencia de desarrollo en un veinticinco por ciento mediante la adopción de nuevas herramientas y metodologías, midiendo el progreso con métricas específicas durante un período de 5 meses. | Especializarse en inteligencia artificial aplicada al software mediante un curso avanzado de 100 horas, implementando un proyecto de machine learning con un dataset real antes de finalizar el año. |
 
+---
+
 # Capítulo I: Presentación
 
 ## 1.1. Startup Profile
@@ -445,7 +447,7 @@ Ubicación: Principalmente en zonas urbanas y semiurbanas de Lima Metropolitana,
 
 Desafíos: Necesitan que las obras sean entregadas a tiempo para evitar interrupciones en sus operaciones o pérdidas económicas. Además, esperan que todo el proceso esté en regla (licencias, seguros, normas de construcción y seguridad laboral) y que exista transparencia en el uso de materiales y recursos.
 
-
+---
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -2117,12 +2119,15 @@ El análisis confirma la existencia de una brecha crítica en el sector de la co
 2\. El éxito de la solución depende de la validación de hipótesis clave sobre adopción y usabilidad, centradas en el supervisor de obra.
 El plan Lean UX canvas identifica que el usuario crítico y el vector de adopción inicial es el supervisor de obra. Las hipótesis más importantes a validar de inmediato no son técnicas, sino de comportamiento y valor percibido: si los supervisores estarán dispuestos a cambiar sus hábitos establecidos y adoptar una herramienta digital, y si el valor que obtienen (ahorro de tiempo, reducción de errores) justifica el costo para la empresa. Por lo tanto, el siguiente paso crucial no es desarrollar toda la plataforma, sino realizar pruebas de usabilidad con prototipos de baja fidelidad y entrevistas para aprender de este usuario clave, minimizando el riesgo y asegurando que el producto final resuelva sus problemas reales de manera efectiva.
 
+---
+
 ## Video App Validation
 
 ## Video About-the-product
 
 ## Video About-the-team
 
+---
 
 # Glosario
 
