@@ -1002,9 +1002,10 @@ Este flujo es clave para la atención temprana de riesgos y la gestión de la se
 #### 2.5.1.3. Bounded Context Canvases
 
 <p align="center">
-  <img src="images/bounded_step4.jpg" alt="PB" width="1000">
+  <img src="images/bounded_canvas.png" alt="PB" width="100%">
 </p> 
 
+**Link del MIRO:** https://miro.com/welcomeonboard/VFVJaE96M1NLaC82QjlnVmZTWlF2emkxcHRPa1pJUWRmQlFqVXdaQi9SWmcvaGtVOVh1QjFyaUtiaHhWYjdGOXlUMFBSMjhqd1lNdDlTUnV1SE1FSUtjY0J5Zm1RaUQ3YTBuMmxES3VDV3hJQmp3NkFqOXR5by9QZEdoYnI4aVVnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=56340824162
 
 ### 2.5.2. Context Mapping
 El equipo partió de las funcionalidades clave detectadas (User Stories y Event Storming) en el producto (EngiTrack) y definió cinco bounded contexts principales:
