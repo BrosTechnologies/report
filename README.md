@@ -69,6 +69,8 @@
 
 # Registro de Versiones del Informe
 
+Aqui podemos observar las diferentes versiones registradas del informe, conteniendo el numero de versión, la fecha en la que se desarrolló la versión, y la descripcion de la modificación
+
 | **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 |     ---     |     ---   |     ---   |             ---                 |
 | 1.0 | 26/08/2025 | Anónimo | Se implementó el diseño/esqueleto del informe sobre todas las secciones|
@@ -76,6 +78,9 @@
 ---
 
 # Project Report Collaboration Insights
+
+Aqui podemos observar La cantidad de commits realizados por cada persona por entregable en el reporte. La cantidad de comits y los cambios totales al documento
+
 **URL del repositorio para el Project Report:** [https://github.com/BrosTechnologies/report](https://github.com/BrosTechnologies/report)
 
 <img width="846" height="951" alt="Captura de pantalla 2025-09-18 234749" src="https://github.com/user-attachments/assets/a57ece77-2ed5-4246-8efc-734ac80175df" />
@@ -257,6 +262,8 @@ del ABET – EAC - Student Outcome 7.
 
 # Objetivos SMART
 
+Aqui podemos observar como cada participante desarrolló los objetivos smart de manera unica para cada uno
+
 # Cuadro de Objetivos SMART - Equipo de Ingeniería de Software
 
 | Integrante                    | Objetivo SMART 1                                                                                                                               | Objetivo SMART 2                                                                                                                                                              |
@@ -272,6 +279,9 @@ del ABET – EAC - Student Outcome 7.
 # Capítulo I: Presentación
 
 ## 1.1. Startup Profile
+
+Startup profile: En esta sección se presenta el startup junto a sus integrantes, describiendo a cada uno de ellos
+
 ### 1.1.1. Descripción de la Startup
 
 **Brostechnologies** es una startup fundada por jóvenes universitarios de la Universidad Peruana de Ciencias Aplicadas (UPC), enfocada en ofrecer soluciones para la gestión eficiente de proyectos de construcción dirigidos a pequeñas y medianas empresas constructoras, así como a trabajadores administrativos. A través de nuestra plataforma digital, ***Engitrack***, los usuarios pueden realizar solicitudes de servicios, además de supervisar el progreso y los gastos de cada obra.
@@ -294,6 +304,9 @@ En **Brostechnologies** consideramos esencial optimizar los procesos de construc
 |                                                                                                                                                        | Bellido Salas, Raúl              |   u202310931       | Ingeniería de Software | Actualmente mi primera experiencia en el desarrollo de aplicaciones móviles, estoy dispuesto a mostrar una gran disposición para aprender nuevas tecnologías y adaptarme a los retos del proyecto. Aportaré al equipo una actitud colaborativa, pensamiento crítico y compromiso con la mejora continua durante las fases de análisis y diseño de la solución. |
 
 ## 1.2. Solution Profile
+
+En esta sección se identifica la problemática a resolver, investigando sobre sus origenes usando la metodología 5w 2h
+
 ### 1.2.1. Antecedentes y problemática
 
 En el contexto actual del sector construcción en Lima Metropolitana y otras ciudades del país, muchas pequeñas y medianas empresas (PYMEs) enfrentan una realidad compleja al gestionar sus proyectos. El sector construcción en el Perú es uno de los principales motores de la economía, aportando más del 5% al PBI nacional (Constructivo, 2024\)  , pero presenta un alto nivel de informalidad y baja adopción tecnológica en los procesos operativos. A pesar de que las grandes constructoras cuentan con sistemas integrados de planificación y control, la mayoría de las PYMEs siguen dependiendo de métodos manuales o herramientas básicas como hojas de cálculo, cuadernos de obra, llamadas telefónicas o aplicaciones de mensajería instantánea. Estas prácticas generan desorganización, duplicidad de datos, errores de control y retrasos significativos en la toma de decisiones.  
@@ -350,6 +363,8 @@ Frente a esta problemática, Brostechnologies identifica una brecha importante e
 
 
 ### 1.2.2. Lean UX Process
+
+En esta sección se presenta el marco fundamental que sustenta la propuesta de valor de Engitrack, comenzando con una definición clara del problema a resolver, seguida de los supuestos iniciales de negocio, usuario y funcionalidad, para finalmente articular un conjunto de hipótesis estratégicas que serán validadas con los usuarios objetivo.
 
 #### 1.2.2.1. Lean UX Problem Statements
 En el sector construcción en Lima Metropolitana y otras ciudades del Perú, las pequeñas y medianas empresas (PYMEs) enfrentan grandes dificultades para gestionar de manera eficiente sus proyectos. El sector presenta altos niveles de informalidad y baja adopción tecnológica, lo que limita su competitividad.
@@ -426,6 +441,8 @@ Creemos que la adopción rápida de Engitrack por parte de supervisores y trabaj
 
 ## 1.3. Segmentos objetivo
 
+La identificación de los segmentos objetivo es fundamental para orientar el desarrollo y la comercialización de Engitrack. Nuestra solución está diseñada para crear valor en ambos extremos de la relación contractual en el sector construcción: quienes ejecutan los proyectos y quienes los contratan. A continuación, se definen los dos segmentos principales que constituyen nuestro mercado meta inicial, detallando sus características demográficas, roles, desafíos específicos y las necesidades centrales que Engitrack busca resolver para cada uno de ellos.
+
 **Segmento objetivo \#1: Supervisores de obra**  
 Este segmento está compuesto por profesionales encargados de supervisar y gestionar la ejecución de los proyectos de construcción. En muchas pequeñas y medianas empresas, el rol de supervisor suele ser asumido también por el jefe de obra, quien cumple múltiples funciones que van desde la supervisión directa en campo hasta la toma de decisiones administrativas y técnicas.  
 **Características demográficas**  
@@ -451,6 +468,8 @@ Desafíos: Necesitan que las obras sean entregadas a tiempo para evitar interrup
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
+
+En un mercado en proceso de digitalización como el de la construcción en Perú, comprender el panorama competitivo es crucial para posicionar estratégicamente nuestra solución. Este análisis nos permite identificar no solo las alternativas disponibles, sino también las brechas en la oferta actual que EngiTrack puede aprovechar. A través de una evaluación detallada de competidores directos e indirectos, se busca definir nuestro diferencial clave, refinar la propuesta de valor y diseñar estrategias efectivas para capturar el segmento de mercado desatendido por las soluciones existentes: las PYMEs constructoras. El siguiente análisis compara perfiles, estrategias y posicionamiento, sentando las bases para nuestra ventaja competitiva.
 
 ### 2.1.1. Análisis competitivo
 
@@ -497,6 +516,8 @@ En definitiva, Brostechnologies busca posicionarse como la alternativa ágil, ac
 
 
 ## 2.2. Entrevistas
+
+Para comprender a profundidad las necesidades, puntos de dolor y expectativas de nuestros segmentos objetivo, se realizó un proceso de elicitación de requisitos a través de entrevistas semiestructuradas. Esta metodología permitió obtener insights cualitativos valiosos directamente de la fuente, validando o refutando los supuestos iniciales planteados en la fase Lean UX. A continuación, se presenta el diseño metodológico de las entrevistas, un registro sistematizado de los hallazgos y un análisis detallado que sintetiza la información recopilada, sentando las bases para la definición de nuestros user personas y los requisitos del sistema.
 
 ### 2.2.1. Diseño de entrevistas
 
@@ -665,6 +686,8 @@ Se entrevistó a un total de 3 contratantes con experiencia en proyectos de cons
 
 ## 2.3. Needfinding
 
+En los siguientes cuadros podemos observar los usuarios ideales de nuestra solución a través de la tecnica de User persona, detallando historia previa y caracteristicas que esperamos en nuestros segmentos objetivos
+
 ### 2.3.1. User Personas
 <img width="1050" height="1600" alt="Carlos Huamán (1)" src="https://github.com/user-attachments/assets/428767d8-e978-45b3-81c6-ada8f1178c26" />
 
@@ -672,7 +695,7 @@ Se entrevistó a un total de 3 contratantes con experiencia en proyectos de cons
 
 ### 2.3.2. User Task Matrix
 
-
+Para priorizar las funcionalidades de EngiTrack, se analizaron las tareas clave que nuestros usuarios arquetipo, Carlos Huamán y Mariana Torres, realizan en su flujo de trabajo. La siguiente matriz cruza la frecuencia con la que ejecutan cada tarea y la importancia que estas tienen para el éxito de sus roles. Esta evaluación nos permite identificar las necesidades críticas que la plataforma debe resolver de manera prioritaria, asegurando que el desarrollo se centre en las funcionalidades de mayor impacto y valor para ambos segmentos.
 
 | USER TASK  | Carlos Huaman |  | Mariana Torres |  |
 | ----- | :---: | :---: | :---: | :---: |
@@ -691,6 +714,9 @@ Se entrevistó a un total de 3 contratantes con experiencia en proyectos de cons
 
 
 ### 2.3.3. User Journey Mapping
+
+Con los arquetipos de usuario definidos y sus tareas críticas identificadas a través de la matriz, el siguiente paso es profundizar en su experiencia subjetiva. El User Journey Mapping nos permite visualizar de manera integral la interacción de Carlos y Mariana con el proceso de gestión de obras, identificando puntos de fricción, momentos de verdad y oportunidades clave para la intervención de EngiTrack a lo largo de su jornada.
+
 User Journey Mapping del segmento #1: Supervisor de Obra
 <img width="894" height="853" alt="Captura de pantalla 2025-09-18 224004" src="https://github.com/user-attachments/assets/18b98ab2-9984-4bb6-a2a2-ddf20978408f" />
 
@@ -698,6 +724,9 @@ User Journey Mapping del segmento #2: Contratista de empresas privadas:
 <img width="951" height="804" alt="Captura de pantalla 2025-09-18 223909" src="https://github.com/user-attachments/assets/71710299-1a89-4a2a-bec7-dddbf03bd775" />
 
 ### 2.3.4. Empathy Mapping
+
+Complementariamente, el Empathy Mapping se enfoca en comprender el universo interno de nuestros usuarios, sintetizando lo que ellos dicen, piensan, sienten y hacen en su contexto laboral. En conjunto, estas herramientas transforman los datos y tareas en una comprensión humana y profunda, esencial para diseñar una solución que no solo sea funcional, sino también intuitiva y emocionalmente resonante para quienes la utilizarán.
+
 <img width="1050" height="1270" alt="Empathy Carlos Huaman" src="https://github.com/user-attachments/assets/e00bd736-ea18-4dfd-abc8-0c13d4929d75" />
 
 <img width="1050" height="1180" alt="Empathy Mariana Torres" src="https://github.com/user-attachments/assets/1a85cf74-ec24-4e27-b8df-af6b2f3dbfd7" />
@@ -727,7 +756,7 @@ User Journey Mapping del segmento #2: Contratista de empresas privadas:
 
 ### 2.4.1. User Stories
 
-
+A partir del análisis profundo de usuarios, competencia y tareas críticas identificadas en las secciones anteriores, se procede a formalizar los requisitos funcionales del sistema mediante el framework de User Stories. Esta sección organiza las capacidades de EngiTrack en seis épicas principales (EP01-EP06) que abarcan desde la gestión operativa en obra hasta la interacción con la plataforma digital.
 
 | EPIC ID |       Descripción de la épica        |
 |:-------:|:------------------------------------:|
@@ -834,11 +863,15 @@ Spike stories
 
 
 ### 2.4.2. Impact Mapping
+
+Para traducir las user stories en una estrategia de desarrollo focalizada y medible, se emplea la técnica de Impact Mapping. Este enfoque asegura que cada feature desarrollado contribuya directamente a los objetivos de negocio, priorizando las iniciativas de mayor impacto y evitando el desarrollo de funcionalidades superfluas.
+
 <img width="1240" height="2998" alt="Impact map 1 (1)" src="https://github.com/user-attachments/assets/bd732350-10aa-4266-9b2f-6f9e6546fe5d" />
 
 ### 2.4.3. Product Backlog
 
-
+Una vez definidas y priorizadas las user stories a través del Impact Mapping, se procede a estructurar el Product Backlog de EngiTrack. Este artefacto ágil representa la fuente única de requisitos para el producto, organizando las funcionalidades en un listado priorizado que guiará el desarrollo iterativo e incremental.
+La siguiente tabla presenta el backlog priorizado que servirá como plan de trabajo para los sprints de desarrollo, asegurando que el equipo se enfoque en entregar el máximo valor en el menor tiempo posible.
 
 | Orden | User Story ID | Título | Descripción | Story Points |
 | :---: | :---: | ----- | ----- | :---: |
@@ -1124,6 +1157,9 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 <img width="975" height="912" alt="Captura de pantalla 2025-09-18 222510" src="https://github.com/user-attachments/assets/2d6ef752-c5e8-4bc5-bad0-737d9bfd45cc" />
 
 ## 2.6. Tactical-Level Domain-Driven Design
+
+En esta sección el equipo explica y presenta su propuesta para la perspectiva táctica del diseño de la solución de software. Aquí se incluye una sección interna por cada bounded context.
+
 ### 2.6.1. Bounded Context: Gestión de Proyectos
 #### 2.6.1.1. Domain Layer
 
@@ -1213,13 +1249,25 @@ Propósito: Consumir eventos de autenticación/autorización y comunicarlos al d
 **- EmailNotificationService:** Envío de correos electrónicos de notificación sobre proyectos a contratantes.
 
 #### 2.6.1.5. Bounded Context Software Architecture Component Level Diagrams
+
+En esta sección, el equipo explica y presenta los Component Diagrams de C4 Model para cada uno de los Containers considerados para el bounded context. En estos diagramas el equipo busca reflejar la descomposición de cada Container para identificar los bloques estructurales principales y sus interacciones.
+
 <img width="4600" height="3628" alt="structurizr-106317-Component-001" src="https://github.com/user-attachments/assets/58600ad9-67db-4e1c-882a-9d42e3d1ab19" />
 
 #### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
+
+En esta sección, el equipo presenta y explica los diagramas que presentan un mayor detalle sobre la implementación de componentes en el bounded context. Aquí se incluye como secciones internas Bounded Context Domain Layer Class Diagrams y Bounded Context Database Diagram. 
+
 ##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
+
+En esta sección se presenta el Class Diagram de UML para las clases del Domain Layer en el bounded context. 
+
 <img width="1461" height="828" alt="Captura de pantalla 2025-09-18 223257" src="https://github.com/user-attachments/assets/6f20b94c-8bf9-4f35-9baa-2648c40f8109" />
 
 ##### 2.6.1.6.2. Bounded Context Database Design Diagram
+
+En esta sección se presenta y explica para cada producto donde se implementa el bounded context, el Database Diagram que incluye los objetos de base de datos que permitirán la persistencia de información para los objetos del bounded context.
+
 <img width="1466" height="723" alt="Captura de pantalla 2025-09-18 223230" src="https://github.com/user-attachments/assets/549f75f7-46bf-4e5a-8ae1-93e21cdf31c6" />
 
 
