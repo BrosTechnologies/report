@@ -1339,13 +1339,22 @@ Repositories:
 **- CloudStorageAdapter:** Conector para almacenamiento de documentos de compra o fotos de materiales en un servicio en la nube (ej. AWS S3, Firebase Storage).
 
 #### 2.6.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+En esta sección, el equipo explica y presenta los Component Diagrams de C4 Model para cada uno de los Containers considerados para el bounded context. En estos diagramas el equipo busca reflejar la descomposición de cada Container para identificar los bloques estructurales principales y sus interacciones.
+
 <img width="4600" height="3120" alt="structurizr-106317-Component-001 (1)" src="https://github.com/user-attachments/assets/e5498d2e-2c02-4edd-9397-b7b48e2ce7e0" />
 
 #### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
+
+En esta sección, el equipo presenta y explica los diagramas que presentan un mayor detalle sobre la implementación de componentes en el bounded context. Aquí se incluye como secciones internas Bounded Context Domain Layer Class Diagrams y Bounded Context Database Diagram.
+
 ##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
 <img width="1757" height="832" alt="Captura de pantalla 2025-09-18 223128" src="https://github.com/user-attachments/assets/de53f682-98a7-41ae-a076-bc320b4ea3b2" />
 
 ##### 2.6.2.6.2. Bounded Context Database Design Diagram
+
+En esta sección se presenta y explica para cada producto donde se implementa el bounded context, el Database Diagram que incluye los objetos de base de datos que permitirán la persistencia de información para los objetos del bounded context.
+
 <img width="572" height="821" alt="Captura de pantalla 2025-09-18 223041" src="https://github.com/user-attachments/assets/a8432360-da31-488e-ab57-679c69ee0c28" />
 
 
@@ -1432,15 +1441,23 @@ Repositories:
 
 #### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
 
+En esta sección, el equipo explica y presenta los Component Diagrams de C4 Model para cada uno de los Containers considerados para el bounded context. En estos diagramas el equipo busca reflejar la descomposición de cada Container para identificar los bloques estructurales principales y sus interacciones.
+
 <p align="center">
   <img src="images/Component_trabajadores.png" alt="PI5" width="1000">
 </p> 
 
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
+
+En esta sección, el equipo presenta y explica los diagramas que presentan un mayor detalle sobre la implementación de componentes en el bounded context. Aquí se incluye como secciones internas Bounded Context Domain Layer Class Diagrams y Bounded Context Database Diagram.
+
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 <img width="882" height="838" alt="Captura de pantalla 2025-09-18 222903" src="https://github.com/user-attachments/assets/c0e63429-8a6d-4fd0-abd0-f7a960cabdbf" />
 
 ##### 2.6.3.6.2. Bounded Context Database Design Diagram
+
+En esta sección se presenta y explica para cada producto donde se implementa el bounded context, el Database Diagram que incluye los objetos de base de datos que permitirán la persistencia de información para los objetos del bounded context.
+
 <img width="570" height="408" alt="Captura de pantalla 2025-09-18 223006" src="https://github.com/user-attachments/assets/aa2bd402-60e7-4666-a701-51c4de7534c8" />
 
 
@@ -1509,16 +1526,23 @@ Domain Services:
 
 #### 2.6.4.5. Bounded Context Software Architecture Component Level Diagrams
 
+En esta sección, el equipo explica y presenta los Component Diagrams de C4 Model para cada uno de los Containers considerados para el bounded context. En estos diagramas el equipo busca reflejar la descomposición de cada Container para identificar los bloques estructurales principales y sus interacciones.
+
 <p align="center">
   <img src="images/Component_Incidentes.png" alt="PI5" width="1000">
 </p> 
 
 #### 2.6.4.6. Bounded Context Software Architecture Code Level Diagrams
+
+En esta sección, el equipo presenta y explica los diagramas que presentan un mayor detalle sobre la implementación de componentes en el bounded context. Aquí se incluye como secciones internas Bounded Context Domain Layer Class Diagrams y Bounded Context Database Diagram.
+
 ##### 2.6.4.6.1. Bounded Context Domain Layer Class Diagrams
 
   <img src="images/Layer%20Class%20Diagrams.png" alt="PB" width="1000">
 
 ##### 2.6.4.6.2. Bounded Context Database Design Diagram
+
+En esta sección se presenta y explica para cada producto donde se implementa el bounded context, el Database Diagram que incluye los objetos de base de datos que permitirán la persistencia de información para los objetos del bounded context.
 
   <img src="images/Design%20Diagram.png" alt="PB" width="1000"> 
 
@@ -1598,10 +1622,14 @@ MantenimientoProgramadoEvent: Se emite al sistema de notificaciones para alertar
 
 #### 2.6.5.5. Bounded Context Software Architecture Component Level Diagrams
 
+En esta sección, el equipo explica y presenta los Component Diagrams de C4 Model para cada uno de los Containers considerados para el bounded context. En estos diagramas el equipo busca reflejar la descomposición de cada Container para identificar los bloques estructurales principales y sus interacciones.
+
   <img src="images/Bounded%20Context%20Software%20Architecture%20Component%20Level%20Diagrams.png" alt="PB" width="1000"> 
 
 
 #### 2.6.5.6. Bounded Context Software Architecture Code Level Diagrams
+
+En esta sección, el equipo presenta y explica los diagramas que presentan un mayor detalle sobre la implementación de componentes en el bounded context. Aquí se incluye como secciones internas Bounded Context Domain Layer Class Diagrams y Bounded Context Database Diagram.
 
 ##### 2.6.5.6.1. Bounded Context Domain Layer Class Diagrams
 
@@ -1609,6 +1637,8 @@ MantenimientoProgramadoEvent: Se emite al sistema de notificaciones para alertar
 
 
 ##### 2.6.5.6.2. Bounded Context Database Design Diagram
+
+En esta sección se presenta y explica para cada producto donde se implementa el bounded context, el Database Diagram que incluye los objetos de base de datos que permitirán la persistencia de información para los objetos del bounded context.
 
   <img src="images/Bounded%20Context%20Database%20Design%20Diagram.png" alt="PB" width="1000"> 
 
