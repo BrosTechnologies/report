@@ -1493,15 +1493,6 @@ Domain Services:
 
 * **GenerarReporteIncidenteHandler**: genera un reporte PDF de un incidente o conjunto de incidentes para el contratante.
 
-**2.6.4.4. Infrastructure Layer**   
-**IncidentRepositoryImpl:** Implementa la interfaz IncidentRepository en la base de datos.
-
-**IncidentReportGenerator:** Generación de reportes PDF con librería externa (ej. JasperReports, iText).
-
-**IncidentEventPublisher**: Publica eventos de incidentes graves hacia otros bounded contexts (ej. notificar a Gestión de Proyectos).
-
-**FileStorageAdapter:** Guarda evidencias fotográficas de incidentes en un servicio en la nube.
-
 #### 2.6.4.4 Infrastructure Layer
 **- IncidentRepositoryImpl:** Implementa la interfaz IncidentRepository en la base de datos.
 
