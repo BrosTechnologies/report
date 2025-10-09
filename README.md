@@ -1031,7 +1031,7 @@ Con los eventos pivotales, se agruparon los elementos dentro de los **bounded co
 </p> 
 
 
-## **Fase 4: Criterios de Separación de Contextos**
+## **Criterios de Separación de Contextos**
 
 Se aplicaron los siguientes criterios para validar los límites de cada contexto:
 
@@ -1150,7 +1150,7 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 <p align="center">
-  <img src="images/context.png" alt="PB" width="1000">
+  <img src="images/container.png" alt="PB" width="1000">
 </p> 
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
@@ -1431,6 +1431,11 @@ Repositories:
 **- NotificationService:** Publica eventos cuando un trabajador se registra o falta (para Payroll o supervisión).
 
 #### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
+
+<p align="center">
+  <img src="images/Component_trabajadores.png" alt="PI5" width="1000">
+</p> 
+
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 <img width="882" height="838" alt="Captura de pantalla 2025-09-18 222903" src="https://github.com/user-attachments/assets/c0e63429-8a6d-4fd0-abd0-f7a960cabdbf" />
@@ -1503,6 +1508,11 @@ Domain Services:
 **- FileStorageAdapter:** Guarda evidencias fotográficas de incidentes en un servicio en la nube.
 
 #### 2.6.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+<p align="center">
+  <img src="images/Component_Incidentes.png" alt="PI5" width="1000">
+</p> 
+
 #### 2.6.4.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.4.6.1. Bounded Context Domain Layer Class Diagrams
 
