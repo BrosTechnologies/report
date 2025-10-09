@@ -1150,7 +1150,7 @@ El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core dom
 
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 <p align="center">
-  <img src="images/container.png" alt="PB" width="1000">
+  <img src="images/container.jpg" alt="PB" width="1000">
 </p> 
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
