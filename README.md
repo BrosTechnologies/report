@@ -690,15 +690,7 @@ Se entrevistó a un total de 3 contratantes con experiencia en proyectos de cons
 - Puntos de Dolor (Frustraciones): La falta de visibilidad es la principal frustración. El 100% (3 de 3) ha experimentado o teme una falta de transparencia y visibilidad sobre el progreso real, el uso de materiales o la gestión del personal. El 67% (2 de 3) ha sufrido pérdidas económicas directas por retrasos y mala planificación de las constructoras.
 - Necesidades y Actitud hacia la Tecnología: La tecnología es vista como un diferenciador clave. El 100% (3 de 3) afirmó que el uso de una plataforma digital por parte de la constructora influiría positivamente en su decisión de contratación, ya que lo asocian con modernización, transparencia y agilidad. Todos coinciden en que una herramienta que ofrezca monitoreo en tiempo real les daría mayor tranquilidad, control y seguridad sobre su inversión.
 
-**Cuadro Resumen de Análisis - Contratantes**
-
-| Característica                | Hallazgos Clave de las Entrevistas                                                                                               | Sustento Estadístico (N=3) |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| Principal Frustración         | Falta de transparencia y visibilidad sobre el avance real de la obra, generando desconfianza.                                    | 100%                       |
-| Impacto de la Mala Gestión    | Han sufrido pérdidas económicas debido a retrasos y mala planificación de las constructoras.                                     | 67%                        |
-| Necesidad Principal           | Acceder a una plataforma con información y reportes en tiempo real para tener mayor control y seguridad.                         | 100%                       |
-| Valor de la Tecnología        | El uso de tecnología moderna por parte de una constructora es un factor importante que transmite confianza.                      | 100%                       |
-| Influencia en la Contratación | Afirman que el uso de una herramienta de gestión digital influiría de manera positiva o decisiva en su elección de constructora. | 100%                       |
+*          |
 
 ## 2.3. Needfinding
 
