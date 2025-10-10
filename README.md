@@ -1691,25 +1691,6 @@ La paleta de colores ha sido seleccionada para reforzar nuestra identidad de mar
 | **Texto Primario**     | On Surface         | `#212121`  | ⚫      |
 | **Texto Secundario**   | On Surface Variant | `#757575`  | ⚫      |
 
-#### **Tipografía**
-
-Para asegurar la máxima legibilidad y una estética limpia en todas las plataformas (móvil y web), se ha adoptado la familia tipográfica **Roboto**, el estándar oficial de Material Design. Su versatilidad y claridad la hacen ideal para interfaces de usuario funcionales.
-
-La jerarquía tipográfica se define de la siguiente manera:
-
-| Elemento                 | Fuente | Grosor (Weight) | Tamaño (Size) |
-| :----------------------- | :----- | :-------------- | :------------ |
-| **Headline Large (H1)**  | Roboto | Regular         | 32px          |
-| **Headline Medium (H2)** | Roboto | Regular         | 28px          |
-| **Title Large (Título)** | Roboto | Medium          | 22px          |
-| **Body Large (Párrafo)** | Roboto | Regular         | 16px          |
-| **Body Medium**          | Roboto | Regular         | 14px          |
-| **Label Large (Botón)**  | Roboto | Medium          | 14px          |
-
-#### **Espaciado (Spacing)**
-
-Con el fin de crear una interfaz ordenada y con un ritmo visual consistente, se implementa un **sistema de espaciado basado en una cuadrícula de 8px**. Todos los márgenes, paddings y distancias entre los componentes de la UI serán múltiplos de 8 (ej: 8px, 16px, 24px, 32px). Este enfoque sistemático elimina la ambigüedad en las decisiones de diseño y asegura que los layouts se sientan equilibrados y profesionales.
-
 ### 3.1.2. Information Architecture
 
 #### 3.1.2.1. Organization Systems
