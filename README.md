@@ -2321,7 +2321,9 @@ _(En este momento se le presenta la **Landing Page de EngiTrack**.)_
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/EdqIsMjYoRZChyKrZvq8KJwBPoab15PlCmDShrdmq7vsZg
 
 **Resumen:**
-En la entrevista realizada por Mario Prado, Marco Vargas, supervisor de obra de 26 años y residente en San Miguel, explicó que su labor diaria consiste en coordinar a un promedio de 25 obreros, verificar la asistencia, supervisar tareas y controlar materiales como cemento, fierro, ladrillos y madera, procesos que actualmente gestiona con listas manuales, cuadernos y hojas de Excel. Indicó que prepara reportes escritos y fotográficos que le toman entre una y dos horas al día, y que los principales problemas que enfrenta son retrasos en la entrega de materiales, errores en inventario y dificultades de coordinación con personal administrativo. Considera que una herramienta digital que centralice asistencia, inventario y reportes sería muy útil para ahorrar tiempo, reducir errores y acceder a información en tiempo real, siempre que sea sencilla, segura y ofrezca soporte. Además, le gustaría que facilite la coordinación con proveedores, y señaló que estaría dispuesto a probar una plataforma como ArquiTech si demuestra efectividad en su trabajo diario.
+**Segmento:** Supervisor y Jefe de Obra
+**Entrevistado:** Jones Gonzales (28 años, La Molina – Lima Metropolitana)
+**Resumen:** El participante indicó que actualmente gestiona asistencia y materiales de forma manual mediante papel y Excel, lo que genera errores y retrasos. Valoró positivamente la propuesta de EngiTrack, destacando su facilidad de uso en celular, la centralización de información y su potencial para ahorrar tiempo. Sugirió incluir funciones sin conexión, alertas automáticas, generación de reportes en PDF y soporte multilenguaje. Calificó la app con 9/10 y la consideró especialmente útil para PYMEs del sector construcción.
 
 **Entrevistado 2**
 
