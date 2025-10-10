@@ -2000,7 +2000,7 @@ las pautas de diseño de Android.
 
 - Backend
 
-Se utilizó ****\_\_\_\_**** (Luego se completa)
+Se utilizó \***\*\_\_\_\_\*\*** (Luego se completa)
 
 **Software Testing**
 
@@ -2066,8 +2066,8 @@ trabajo colaborativo entre los miembros del equipo
   Landing Page.
 - Utilizaremos el lenguaje Kotlin para el desarrollo del frontend móvil en Android Studio, permitiendo
   crear interfaces nativas y fluidas en dispositivos Android.
-- se utilizo **********\_\_\_********** para el desarrollo del backend permitiendo crear APIs
-  RESTful que se comunican con una base de datos ********\_\_\_******** para gestionar la lógica del negocio y el
+- se utilizo ****\*\*****\_\_\_****\*\***** para el desarrollo del backend permitiendo crear APIs
+  RESTful que se comunican con una base de datos **\*\*\*\***\_\_\_**\*\*\*\*** para gestionar la lógica del negocio y el
   intercambio de datos con el frontend.
 
 ##### **Convenciones de Commits**
@@ -2113,20 +2113,20 @@ Este enfoque asegura que las versiones del proyecto sean claras y fácilmente in
 ### 4.1.4. Software Deployment Configuration
 
 Para configurar el despliegue de la Lading Page, seguimos los pasos detallados a continuación utilizando
-********\_\_\_******** como plataforma:
+**\*\*\*\***\_\_\_**\*\*\*\*** como plataforma:
 
 Enlace del Despliegue de la Lading Page:
 
-- Paso a paso del despliegue del landing llenar aquí ****\_\_\_****
+- Paso a paso del despliegue del landing llenar aquí \***\*\_\_\_\*\***
 
-Para configurar el despliegue del Backend, seguimos los pasos detallados a continuación utilizando ******\_\_\_******
+Para configurar el despliegue del Backend, seguimos los pasos detallados a continuación utilizando **\*\***\_\_\_**\*\***
 como plataforma:
 
 Enlace del Despliegue del Backend:
 
-- Paso a paso del despliegue del Backend llenar aquí ****\_\_\_****
+- Paso a paso del despliegue del Backend llenar aquí \***\*\_\_\_\*\***
 
-Para configurar el despliegue del Frontend en Android Studio, utilizaremos ******\_\_****** como plataforma:
+Para configurar el despliegue del Frontend en Android Studio, utilizaremos **\*\***\_\_**\*\*** como plataforma:
 
 Enlace para acceder al archivo APK:
 
@@ -2268,6 +2268,49 @@ equipo a través de la plataforma GitHub:
 ## 4.3. Validation Interviews
 
 ### 4.3.1. Diseño de Entrevistas
+
+#### Introducción
+
+_(Aquí una introducción para refrescar al entrevistado)_  
+Hola, gracias por tu tiempo. Como parte de nuestro proyecto **EngiTrack**, estamos realizando entrevistas con supervisores y jefes de obra para entender mejor sus procesos, necesidades y validar nuestra propuesta.  
+Queremos conocer tu experiencia en el control de materiales, personal y reportes de obra, así como tu opinión sobre nuestra solución digital.
+
+#### Contexto y Problemas Actuales
+
+1. ¿Cómo organizas actualmente el control de materiales y asistencia del personal?
+2. ¿Qué dificultades o errores se presentan con frecuencia?
+3. ¿Cómo manejas los reportes de avance o incidencias?
+4. ¿Qué mejorarías de tu proceso actual?
+
+#### Validación de la Solución
+
+_(Antes de estas preguntas, se muestra el prototipo en Figma)_
+
+1. ¿Qué opinas de la propuesta que te mostramos (**EngiTrack**)?
+2. ¿Crees que esta herramienta te sería útil en tu día a día?
+3. ¿Qué funcionalidades te parecen más valiosas?
+4. ¿Sientes que refleja tu forma de trabajar en obra?
+
+#### Opinión sobre la Aplicación Móvil
+
+_(Preguntas específicas por sección del prototipo)_
+
+1. ¿Cuál es tu opinión de la sección **Home**?
+2. ¿Cuál es tu opinión de la sección **Proyectos**?
+3. ¿Cuál es tu opinión de la sección **Calendario**?
+4. ¿Cuál es tu opinión de la sección **Perfil**?
+5. ¿Tienes sugerencias adicionales?
+
+#### Validación del Sitio Web
+
+Antes de pasar con el cierre de preguntas, quiero mostrarte nuestro sitio web.  
+_(En este momento se le presenta la **Landing Page de EngiTrack**.)_
+
+#### Cierre
+
+1. En una escala del **1 al 10**, ¿qué tan útil crees que sería **EngiTrack** para ti?
+2. ¿La recomendarías a otros colegas o empresas?
+3. ¿Qué sugerencias o mejoras harías?
 
 ### 4.3.2. Registro de Entrevistas
 
