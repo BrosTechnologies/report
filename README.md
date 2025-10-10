@@ -2669,3 +2669,8 @@ Hinostroza, Q. P. (2019). Procedimientos para la implementación del modelado de
 López, L. (2022, 29 de marzo). 5 barreras para los gobiernos digitales inclusivos. CAF. Recuperado 8 de octubre de 2025, de[https://www.caf.com/es/blog/5-barreras-para-los-gobiernos-digitales-inclusivos/](https://www.caf.com/es/blog/5-barreras-para-los-gobiernos-digitales-inclusivos/)
 
 # Anexos
+Anexo A. Video de exposición TP1: https://drive.google.com/drive/folders/1Z39yHmLJMF0U2zItULOfaYmyH_E7RApC?usp=sharing
+
+Anexo B. Backend: https://engitrack-backend-production.up.railway.app/index.html
+
+Anexo C. Landing Page: [https://engitrack-backend-production.up.railway.app/index.html](https://brostechnologies.github.io/landing-page/)
