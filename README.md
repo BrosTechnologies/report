@@ -1021,7 +1021,20 @@ Con los eventos pivotales, se agruparon los elementos dentro de los **bounded co
   <img src="images/event_step6.jpg" alt="PB" width="1000">
 </p>
 
-<p align="center"
+<p align="center">
+  <img src="images/event_step7.jpg" alt="PB" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/event_step8.jpg" alt="PB" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/event_step9.jpg" alt="PB" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/event_step10.jpg" alt="PB" width="1000">
 </p>
 
 ## **Criterios de Separación de Contextos**
