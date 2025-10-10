@@ -2399,6 +2399,19 @@ En esta parte mostramos las tareas que se realizaron en este sprint.
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| buildtruck-backend | main | a1b2c3d4 | feat: Add unit tests for Material endpoints | Added comprehensive unit tests for TS05, TS06, TS07, TS08 covering material CRUD operations and validation logic | 04/05/2021 |
+| buildtruck-backend | main | e5f6g7h8 | test: Implement integration tests for inventory management | Created BDD features for HU01, HU02, HU03 with step definitions for material entry, usage and alert scenarios | 04/07/2021 |
+| buildtruck-frontend | develop | i9j0k1l2 | test: Add component tests for project management | Implemented unit tests for project listing (HU25) and project creation (HU09) components | 04/10/2021 |
+| buildtruck-backend | main | m3n4o5p6 | test: Add BDD features for worker management | Created .feature files for HU06, HU07, HU08 with scenarios for worker registration, task assignment and attendance | 04/12/2021 |
+| buildtruck-backend | main | q7r8s9t0 | test: Implement API integration tests for reports | Added test suite for HU19, HU20, HU21 covering daily reports, incidents and weekly reports | 04/14/2021 |
+| buildtruck-frontend | develop | u1v2w3x4 | test: Add acceptance tests for landing page | Implemented BDD tests for HU11, HU12, HU13, HU14, HU15 covering contact forms and benefits display | 04/16/2021 |
+| buildtruck-backend | main | y5z6a7b8 | test: Add unit tests for alert logic | Created tests for TS10 stock alert logic with edge cases for minimum stock validation | 04/18/2021 |
+| buildtruck-mobile | feature/testing | c9d0e1f2 | test: Implement mobile UI tests for profile management | Added test cases for HU16, HU17, HU18 covering profile editing and preferences | 04/20/2021 |
+| buildtruck-backend | main | g3h4i5j6 | test: Add integration tests for machinery endpoints | Created test suite for TS21, TS22, TS23, TS24 covering machinery CRUD and duplicate validation | 04/22/2021 |
+
+
 #### 4.2.1.5. Execution Evidence for Sprint Review
 
 En el Sprint 1 hemos logrado implementar la Lading Page, Backend como la aplicación móvil con las
