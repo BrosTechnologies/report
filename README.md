@@ -2442,6 +2442,10 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/EbZ9nu3T
 
 3. Aplicación Móvil
 
+[Ver video de la app móvil mostrando que funciona](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314130_upc_edu_pe/EUTpCfasqjBDpSHcyhC6EjMBnvgibANQQxTdLXDc999HHQ?e=AzSZGn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
+![img.png](images/w1231.png)
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314130_upc_edu_pe/EUTpCfasqjBDpSHcyhC6EjMBnvgibANQQxTdLXDc999HHQ?e=AzSZGn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante este Sprint, se documentaron los endpoints desarrollados en el backend utilizando la
@@ -2450,6 +2454,8 @@ parte de otros miembros del equipo o desarrolladores externos.
 
 A continuación, se presenta capturas de la relación de endpoints implementados y documentados, indicando
 las acciones que soportan, sus respectivos métodos HTTP, parámetros relevantes, ejemplo de uso y respuesta.
+
+![img.png](images/ewqeqwe.png)
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
