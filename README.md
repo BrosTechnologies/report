@@ -2006,9 +2006,21 @@ Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/design/0en
 
 #### 3.1.4.5. Mobile Applications Prototyping
 
+Un prototipo es una representación interactiva de un producto o sistema que permite a los usuarios experimentar y probar su funcionalidad antes de su desarrollo completo. En el contexto del diseño de aplicaciones móviles, un prototipo sirve como una herramienta crucial para validar ideas, recopilar comentarios de los usuarios y refinar la experiencia de usuario (UX) y la interfaz de usuario (UI).
+
 En esta sección elaboramos una muestra de lo que sería el prototipo de la aplicación móvil con interacción.
 
-Enlace a los mockups de la aplicación en Figma:
+
+Enlace al prototipo de la aplicación móvil en Figma:
+
+[Ver prototipo interactivo de la aplicación móvil](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/EVkwQVj3MflGgSqPorAXGUgB-o6OJG1M4R51F-dXQYRh8A?e=Ztm9c8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+![img.png](images/Prototype.png)
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/EVkwQVj3MflGgSqPorAXGUgB-o6OJG1M4R51F-dXQYRh8A?e=Ztm9c8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+
 
 ---
 
