@@ -1986,11 +1986,23 @@ Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/design/0en
 
 #### 3.1.4.1. Mobile Applications Wireframes
 
+![img.png](images/mobile/mobilewireframe.png)
+
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
+
+![img.png](images/mobile/wireframeflowmobile.png)
 
 #### 3.1.4.3. Mobile Applications Mock-ups
 
+![img.png](images/mobile/mockupmobile.png)
+
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
+
+![img.png](images/mobile/flow1.png)
+
+![img.png](images/mobile/flow2.png)
+
+![img.png](images/mobile/flow3.png)
 
 #### 3.1.4.5. Mobile Applications Prototyping
 
