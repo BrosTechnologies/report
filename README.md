@@ -2391,15 +2391,16 @@ En esta parte mostramos las tareas que se realizaron en este sprint.
 
 - Se presentan los commits realizados en el repositorio de la Lading Page en GitHub.
 
-  Link del repositorio de la Lading Page:
+  Link del repositorio de la Landing Page: https://brostechnologies.github.io/landing-page/
 
-- Se presentan los commits realizados en el repositorio del Backend en GitHub.
 
-  Link del repositorio del Backend:
+- Se presentan los commits realizados en el repositorio del Backend en GitHub. 
+
+  Link del repositorio del Backend:  https://engitrack-backend-production.up.railway.app/index.html
 
 - Se presentan los commits realizados en el repositorio de la Aplicación móvil en GitHub.
 
-  Link del repositorio de la Aplicación móvil:
+  Link del repositorio de la Aplicación móvil: .apk exportado de Android Studio
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
