@@ -2664,5 +2664,7 @@ López, L. (2022, 29 de marzo). 5 barreras para los gobiernos digitales inclusiv
 
 # Anexos
 Anexo A. Video de exposición TP1: https://drive.google.com/drive/folders/1Z39yHmLJMF0U2zItULOfaYmyH_E7RApC?usp=sharing
+
 Anexo B. Backend: https://engitrack-backend-production.up.railway.app/index.html
+
 Anexo C. Landing Page: [https://engitrack-backend-production.up.railway.app/index.html](https://brostechnologies.github.io/landing-page/)
