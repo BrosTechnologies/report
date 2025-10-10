@@ -1900,13 +1900,21 @@ La navegación en el sitio web está orientada a comunicar la propuesta de valor
 
 A continuación, mostramos los wireframes de la landing page, los cuales representan la estructura básica y el layout sin elementos gráficos detallados. Estos sirven como una guía inicial para el diseño visual, asegurando que todos los elementos necesarios estén presentes y correctamente organizados.
 
-Enlace a los wireframes de la Landing Page en Figma:
+Enlace a los wireframes de la Landing Page en Figma: https://www.figma.com/design/0enmJ6QIplFzRvrSUtQkSL/Mobile-Application?node-id=0-1&p=f&t=ZIOXXEyDFYiiZyiS-0
+
+![img.png](images/landing/img.png)
+
+![img.png](images/landing/img2.png)
 
 #### 3.1.3.2. Landing Page Mock-up
 
 Esta sección presenta los mockups de la landing page, que ilustran el diseño final con detalles gráficos, tipografía, y color. Los mockups son fundamentales para visualizar cómo se verá la página final y para realizar ajustes antes del desarrollo.
 
-Enlace a la mockup de la Landing Page en Figma:
+Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/design/0enmJ6QIplFzRvrSUtQkSL/Mobile-Application?node-id=0-1&p=f&t=ZIOXXEyDFYiiZyiS-0
+
+![img.png](images/landing/img3.png)
+
+![img.png](images/landing/img4.png)
 
 ### 3.1.4. Mobile Applications UX/UI Design
 
