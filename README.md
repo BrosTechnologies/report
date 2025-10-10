@@ -2466,17 +2466,11 @@ sistema.
 A continuación, se presentan los enlaces de despliegue correspondientes, junto con una captura
 representativa de cada uno:
 
-**Landing Page:**
+**Landing Page:**  https://brostechnologies.github.io/landing-page/
 
-**Backend:**
+**Backend:**  https://engitrack-backend-production.up.railway.app/index.html
 
-**Aplicación Móvil:**
-
-Imagen de la Landing Page funcionando en el navegador
-
-Imagen del Postman o Swagger mostrando que el backend responde
-
-Imagen de la app móvil mostrando que funciona
+**Aplicación Móvil:** Exportado en .apk
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
