@@ -1996,24 +1996,7 @@ Se utilizó Android Studio para diseñar la interfaz de un segmento objetivo de 
 forma nativa. Este frontend se construyó usando XML para definir las vistas (pantallas, botones, textos,
 etc.) y Kotlin como lenguajes de programación para controlar la lógica de la interfaz. Esta parte se
 encarga de la interacción directa del usuario con la app, permitiendo una experiencia fluida y acorde a
-las pautas de diseño de Android.
-
-- Backend
-
-Se utilizó \***\*\_\_\_\_\*\*** (Luego se completa)
-
-**Software Testing**
-
-Para las pruebas funcionales de la Landing Page , el Backend y la aplicación móvil, se utilizaron herramientas
-de desarrollo de navegadores web como Google Chrome y Microsoft Edge.
-
-**Software Deployment**
-
-- Despliegue landing:
-- Despliegue Backend:
-- Despliegue Frontend:
-
-**Software Documentation**
+las
 
 - Structurizr: https://structurizr.com/
 
