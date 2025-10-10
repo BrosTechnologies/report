@@ -1175,6 +1175,36 @@ En esta sección el equipo explica y presenta su propuesta para la perspectiva t
 
 ### 2.6.1. Bounded Context: Gestión de Proyectos
 
+#### 2.6.1.1. Domain Layer
+
+Entities:
+
+**User:** Representa a los usuarios del sistema con información personal y roles.
+
+**Project:** Entidad principal que gestiona los proyectos con fechas, presupuesto y estado.
+
+Value Objects:
+
+**Role:** Enumera los roles disponibles en el sistema (SUPERVISOR, CONTRACTOR, USER).
+
+**ProjectStatus:** Define los estados posibles de un proyecto (ACTIVE, PAUSED, COMPLETED).
+
+Aggregates:
+
+**User:** Agregado raíz para la gestión de usuarios y sus roles.
+
+**Project:** Agregado raíz que coordina la información del proyecto y sus relaciones con usuarios.
+
+Domain Services:
+
+**UserCommandService:** Maneja comandos de registro y autenticación de usuarios.
+
+**UserQueryService:** Consultas para obtener información de usuarios.
+
+**ProjectCommandService:** Servicio para la creación de proyectos.
+
+**ProjectQueryService:** Consultas para obtener proyectos filtrados por usuario y rol.
+
 Repositories:
 
 **UserRepository:** Persistencia y consultas de usuarios.
