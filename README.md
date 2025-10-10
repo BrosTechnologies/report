@@ -2222,7 +2222,7 @@ Github Pages como plataforma:
 
 
 
-Enlace del Despliegue de la Lading Page: https://brostechnologies.github.io/landing-page/
+Enlace del Despliegue de la La.ding Page: https://brostechnologies.github.io/landing-page/
 
 
 • 	Para configurar el despliegue de la Lading Page, seguimos los pasos detallados a continuación utilizando Github como plataforma:  
@@ -2296,9 +2296,13 @@ Subida del Código al Repositorio
   <img src="images/back_p5.jpg" alt="PI5" width="1000">
 </p> 
 
-Para configurar el despliegue del Frontend en Android Studio, utilizaremos **\*\***\_\_**\*\*** como plataforma:
+Para exportar el Proyecto de Android Studio, utilizaremos .apk como herramienta:
 
-Enlace para acceder al archivo APK:
+![img.png](images/weqeqw.png)
+
+![img.png](images/ewqeq.png)
+
+
 
 ## 4.2. Landing Page & Mobile Application Implementation
 
@@ -2360,7 +2364,7 @@ En esta parte mostramos las tareas que se realizaron en este sprint.
     </tr>
     <tr>
         <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 1 Velocity</td>
-        <td style="padding: 8px; border: 1px solid #ddd;">8</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">36</td>
     </tr>
     <tr>
         <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sum of Story Points</td>
