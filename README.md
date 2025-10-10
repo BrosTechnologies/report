@@ -2058,7 +2058,17 @@ mantener un flujo de trabajo organizado.
 Este modelo de ramificación permitió mantener un control riguroso sobre las versiones del código y facilitar el
 trabajo colaborativo entre los miembros del equipo
 
-### 4.1.3.
+### 4.1.3. Source Code Style Guide & Conventions
+
+- Utilizaremos el lenguaje de etiquetas HTML para el desarrollo principal de nuestra Landing Page.
+- Utilizaremos el lenguaje CSS para aplicar los estilos a la estructura de nuestra Landing Page.
+- Implementaremos el lenguaje JavaScript para añadir interactividad y funcionalidades dinámicas a la
+  Landing Page.
+- Utilizaremos el lenguaje Kotlin para el desarrollo del frontend móvil en Android Studio, permitiendo
+  crear interfaces nativas y fluidas en dispositivos Android.
+- se utilizo \***\*\*\*\*\***\_\_\_\***\*\*\*\*\*** para el desarrollo del backend permitiendo crear APIs
+  RESTful que se comunican con una base de datos **\*\*\*\***\_\_\_**\*\*\*\*** para gestionar la lógica del negocio y el
+  intercambio de datos con el frontend.
 
 ##### **Convenciones de Commits**
 
