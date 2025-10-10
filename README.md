@@ -914,6 +914,87 @@ La siguiente tabla presenta el backlog priorizado que servirá como plan de trab
 
 ### 2.5.1. EventStorming
 
+Paso 1
+
+Se inicia con una lluvia de ideas para identificar los eventos del dominio, es decir, aquellos sucesos que ya ocurrieron en el negocio y son relevantes para el proceso que se desea modelar.
+
+<p align="center">
+  <img src="images/event_step1.jpg" alt="PB" width="1000">
+</p>
+
+Paso 2
+
+Una vez listados los eventos, se ordenan cronológicamente según su secuencia natural. Primero se representa el flujo principal o exitoso (happy path) y luego se incorporan los escenarios alternativos o excepcionales.
+
+<p align="center">
+  <img src="images/event_step2.jpg" alt="PB" width="1000">
+</p>
+
+Paso 3
+
+Con la línea de tiempo establecida, se procede a detectar los puntos problemáticos del proceso: cuellos de botella, tareas manuales innecesarias, falta de automatización o vacíos de información que afecten la eficiencia.
+
+<p align="center">
+  <img src="images/event_step3.jpg" alt="PB" width="1000">
+</p>
+
+Paso 4
+
+Se identifican los eventos clave que marcan transiciones o cambios importantes dentro del dominio. Estos eventos sirven para dividir la línea temporal en etapas diferenciadas, representando un “antes” y un “después”.
+
+<p align="center">
+  <img src="images/event_step4.jpg" alt="PB" width="1000">
+</p>
+
+Paso 5
+
+Se analizan los comandos que provocan la aparición de los eventos. A diferencia de los eventos (que describen hechos pasados), los comandos son órdenes o acciones expresadas en modo imperativo que buscan generar un resultado.
+
+<p align="center">
+  <img src="images/event_step5.jpg" alt="PB" width="1000">
+</p>
+
+Paso 6
+
+Se reconocen las políticas automáticas, es decir, reglas del sistema que hacen que un evento dispare automáticamente un comando, sin necesidad de intervención humana.
+
+<p align="center">
+  <img src="images/event_step6.jpg" alt="PB" width="1000">
+</p>
+
+Paso 7
+
+Se modelan las vistas de lectura que los usuarios o actores del dominio utilizan para tomar decisiones, como reportes, pantallas o notificaciones que presentan información relevante del proceso.
+
+<p align="center">
+  <img src="images/event_step7.jpg" alt="PB" width="1000">
+</p>
+
+Paso 8
+
+Se incorporan los sistemas externos que interactúan con el dominio, ya sea enviando comandos (como fuentes de entrada) o recibiendo notificaciones generadas por eventos (como salidas del sistema).
+
+<p align="center">
+  <img src="images/event_step8.jpg" alt="PB" width="1000">
+</p>
+
+Paso 9
+
+Se agrupan los eventos y comandos relacionados dentro de agregados, los cuales representan unidades lógicas de consistencia del dominio. Cada agregado recibe comandos y produce eventos asociados a su comportamiento.
+
+<p align="center">
+  <img src="images/event_step9.jpg" alt="PB" width="1000">
+</p>
+
+Paso 10
+
+Finalmente, se organizan los agregados afines para definir los bounded contexts o contextos delimitados, que representan áreas funcionales cohesionadas y autónomas dentro del dominio general.
+
+<p align="center">
+  <img src="images/event_step10.jpg" alt="PB" width="1000">
+</p>
+
+
 #### 2.5.1.1. Candidate Context Discovery
 
 ## **Fase 1: Identificación de Áreas (30 minutos)**
@@ -997,45 +1078,30 @@ Con los eventos pivotales, se agruparon los elementos dentro de los **bounded co
 
 ## **Evolución del event storming**
 
-<p align="center">
-  <img src="images/event_step1.jpg" alt="PB" width="1000">
-</p>
+Steps 1–3:
+Fase inicial enfocada en la identificación de eventos del dominio y la construcción de una línea de tiempo básica que refleje el flujo principal de los procesos y sus variaciones.
 
-<p align="center">
-  <img src="images/event_step2.jpg" alt="PB" width="1000">
-</p>
+Step 4:
+Reconocimiento de los puntos clave o eventos pivote que marcan transiciones importantes dentro del flujo del dominio.
 
-<p align="center">
-  <img src="images/event_step3.jpg" alt="PB" width="1000">
-</p>
+Step 5:
+Determinación de los comandos que originan los eventos, definiendo las acciones que impulsan los cambios en el sistema.
 
-<p align="center">
-  <img src="images/event_step4.jpg" alt="PB" width="1000">
-</p>
+Step 6:
+Incorporación de políticas automáticas que permiten que ciertos eventos desencadenen comandos de forma autónoma, sin intervención manual.
 
-<p align="center">
-  <img src="images/event_step5.jpg" alt="PB" width="1000">
-</p>
+Step 7:
+Integración de modelos de lectura o vistas que proporcionan la información necesaria a los actores del sistema para la toma de decisiones.
 
-<p align="center">
-  <img src="images/event_step6.jpg" alt="PB" width="1000">
-</p>
+Step 8:
+Identificación de sistemas externos que interactúan con el dominio, ya sea enviando comandos o recibiendo notificaciones de eventos.
 
-<p align="center">
-  <img src="images/event_step7.jpg" alt="PB" width="1000">
-</p>
+Step 9:
+Refinamiento de los agregados, agrupando los eventos y comandos relacionados en unidades lógicas coherentes del dominio.
 
-<p align="center">
-  <img src="images/event_step8.jpg" alt="PB" width="1000">
-</p>
+Step 10:
+Descubrimiento de contextos delimitados (bounded contexts), agrupando los agregados interrelacionados para definir áreas funcionales autónomas dentro del modelo general.
 
-<p align="center">
-  <img src="images/event_step9.jpg" alt="PB" width="1000">
-</p>
-
-<p align="center">
-  <img src="images/event_step10.jpg" alt="PB" width="1000">
-</p>
 
 ## **Criterios de Separación de Contextos**
 
