@@ -914,6 +914,13 @@ La siguiente tabla presenta el backlog priorizado que servirá como plan de trab
 
 ### 2.5.1. EventStorming
 
+Glosario:
+
+<p align="center">
+  <img src="images/event_glosary.jpg" alt="PI5" width="1000">
+</p>
+
+
 Paso 1
 
 Se inicia con una lluvia de ideas para identificar los eventos del dominio, es decir, aquellos sucesos que ya ocurrieron en el negocio y son relevantes para el proceso que se desea modelar.
@@ -2449,6 +2456,10 @@ las vistas y la navegacion entre esas.
 
 A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del
 equipo a través de la plataforma GitHub:
+
+<p align="center">
+  <img src="images/colab_insights.jpg" alt="PI5" width="1000">
+</p>
 
 ## 4.3. Validation Interviews
 
