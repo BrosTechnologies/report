@@ -2000,7 +2000,7 @@ las pautas de diseño de Android.
 
 - Backend
 
-Se utilizó \***\*\_\_\_\_\*\*** (Luego se completa)
+El backend fue desarrollado con Spring Boot, un framework de Java que facilita la creación de aplicaciones robustas y escalables mediante una arquitectura modular. Se implementaron controladores REST para gestionar las peticiones entre el frontend y el servidor, y se empleó Spring Data JPA para la persistencia de datos, asegurando una comunicación eficiente con la base de datos y una integración fluida con el frontend y la aplicación móvil.
 
 **Software Testing**
 
@@ -2066,8 +2066,8 @@ trabajo colaborativo entre los miembros del equipo
   Landing Page.
 - Utilizaremos el lenguaje Kotlin para el desarrollo del frontend móvil en Android Studio, permitiendo
   crear interfaces nativas y fluidas en dispositivos Android.
-- se utilizo \***\*\*\*\*\***\_\_\_\***\*\*\*\*\*** para el desarrollo del backend permitiendo crear APIs
-  RESTful que se comunican con una base de datos **\*\*\*\***\_\_\_**\*\*\*\*** para gestionar la lógica del negocio y el
+- se utilizo Springboot para el desarrollo del backend permitiendo crear APIs
+  RESTful que se comunican con una base de datos SQL para gestionar la lógica del negocio y el
   intercambio de datos con el frontend.
 
 ##### **Convenciones de Commits**
@@ -2113,18 +2113,83 @@ Este enfoque asegura que las versiones del proyecto sean claras y fácilmente in
 ### 4.1.4. Software Deployment Configuration
 
 Para configurar el despliegue de la Lading Page, seguimos los pasos detallados a continuación utilizando
-**\*\*\*\***\_\_\_**\*\*\*\*** como plataforma:
+Github Pages como plataforma:
 
-Enlace del Despliegue de la Lading Page:
 
-- Paso a paso del despliegue del landing llenar aquí \***\*\_\_\_\*\***
 
-Para configurar el despliegue del Backend, seguimos los pasos detallados a continuación utilizando **\*\***\_\_\_**\*\***
+Enlace del Despliegue de la Lading Page: https://brostechnologies.github.io/landing-page/
+
+
+• 	Para configurar el despliegue de la Lading Page, seguimos los pasos detallados a continuación utilizando Github como plataforma:  
+• 	Enlace del Despliegue de la Lading Page:  
+1\.	Registro en GitHub  
+Creamos una cuenta en GitHub para poder gestionar nuestros repositorios.  
+2\.	Creación del repositorio  
+• 	Hicimos clic en el botón "New" para generar un nuevo repositorio.  
+• 	Le asignamos el nombre “landing\_page”  
+3\.	Configuración del repositorio  
+• 	Nos aseguramos de que el repositorio sea de acceso público.  
+4\.	Carga de los archivos de la landing page  
+• 	Accedimos al repositorio creado.  
+• 	Seleccionamos la opción "Upload files" y subimos todos los archivos correspondientes a nuestra landing page.  
+• 	Finalmente, confirmamos la acción con "Commit changes" para guardar los archivos.  
+5\.	Activación de GitHub Pages  
+Entramos a la sección "Settings" del repositorio.  
+Nos desplazamos hasta encontrar el apartado "GitHub Pages".  
+Elegimos la rama “gh\_pages” y guardamos los cambios con "Save".  
+
+<p align="center">
+  <img src="images/pasos_landing.jpg" alt="PI5" width="1000">
+</p> 
+
+Para configurar el despliegue del Backend, seguimos los pasos detallados a continuación utilizando Railway
 como plataforma:
 
-Enlace del Despliegue del Backend:
+Enlace del Despliegue del Backend: https://engitrack-backend-production.up.railway.app/index.html
 
-- Paso a paso del despliegue del Backend llenar aquí \***\*\_\_\_\*\***
+Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boot engitrack-backend en la plataforma Railway, con el objetivo de implementar una API REST para el almacenamiento de los datos de la aplicación en la nube. Las actividades incluyeron la configuración de un proyecto en Railway, la integración con una base de datos SQL, y la habilitación de Swagger UI para pruebas de la API. Los pasos abarcan la creación de recursos en la nube, configuración del proyecto, automatización del despliegue, y verificación del funcionamiento, siguiendo un formato claro inspirado en el ejemplo proporcionado.  
+1\.	Creación de Cuenta y Proyecto en Railway  
+•	Se creó una cuenta en la plataforma Railway para gestionar el despliegue de la aplicación.  
+•	En el panel de Railway, se inició un nuevo proyecto para alojar la aplicación arquitech-back-end.  
+•	Resultado: Se estableció un entorno en la nube listo para configurar los servicios necesarios.  
+Configuración del Servicio MySQL en Railway  
+•	Se habilitó un servicio de base de datos MySQL dentro del proyecto en Railway.  
+•	Se conectó el repositorio a través de github, importándolo al programa de Railway  
+Subida del Código al Repositorio  
+•	Se creó un repositorio en GitHub para el proyecto arquitech-back-end.  
+•	Se subieron los archivos del proyecto, incluyendo el código fuente, application.properties, y system.properties  
+•	Resultado: El código quedó disponible para su integración con Railway.  
+•	Se configuró Railway para realizar despliegues automáticos tras cada git push a la rama main.  
+•	Resultado: El proceso de despliegue se automatizó mediante la integración con GitHub.  
+•	Despliegue de la Aplicación en Railway  
+• 	Se desencadenó el primer despliegue desde Railway, que compiló el proyecto usando Maven y Java 21\.  
+• 	Se verificaron los Deploy Logs en el panel de Railway para confirmar que la aplicación iniciaba correctamente y se conectaba a la base de datos MySQL.  
+• 	Resultado: La aplicación quedó desplegada en https://engitrack-backend-production.up.railway.app/index.html  
+	  
+•	Habilitación de Swagger UI para Pruebas  
+• 	Se accedió a https://engitrack-backend-production.up.railway.app/index.html  para probar la API.  
+• 	Se configuró Swagger UI en application.properties para asegurar que usara la URL correcta (https).  
+• 	Resultado: Swagger UI quedó habilitado para interactuar con los endpoints de la API.
+
+<p align="center">
+  <img src="images/back_p1.jpg" alt="PI5" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/back_p2.jpg" alt="PI5" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/back_p3.jpg" alt="PI5" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/back_p4.jpg" alt="PI5" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/back_p5.jpg" alt="PI5" width="1000">
+</p> 
 
 Para configurar el despliegue del Frontend en Android Studio, utilizaremos **\*\***\_\_**\*\*** como plataforma:
 
