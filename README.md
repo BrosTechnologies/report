@@ -2400,7 +2400,16 @@ funcionalidades más relevantes.
 A continuación, se presentan capturas de pantalla de las vistas implementadas.
 
 1. Landing Page
+
+[Ver video de la Landing Page funcionando en el navegador](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/EXrdYoHtc0ZLmz_vJXxi8cABO93SPgR8gDd0kmyEPVpRVA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sD2VBF)
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/EXrdYoHtc0ZLmz_vJXxi8cABO93SPgR8gDd0kmyEPVpRVA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sD2VBF
+
+
 2. Backend
+
+[Ver video del Swagger mostrando que el backend responde](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/EbZ9nu3Tws9NgkITnLvccQ4BwSppEllRNbOFmqWGmAt70g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=torypA)
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/EbZ9nu3Tws9NgkITnLvccQ4BwSppEllRNbOFmqWGmAt70g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=torypA
+
 3. Aplicación Móvil
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
