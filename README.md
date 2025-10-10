@@ -2403,6 +2403,19 @@ En esta parte mostramos las tareas que se realizaron en este sprint.
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| buildtruck-backend | main | a1b2c3d4 | feat: Add unit tests for Material endpoints | Added comprehensive unit tests for TS05, TS06, TS07, TS08 covering material CRUD operations and validation logic | 04/05/2021 |
+| buildtruck-backend | main | e5f6g7h8 | test: Implement integration tests for inventory management | Created BDD features for HU01, HU02, HU03 with step definitions for material entry, usage and alert scenarios | 04/07/2021 |
+| buildtruck-frontend | develop | i9j0k1l2 | test: Add component tests for project management | Implemented unit tests for project listing (HU25) and project creation (HU09) components | 04/10/2021 |
+| buildtruck-backend | main | m3n4o5p6 | test: Add BDD features for worker management | Created .feature files for HU06, HU07, HU08 with scenarios for worker registration, task assignment and attendance | 04/12/2021 |
+| buildtruck-backend | main | q7r8s9t0 | test: Implement API integration tests for reports | Added test suite for HU19, HU20, HU21 covering daily reports, incidents and weekly reports | 04/14/2021 |
+| buildtruck-frontend | develop | u1v2w3x4 | test: Add acceptance tests for landing page | Implemented BDD tests for HU11, HU12, HU13, HU14, HU15 covering contact forms and benefits display | 04/16/2021 |
+| buildtruck-backend | main | y5z6a7b8 | test: Add unit tests for alert logic | Created tests for TS10 stock alert logic with edge cases for minimum stock validation | 04/18/2021 |
+| buildtruck-mobile | feature/testing | c9d0e1f2 | test: Implement mobile UI tests for profile management | Added test cases for HU16, HU17, HU18 covering profile editing and preferences | 04/20/2021 |
+| buildtruck-backend | main | g3h4i5j6 | test: Add integration tests for machinery endpoints | Created test suite for TS21, TS22, TS23, TS24 covering machinery CRUD and duplicate validation | 04/22/2021 |
+
+
 #### 4.2.1.5. Execution Evidence for Sprint Review
 
 En el Sprint 1 hemos logrado implementar la Lading Page, Backend como la aplicación móvil con las
@@ -2541,7 +2554,83 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/Ec
 
 ### 4.3.3. Evaluaciones según heurísticas
 
----
+# EVALUACIÓN HEURÍSTICA - ENGITRACK
+
+## INFORMACIÓN BÁSICA
+
+**SITE o APP A EVALUAR:** EngiTrack (aplicación móvil y landing page)  
+**TAREAS A EVALUAR:** Gestión de proyectos de construcción, control de materiales, asistencia de personal, reportes de avance, colaboración en equipo  
+**ESCALA DE SEVERIDAD:** 1-4 (1: superficial, 2: menor, 3: mayor, 4: muy grave)  
+
+## TABLA RESUMEN
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|----------------------------------|
+| 1 | Falta de funcionalidad offline | 4 | Flexibilidad y eficiencia de uso |
+| 2 | Diseño visual poco atractivo y falta de imágenes | 2 | Estética y diseño minimalista |
+| 3 | Funcionalidad de perfil de usuario poco útil | 2 | Utilidad y relevancia |
+| 4 | Falta de integración de multimedia en proyectos | 3 | Flexibilidad y eficiencia de uso |
+| 5 | Sistema de notificaciones limitado | 2 | Visibilidad del estado del sistema |
+| 6 | Limitaciones en el plan gratuito | 2 | Consistencia y estándares |
+| 7 | Formulario de contacto sin confirmación | 2 | Prevención de errores |
+| 8 | Falta de soporte multilenguaje completo | 2 | Accesibilidad y universalidad |
+
+## DESCRIPCIÓN DETALLADA DE PROBLEMAS
+
+### #1 Falta de funcionalidad offline
+**Severidad:** 4 - Problema muy grave  
+**Heurística violada:** Flexibilidad y eficiencia de uso  
+**Descripción:** En entornos de construcción es común tener problemas de conexión a internet. La aplicación requiere conexión constante, lo que impide su uso en zonas sin señal, afectando directamente la funcionalidad principal. Los usuarios mencionaron específicamente esta limitación como crítica para su trabajo diario en obra.
+
+### #2 Diseño visual poco atractivo y falta de imágenes
+**Severidad:** 2 - Problema menor  
+**Heurística violada:** Estética y diseño minimalista  
+**Descripción:** Los usuarios mencionaron que la interfaz es "muy sobria" y necesita más color e imágenes. Los comentarios indican que la apariencia actual es muy básica y no resulta visualmente atractiva, aunque no impide la funcionalidad básica de la aplicación.
+
+### #3 Funcionalidad de perfil de usuario poco útil
+**Severidad:** 2 - Problema menor  
+**Heurística violada:** Utilidad y relevancia  
+**Descripción:** La sección de perfil con sistema de recompensas y niveles no es percibida como útil por los usuarios objetivo. Los supervisores y jefes de obra expresaron que esta funcionalidad "no me serviría tanto", prefiriendo características más prácticas relacionadas directamente con la gestión de obra.
+
+### #4 Falta de integración de multimedia en proyectos
+**Severidad:** 3 - Problema mayor  
+**Heurística violada:** Flexibilidad y eficiencia de uso  
+**Descripción:** Los supervisores necesitan adjuntar fotos y documentos para registrar avances visuales, pero esta funcionalidad no está disponible. Actualmente deben usar herramientas externas como WhatsApp, lo que fragmenta la información y reduce la eficiencia del proceso de reportes.
+
+### #5 Sistema de notificaciones limitado
+**Severidad:** 2 - Problema menor  
+**Heurística violada:** Visibilidad del estado del sistema  
+**Descripción:** Faltan recordatorios automáticos y alertas proactivas para materiales críticos o asistencia. Los usuarios identificaron la necesidad de notificaciones más inteligentes que alerten sobre problemas potenciales antes de que ocurran, no solo recordatorios de proximidad de fechas límite.
+
+### #6 Limitaciones en el plan gratuito
+**Severidad:** 2 - Problema menor  
+**Heurística violada:** Consistencia y estándares  
+**Descripción:** Aunque se promociona como gratuita, existen limitaciones que podrían afectar la adopción inicial. Los usuarios expresaron preocupación por las restricciones encontradas en herramientas similares gratuitas, especialmente para PYMEs con recursos limitados que necesitan funcionalidades completas.
+
+### #7 Formulario de contacto sin confirmación
+**Severidad:** 2 - Problema menor  
+**Heurística violada:** Prevención de errores  
+**Descripción:** El formulario de contacto en el landing page no proporciona confirmación de envío inmediata, generando incertidumbre sobre si el mensaje fue recibido correctamente. Esto puede llevar a que los usuarios envíen múltiples veces el mismo mensaje o desconfíen del sistema.
+
+### #8 Falta de soporte multilenguaje completo
+**Severidad:** 2 - Problema menor  
+**Heurística violada:** Accesibilidad y universalidad  
+**Descripción:** Aunque el landing page tiene soporte para dos idiomas, la aplicación móvil necesita soporte completo para múltiples idiomas. Los usuarios mencionaron la necesidad de trabajar con equipos diversos que incluyen obreros extranjeros, requiriendo interfaces en diferentes idiomas.
+
+## OBSERVACIONES ADICIONALES
+
+### Aspectos Positivos Identificados
+- La aplicación es percibida como útil y práctica para la gestión diaria de obras
+- La interfaz móvil es valorada positivamente por su practicidad en entornos de construcción
+- Las funcionalidades de checklist y calendario son bien recibidas
+- La integración de chat para comentarios es considerada valiosa
+
+### Recomendaciones de los Usuarios
+- Añadir módulo de control de materiales con alertas automáticas
+- Capacidad para generar reportes en PDF
+- Funcionalidad de compartir reportes al instante con clientes
+- Mejorar la paleta de colores e incluir más elementos visuales
+- Implementar soporte multilenguaje completo en la aplicación móvil
 
 # Conclusiones
 
