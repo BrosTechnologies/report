@@ -2142,9 +2142,9 @@ creación de varios repositorios en GitHub. Nuestra organización se estructuró
 https://github.com/BrosTechnologies
 
 - Repositorio de la documentación: https://github.com/BrosTechnologies/report
-- Repositorio de la Landing Page:
-- Repositorio de la Mobile Application:
-- Repositorio del Backend:
+- Repositorio de la Landing Page: https://github.com/BrosTechnologies/landing-page
+- Repositorio de la Mobile Application: https://github.com/BrosTechnologies/front-engitrack
+- Repositorio del Backend: https://github.com/BrosTechnologies/Engitrack-backend
 
 Para gestionar eficientemente los cambios en el código fuente, se utilizó **Gitflow**, un modelo de ramificación
 que facilita el desarrollo colaborativo. Se establecieron una rama principal y varias ramas auxiliares para
