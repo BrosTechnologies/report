@@ -1178,10 +1178,36 @@ Este flujo es clave para la atención temprana de riesgos y la gestión de la se
 #### 2.5.1.3. Bounded Context Canvases
 
 <p align="center">
-  <img src="images/bounded_canvas.png" alt="PB" width="100%">
+  <img src="images/bcc_glosary.jpg" alt="PB" width="100%">
 </p>
 
-**Link del MIRO:** https://miro.com/welcomeonboard/VFVJaE96M1NLaC82QjlnVmZTWlF2emkxcHRPa1pJUWRmQlFqVXdaQi9SWmcvaGtVOVh1QjFyaUtiaHhWYjdGOXlUMFBSMjhqd1lNdDlTUnV1SE1FSUtjY0J5Zm1RaUQ3YTBuMmxES3VDV3hJQmp3NkFqOXR5by9QZEdoYnI4aVVnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=56340824162
+<p align="center">
+  <img src="images/bcc_glosary_2.jpg" alt="PB" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/bcc_1.jpg" alt="PB" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/bcc_2.jpg" alt="PB" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/bcc_3.jpg" alt="PB" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/bcc_4.jpg" alt="PB" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/bcc_5.jpg" alt="PB" width="100%">
+</p>
+
+**Link del MIRO:**
+
+https://miro.com/app/board/uXjVJ1hI9ns=/?share_link_id=819007862970 
 
 ### 2.5.2. Context Mapping
 
