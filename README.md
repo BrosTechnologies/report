@@ -2521,6 +2521,161 @@ equipo a través de la plataforma GitHub:
   <img src="images/colab_insights.jpg" alt="PI5" width="1000">
 </p>
 
+### 4.2.2. Sprint 2
+
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 2,
+enfocado en el desarrollo del servicio Backend y la aplicación movil. Se detalla el progreso tangible y
+funcional, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del
+equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una
+cooperación efectiva.
+
+#### 4.2.2.1. Sprint Planning 2
+
+En esta parte mostramos las tareas que se realizarán en este sprint.
+
+<img src="images/Sprint 2.png" alt="PB" width="1000"> 
+<table style="width:100%; border-collapse: collapse;">
+    <tr>
+        <th style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint #</th>
+        <th style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint 2</th>
+    </tr>
+    <tr>
+        <th colspan="2" style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint Planning Background</th>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Date</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">19-10-2025</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Time</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">5:00 pm - 10:00 pm</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Location</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Canal de Voz de Discord</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Prepared By</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Fernández Remón, Roy</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Attendees (to planning meeting)</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Bellido Salas, Raúl<br>Castro Sanchez, Amir Gabriel<br>Gonzales Valverde, Carlos Matthew<br>Prado Vargas, Mario Benjamín<br>Fernández Remón, Roy</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 1 Review Summary</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Se completó el desarrollo de la Landing Page (EP05) y se establecieron las estructuras iniciales del backend y frontend (EP04, EP06). Quedaron pendientes ajustes menores en el formulario de contacto (HU12) que se re-priorizarán. La funcionalidad de "Registrar Perfil" (HU16) fue completada y aceptada.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 1 Retrospective Summary</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">El equipo identificó cuellos de botella en la integración de los endpoints del frontend con el backend. El plan de mejora para el Sprint 2 es definir 'Definition of Done' más estrictos para los endpoints (incluyendo pruebas de Postman) y realizar revisiones de PR (Pull Request) en parejas (pair programming) antes del merge.</td>
+    </tr>
+    <tr>
+        <th colspan="2" style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 2 Goal</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">El objetivo principal de este sprint es desarrollar las funcionalidades core de la aplicación, enfocándose en la <b>Gestión de Inventario (EP01)</b> y la <b>Gestión de Trabajadores (EP02)</b>, incluyendo el registro de materiales, el control de asistencia y el registro de personal.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 1 Velocity</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">36</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sum of Story Points</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">35</td>
+    </tr>
+</table>
+
+#### 4.2.2.2. Sprint Backlog 1
+
+## Product Backlog - EngiTrack
+
+| Id | Title | Description | Estimation (Hours) | Assigned To | Status | Epic / Story ID | Título (original) | Descripción (original) | Criterios de Aceptación | Relacionado con (Epic ID) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| HU02.1 | Registrar Uso de Materiales (Frontend) | Implementar UI para registrar el consumo de materiales en obra. | 8 | Frontend Dev | To-do | EP01/HU02 | Registrar Uso de Materiales en Obra | Como Supervisor de Obra, quiero registrar el uso de materiales, para controlar el consumo y evitar desperdicios. | 1. Registro exitoso de uso. 2. Error si se intenta usar más del stock disponible. | EP01 |
+| HU02.2 | Registrar Uso de Materiales (Backend) | Crear endpoint para procesar el uso y actualizar el stock en BD. | 8 | Backend Dev | To-do | EP01/HU02 | Registrar Uso de Materiales en Obra | Como Supervisor de Obra, quiero registrar el uso de materiales, para controlar el consumo y evitar desperdicios. | 1. Registro exitoso de uso. 2. Error si se intenta usar más del stock disponible. | EP01 |
+| HU03.1 | Alertas de Inventario (Lógica de Stock) | Implementar lógica de backend que verifique el stock mínimo tras un uso. | 6 | Backend Dev | InProcess | EP01/HU03 | Recibir Alertas de Bajo Nivel de Inventario | Como Supervisor de Obra, quiero recibir alertas cuando el inventario esté bajo, para abastecer a tiempo. | 1. Notificación enviada si stock < mínimo. 2. No enviar si stock >= mínimo. | EP01 |
+| HU03.2 | Alertas de Inventario (Notificación) | Configurar y disparar la notificación (email o push) al usuario. | 5 | Backend Dev | InProcess | EP01/HU03 | Recibir Alertas de Bajo Nivel de Inventario | Como Supervisor de Obra, quiero recibir alertas cuando el inventario esté bajo, para abastecer a tiempo. | 1. Notificación enviada si stock < mínimo. 2. No enviar si stock >= mínimo. | EP01 |
+| HU04.1 | Historial de Inventario (Endpoint) | Desarrollar endpoint GET que devuelva el historial de transacciones de un material. | 6 | Backend Dev | To-do | EP01/HU04 | Consultar Historial de Transacciones de Inventario | Como Supervisor, quiero consultar el historial de transacciones para auditar el uso de materiales. | 1. Mostrar lista con transacciones. 2. Mensaje si no hay transacciones. | EP01 |
+| HU04.2 | Historial de Inventario (Frontend) | Maquetar la vista que consume y muestra el historial de transacciones. | 7 | Frontend Dev | To-do | EP01/HU04 | Consultar Historial de Transacciones de Inventario | Como Supervisor, quiero consultar el historial de transacciones para auditar el uso de materiales. | 1. Mostrar lista con transacciones. 2. Mensaje si no hay transacciones. | EP01 |
+| HU06.1 | Registro de Trabajadores (Formulario) | Desarrollar el formulario de alta y edición de trabajadores (datos, cargo, especialidad). | 8 | Full Stack Dev | ToReview | EP02/HU06 | Registro de trabajadores | Como supervisor, quiero registrar trabajadores (datos, cargo, especialidad) para control centralizado. | 1. Registro exitoso de nuevo trabajador. 2. Modificación exitosa de trabajador existente. | EP02 |
+| HU06.2 | Registro de Trabajadores (Endpoints) | Implementar endpoints POST y PUT para gestionar trabajadores en BD. | 7 | Backend Dev | ToReview | EP02/HU06 | Registro de trabajadores | Como supervisor, quiero registrar trabajadores (datos, cargo, especialidad) para control centralizado. | 1. Registro exitoso de nuevo trabajador. 2. Modificación exitosa de trabajador existente. | EP02 |
+| HU07.1 | Asignación de Tareas (Lógica) | Implementar lógica para asignar y modificar tareas/roles a trabajadores. | 6 | Backend Dev | To-do | EP02/HU07 | Asignación de tareas y roles | Como supervisor, quiero asignar tareas y roles a cada trabajador para saber sus responsabilidades. | 1. Asignación inicial guardada. 2. Modificación de tarea actualizada. | EP02 |
+| HU07.2 | Asignación de Tareas (UI) | Desarrollar la interfaz para seleccionar trabajador y asignarle tarea/rol. | 7 | Frontend Dev | To-do | EP02/HU07 | Asignación de tareas y roles | Como supervisor, quiero asignar tareas y roles a cada trabajador para saber sus responsabilidades. | 1. Asignación inicial guardada. 2. Modificación de tarea actualizada. | EP02 |
+| HU16 | Registrar/Editar Perfil Básico | Implementar formulario para que el supervisor registre y edite su perfil (nombre, cargo). | 8 | Full Stack Dev | Done | EP04/HU16 | Registrar Perfil | Como supervisor, quiero registrar mi perfil para personalizar mi experiencia de uso. | 1. Edición exitosa del perfil. 2. Error si campos obligatorios (correo) están vacíos. | EP04 |
+| HU17 | Subir Foto de Perfil | Implementar funcionalidad para subir y validar imagen de perfil (.jpg, .png). | 6 | Full Stack Dev | Done | EP04/HU17 | Editar Perfil | Como supervisor de obra, quiero editar mi perfil registrado, para mantener actualizada mi información. | 1. Subir foto con éxito. 2. Error si el formato no es válido (ej. PDF). | EP04 |
+| HU20.1 | Generar Reporte Incidentes (Formulario) | Crear UI para registrar incidentes, incluyendo campos obligatorios. | 8 | Frontend Dev | To-do | EP03/HU20 | Generar Reporte de Incidentes | Como supervisor, quiero generar reportes de incidentes para dejar constancia de problemas. | 1. Generación de reporte diario de obra. 2. Validación de campos obligatorios. | EP03 |
+| HU20.2 | Generar Reporte Incidentes (Endpoint) | Endpoint POST para guardar el reporte de incidente en la BD. | 7 | Backend Dev | To-do | EP03/HU20 | Generar Reporte de Incidentes | Como supervisor, quiero generar reportes de incidentes para dejar constancia de problemas. | 1. Generación de reporte diario de obra. 2. Validación de campos obligatorios. | EP03 |
+| TS01 | Endpoint GET Obras (Gerente) | Desarrollar endpoint que devuelva solo las obras asignadas al gerente autenticado. | 5 | Backend Dev | InProcess | TS01 | Endpoint GET de obras para gerente | Como developer, quiero implementar un endpoint que devuelva las obras asignadas al gerente autenticado. | Endpoint retorna JSON filtrado por ID de gerente. | EP06 |
+| TS05 | Endpoint GET Materiales por Obra | Implementar endpoint que retorne todos los materiales de una obra específica por ID. | 4 | Backend Dev | Done | TS05 | Endpoint GET de materiales por obra | Como developer, quiero retornar todos los materiales registrados en una obra específica. | Endpoint retorna JSON con materiales filtrados por ID de obra. | EP01 |
+| TS14 | Endpoint POST Registro de Incidente | Crear endpoint para registrar nuevos incidentes, con validación de campos obligatorios. | 6 | Backend Dev | To-do | TS14 | Endpoint POST para registrar nuevo incidente | Como developer, quiero implementar un endpoint para crear incidentes con validación de campos obligatorios. | Endpoint funcional con validación y respuesta 201 Created. | EP03 |
+| SP01.1 | Investigación APIs (ConstruMax) | Analizar API de "ConstruMax" para automatizar registro de materiales y documentar endpoints. | 8 | Arquitecto de Software | To-do | SP01 | Investigación de integración con APIs de proveedores | Analizar disponibilidad y documentación de APIs de proveedores como "ConstruMax". | Reporte con endpoints, autenticación y complejidad. | EP01 |
+| SP01.2 | Investigación APIs (Proveedores B) | Analizar APIs de 2 proveedores alternativos y completar reporte comparativo. | 8 | Arquitecto de Software | To-do | SP01 | Investigación de integración con APIs de proveedores | Analizar disponibilidad y documentación de APIs de proveedores como "ConstruMax". | Reporte con endpoints, autenticación y complejidad. | EP01 |
+| SP04 | Estudio Bibliotecas PDF | Evaluar y comparar 3 bibliotecas (backend) para generación de reportes e incidentes en PDF. | 8 | Tech Lead | InProcess | SP04 | Estudio de bibliotecas para generación de PDFs | Evaluar bibliotecas para generar reportes e incidentes en PDF de forma eficiente. | Recomendar la mejor opción con ejemplos y performance. | EP03 |
+
+#### 4.2.2.3. Development Evidence for Sprint Review
+
+
+- Se presentan los commits realizados en el repositorio de la Aplicación móvil desarrollada en Android estudio en GitHub.
+
+  Link del repositorio de la Aplicación móvil: .apk exportado de Android Studio
+
+- Se presentan los commits realizados en el repositorio de la Aplicación móvil desarrollada en Flutter en GitHub.
+
+  Link del repositorio de la Aplicación móvil: .apk exportado de Android Studio
+
+#### 4.2.1.4. Testing Suite Evidence for Sprint Review 
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| buildtruck-backend | main | 9383c9c | docs: Enhance Bounded Context Canvases with images and links | Updated the Bounded Context documentation to include relevant images and hyperlinks for better visualization and navigation. | 24/10/2025 |
+| buildtruck-backend | main | beb02ea | Add files via upload | Added new project files using the web upload interface. | 24/10/2025 |
+| buildtruck-backend | main | 2f8c477 | docs: Add repository links for various projects | Updated documentation to include direct links to the repositories for each project mentioned. | 22/10/2025 |
+| buildtruck-backend | main | ee8bbc3 | docs: Update Sprint Backlog with new tasks and details | Populated the Sprint Backlog file with newly defined tasks, estimations, and details for the upcoming sprint. | 22/10/2025 |
+| buildtruck-backend | main | 12abfb0 | docs: Change 'librerías' to 'bibliotecas' in README.md | Corrected a typo in the README.md file, changing 'librerías' to 'bibliotecas' for consistency. | 22/10/2025 |
+| buildtruck-backend | main | 724ebfb | docs: fixed special characters within acceptance criteria | Cleaned up acceptance criteria in the documentation to correctly render special characters and avoid formatting issues. | 22/10/2025 |
+
+
+
+#### 4.2.1.5. Execution Evidence for Sprint Review
+
+En el Sprint 2 hemos logrado implementar el servicio back-end completo, así como la versión completa de la aplicación móvil desarrollada en Android y un avance de la aplicación móvil realizada en flutter
+A continuación, se presentan capturas de pantalla de las vistas implementadas.
+Backend
+Aplicación en Android
+Aplicación en Flutter
+
+#### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, se documentaron los endpoints desarrollados en el backend utilizando la especificación OpenAPI (swagger), con el objetivo de facilitar su comprensión, prueba y futura integración por parte de otros miembros del equipo o desarrolladores externos.
+A continuación, se presenta capturas de la relación de endpoints implementados y documentados, indicando las acciones que soportan, sus respectivos métodos HTTP, parámetros relevantes, ejemplo de uso y respuesta.
+
+#### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante este Sprint, no se realizaron cambios adicionales en el proceso de despliegue. Sin embargo, se
+mantiene operativo el entorno previamente configurado y desplegado para cada uno de los componentes del
+sistema.
+
+A continuación, se presentan los enlaces de despliegue correspondientes, junto con una captura
+representativa de cada uno:
+
+Backend: 
+
+Aplicación en Android
+
+Aplicación en flutter
+
+#### 4.2.1.8. Team Collaboration Insights during Sprint
+
+El equipo desarrolló la Aplicación móvil en los 2 entornos requeridos, así como la versión completa del servicio back end . En la aplicación móvil , se enfoco mas en
+las vistas y la navegacion entre esas.
+
+A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del
+equipo a través de la plataforma GitHub:
+
+
+
 ## 4.3. Validation Interviews
 
 ### 4.3.1. Diseño de Entrevistas
