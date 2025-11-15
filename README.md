@@ -2919,4 +2919,5 @@ Anexo D. Link de About-the-team:
 https://upcedupe-my.sharepoint.com/personal/u202310680_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310680%5Fupc%5Fedu%5Fpe%2FDocuments%2FMOVILES%2Fupc%2Dpre%2D202501%2Dcc238%2D1795%2DBrosTechnologies%2Dabout%2Dthe%2Dteam%2Dsprint%2D2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee8538b1b%2Daab9%2D45ec%2Db238%2D7153e90cd3a3
 
 Anexo E. Link de About-the-Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQASbXif_YYFTquEc8A4S8W8AY0wV65xlWdwAuJy2JChFWY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RoU5um 
+
 Anexo F. Link de la aplicación movil en android: https://appdistribution.firebase.google.com/testerapps/1:526610844773:android:63ec1686919f812c7bca8c/releases/009mgnus3uico?utm_source=firebase-console 
