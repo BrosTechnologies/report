@@ -2170,6 +2170,7 @@ https://github.com/BrosTechnologies
 - Repositorio de la documentación: https://github.com/BrosTechnologies/report
 - Repositorio de la Landing Page: https://github.com/BrosTechnologies/landing-page
 - Repositorio de la Mobile Application: https://github.com/BrosTechnologies/front-engitrack
+- Repositorio de la Mobile Application en flutter: https://github.com/BrosTechnologies/front-engitrack
 - Repositorio del Backend: https://github.com/BrosTechnologies/Engitrack-backend
 
 Para gestionar eficientemente los cambios en el código fuente, se utilizó **Gitflow**, un modelo de ramificación
@@ -2436,7 +2437,7 @@ En esta parte mostramos las tareas que se realizaron en este sprint.
 
 - Se presentan los commits realizados en el repositorio de la Aplicación móvil en GitHub.
 
-  Link del repositorio de la Aplicación móvil: .apk exportado de Android Studio
+  Link del repositorio de la Aplicación móvil: https://github.com/BrosTechnologies/front-engitrack
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -2623,11 +2624,11 @@ Link Trello: (https://trello.com/b/Uyt2ETpJ)
 
 - Se presentan los commits realizados en el repositorio de la Aplicación móvil desarrollada en Android estudio en GitHub.
 
-  Link del repositorio de la Aplicación móvil: .apk exportado de Android Studio
+  Link del repositorio de la Aplicación móvil en android: https://github.com/BrosTechnologies/front-engitrack
 
 - Se presentan los commits realizados en el repositorio de la Aplicación móvil desarrollada en Flutter en GitHub.
 
-  Link del repositorio de la Aplicación móvil: .apk exportado de Android Studio
+  Link del repositorio de la Aplicación móvil en flutter: https://github.com/BrosTechnologies/front-engitrack-flutter
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review 
 
