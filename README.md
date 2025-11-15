@@ -2656,10 +2656,23 @@ Link Trello: (https://trello.com/b/Uyt2ETpJ)
 
 En el Sprint 2 hemos logrado implementar el servicio back-end completo, así como la versión completa de la aplicación móvil desarrollada en Android y un avance de la aplicación móvil realizada en flutter
 A continuación, se presentan capturas de pantalla de las vistas implementadas.
+
+<p align="center">
+  <img src="backend_video_tb2.jpg" alt="PI5" width="1000">
+</p> 
+
 Backend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/IQDbjhZzFbYBR5Q7Zw3zuJezAfnTKVSHI4yUCTyj2EnyCEA?e=i9JekG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+<p align="center">
+  <img src="android_video_tb2.jpg" alt="PI5" width="1000">
+</p> 
 
 Aplicación en Android: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/IQB14kuRU33HToR_ymFM8FmLAQND8zIgBUg7t0m9Jo3gXE4?e=ydV9m9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+<p align="center">
+  <img src="flutter_video_tb2.jpg" alt="PI5" width="1000">
+</p> 
+
 
 Aplicación en Flutter: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314130_upc_edu_pe/IQBhYdWrcNLcQp2pxTz0wKPsARKxDll7xUQkDn4U6HijKxU?e=WTzkT2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
@@ -2669,7 +2682,9 @@ Aplicación en Flutter: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231
 Durante este Sprint, se documentaron los endpoints desarrollados en el backend utilizando la especificación OpenAPI (swagger), con el objetivo de facilitar su comprensión, prueba y futura integración por parte de otros miembros del equipo o desarrolladores externos.
 A continuación, se presenta capturas de la relación de endpoints implementados y documentados, indicando las acciones que soportan, sus respectivos métodos HTTP, parámetros relevantes, ejemplo de uso y respuesta.
 
-
+<p align="center">
+  <img src="tb2_backend.jpg" alt="PI5" width="1000">
+</p> 
 
 #### 4.2.2.7. Software Deployment Evidence for Sprint Review
 
