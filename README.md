@@ -2587,7 +2587,7 @@ En esta parte mostramos las tareas que se realizarán en este sprint.
     </tr>
 </table>
 
-#### 4.2.2.2. Sprint Backlog 1
+#### 4.2.2.2. Sprint Backlog 2
 
 ## Product Backlog - EngiTrack
 
