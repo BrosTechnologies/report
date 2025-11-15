@@ -2535,7 +2535,7 @@ En esta parte mostramos las tareas que se realizarán en este sprint.
 
 <img src="images/Trello_Sprint2.png" alt="PB" width="1000"> 
 
-Link Trello: 
+Link Trello: (https://trello.com/b/Uyt2ETpJ)
 
 
 <table style="width:100%; border-collapse: collapse;">
