@@ -2647,12 +2647,13 @@ Link Trello: (https://trello.com/b/Uyt2ETpJ)
 
 En el Sprint 2 hemos logrado implementar el servicio back-end completo, así como la versión completa de la aplicación móvil desarrollada en Android y un avance de la aplicación móvil realizada en flutter
 A continuación, se presentan capturas de pantalla de las vistas implementadas.
-Backend:
+Backend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/IQDbjhZzFbYBR5Q7Zw3zuJezAfnTKVSHI4yUCTyj2EnyCEA?e=i9JekG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 Aplicación en Android: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/IQB14kuRU33HToR_ymFM8FmLAQND8zIgBUg7t0m9Jo3gXE4?e=ydV9m9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Aplicación en Flutter
+Aplicación en Flutter:
+
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2670,11 +2671,12 @@ sistema.
 A continuación, se presentan los enlaces de despliegue correspondientes, junto con una captura
 representativa de cada uno:
 
-Backend: 
+Backend: https://engitrack-backend-production.up.railway.app/index.html
 
-Aplicación en Android:
+Aplicación en Android: https://appdistribution.firebase.google.com/testerapps/1:526610844773:android:63ec1686919f812c7bca8c/releases/009mgnus3uico?utm_source=firebase-console 
 
 Aplicación en flutter:
+
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
