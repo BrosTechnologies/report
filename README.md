@@ -71,9 +71,10 @@
 
 Aqui podemos observar las diferentes versiones registradas del informe, conteniendo el numero de versión, la fecha en la que se desarrolló la versión, y la descripcion de la modificación
 
-| **Versión** | **Fecha**  | **Autor** | **Descripción de modificación**                                         |
+| **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 | ----------- | ---------- | --------- | ----------------------------------------------------------------------- |
 | 1.0         | 26/08/2025 | Anónimo   | Se implementó el diseño/esqueleto del informe sobre todas las secciones |
+| 2.0         | 18/09/2025 | BrosTechnologies | Se completó el contenido principal del informe, incluyendo Lean UX, Needfinding, DDD, Sprints 1 y 2, y Entrevistas de Validación. |
 
 ---
 
