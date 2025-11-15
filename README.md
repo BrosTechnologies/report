@@ -2639,7 +2639,7 @@ Link Trello: (https://trello.com/b/Uyt2ETpJ)
 
   Link del repositorio de la Aplicación móvil en flutter: https://github.com/BrosTechnologies/front-engitrack-flutter
 
-#### 4.2.1.4. Testing Suite Evidence for Sprint Review 
+#### 4.2.2.4. Testing Suite Evidence for Sprint Review 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -2652,7 +2652,7 @@ Link Trello: (https://trello.com/b/Uyt2ETpJ)
 
 
 
-#### 4.2.1.5. Execution Evidence for Sprint Review
+#### 4.2.2.5. Execution Evidence for Sprint Review
 
 En el Sprint 2 hemos logrado implementar el servicio back-end completo, así como la versión completa de la aplicación móvil desarrollada en Android y un avance de la aplicación móvil realizada en flutter
 A continuación, se presentan capturas de pantalla de las vistas implementadas.
@@ -2664,14 +2664,14 @@ Aplicación en Android: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231
 Aplicación en Flutter:
 
 
-#### 4.2.1.6. Services Documentation Evidence for Sprint Review
+#### 4.2.2.6. Services Documentation Evidence for Sprint Review
 
 Durante este Sprint, se documentaron los endpoints desarrollados en el backend utilizando la especificación OpenAPI (swagger), con el objetivo de facilitar su comprensión, prueba y futura integración por parte de otros miembros del equipo o desarrolladores externos.
 A continuación, se presenta capturas de la relación de endpoints implementados y documentados, indicando las acciones que soportan, sus respectivos métodos HTTP, parámetros relevantes, ejemplo de uso y respuesta.
 
 
 
-#### 4.2.1.7. Software Deployment Evidence for Sprint Review
+#### 4.2.2.7. Software Deployment Evidence for Sprint Review
 
 Durante este Sprint, no se realizaron cambios adicionales en el proceso de despliegue. Sin embargo, se
 mantiene operativo el entorno previamente configurado y desplegado para cada uno de los componentes del
@@ -2687,7 +2687,7 @@ Aplicación en Android: https://appdistribution.firebase.google.com/testerapps/1
 Aplicación en flutter:
 
 
-#### 4.2.1.8. Team Collaboration Insights during Sprint
+#### 4.2.2.8. Team Collaboration Insights during Sprint
 
 El equipo desarrolló la Aplicación móvil en los 2 entornos requeridos, así como la versión completa del servicio back end . En la aplicación móvil , se enfoco mas en
 las vistas y la navegacion entre esas.
