@@ -92,6 +92,7 @@ Aqui podemos observar La cantidad de commits realizados por cada persona por ent
 
 <div style="page-break-after: always;">
 
+<div style="break-before: page; page-break-before: always;"></div>
 # Contenido
 
 - [Carátula](#course-project)
@@ -718,6 +719,8 @@ En los siguientes cuadros podemos observar los usuarios ideales de nuestra soluc
 
 <img width="1050" height="1600" alt="Carlos Huamán (1)" src="https://github.com/user-attachments/assets/428767d8-e978-45b3-81c6-ada8f1178c26" />
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 <img width="1050" height="1600" alt="Mariana Torres (1)" src="https://github.com/user-attachments/assets/a6cba093-236a-4590-90a2-5cca36b9fdba" />
 
 ### 2.3.2. User Task Matrix
@@ -753,6 +756,8 @@ User Journey Mapping del segmento #2: Contratista de empresas privadas:
 Complementariamente, el Empathy Mapping se enfoca en comprender el universo interno de nuestros usuarios, sintetizando lo que ellos dicen, piensan, sienten y hacen en su contexto laboral. En conjunto, estas herramientas transforman los datos y tareas en una comprensión humana y profunda, esencial para diseñar una solución que no solo sea funcional, sino también intuitiva y emocionalmente resonante para quienes la utilizarán.
 
 <img width="1050" height="1270" alt="Empathy Carlos Huaman" src="https://github.com/user-attachments/assets/e00bd736-ea18-4dfd-abc8-0c13d4929d75" />
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 <img width="1050" height="1180" alt="Empathy Mariana Torres" src="https://github.com/user-attachments/assets/1a85cf74-ec24-4e27-b8df-af6b2f3dbfd7" />
 
@@ -927,7 +932,7 @@ La siguiente tabla presenta el backlog priorizado que servirá como plan de trab
 Glosario:
 
 <p align="center">
-  <img src="images/event_glosary.jpg" alt="PI5" width="1000">
+  <img src="images/event_glosary.jpg" alt="PI5" width="500">
 </p>
 
 
@@ -1376,7 +1381,7 @@ Propósito: Consumir eventos de autenticación/autorización y comunicarlos al d
 
 En esta sección, el equipo explica y presenta los Component Diagrams de C4 Model para cada uno de los Containers considerados para el bounded context. En estos diagramas el equipo busca reflejar la descomposición de cada Container para identificar los bloques estructurales principales y sus interacciones.
 
-<img width="4600" height="3628" alt="structurizr-106317-Component-001" src="https://github.com/user-attachments/assets/58600ad9-67db-4e1c-882a-9d42e3d1ab19" />
+<img width="1000" height="1000" alt="structurizr-106317-Component-001" src="https://github.com/user-attachments/assets/58600ad9-67db-4e1c-882a-9d42e3d1ab19" />
 
 #### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1386,13 +1391,13 @@ En esta sección, el equipo presenta y explica los diagramas que presentan un ma
 
 En esta sección se presenta el Class Diagram de UML para las clases del Domain Layer en el bounded context.
 
-<img width="1461" height="828" alt="Captura de pantalla 2025-09-18 223257" src="https://github.com/user-attachments/assets/6f20b94c-8bf9-4f35-9baa-2648c40f8109" />
+<img width="1000" height="1000" alt="Captura de pantalla 2025-09-18 223257" src="https://github.com/user-attachments/assets/6f20b94c-8bf9-4f35-9baa-2648c40f8109" />
 
 ##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
 En esta sección se presenta y explica para cada producto donde se implementa el bounded context, el Database Diagram que incluye los objetos de base de datos que permitirán la persistencia de información para los objetos del bounded context.
 
-<img width="1466" height="723" alt="Captura de pantalla 2025-09-18 223230" src="https://github.com/user-attachments/assets/549f75f7-46bf-4e5a-8ae1-93e21cdf31c6" />
+<img width="1000" height="1000" alt="Captura de pantalla 2025-09-18 223230" src="https://github.com/user-attachments/assets/549f75f7-46bf-4e5a-8ae1-93e21cdf31c6" />
 
 ### 2.6.2. Bounded Context: Control de Inventario
 
@@ -1467,7 +1472,7 @@ Repositories:
 
 En esta sección, el equipo explica y presenta los Component Diagrams de C4 Model para cada uno de los Containers considerados para el bounded context. En estos diagramas el equipo busca reflejar la descomposición de cada Container para identificar los bloques estructurales principales y sus interacciones.
 
-<img width="4600" height="3120" alt="structurizr-106317-Component-001 (1)" src="https://github.com/user-attachments/assets/e5498d2e-2c02-4edd-9397-b7b48e2ce7e0" />
+<img width="1000" height="1000" alt="structurizr-106317-Component-001 (1)" src="https://github.com/user-attachments/assets/e5498d2e-2c02-4edd-9397-b7b48e2ce7e0" />
 
 #### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1475,13 +1480,13 @@ En esta sección, el equipo presenta y explica los diagramas que presentan un ma
 
 ##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
 
-<img width="1757" height="832" alt="Captura de pantalla 2025-09-18 223128" src="https://github.com/user-attachments/assets/de53f682-98a7-41ae-a076-bc320b4ea3b2" />
+<img width="1000" height="1000" alt="Captura de pantalla 2025-09-18 223128" src="https://github.com/user-attachments/assets/de53f682-98a7-41ae-a076-bc320b4ea3b2" />
 
 ##### 2.6.2.6.2. Bounded Context Database Design Diagram
 
 En esta sección se presenta y explica para cada producto donde se implementa el bounded context, el Database Diagram que incluye los objetos de base de datos que permitirán la persistencia de información para los objetos del bounded context.
 
-<img width="572" height="821" alt="Captura de pantalla 2025-09-18 223041" src="https://github.com/user-attachments/assets/a8432360-da31-488e-ab57-679c69ee0c28" />
+<img width="1000" height="1000" alt="Captura de pantalla 2025-09-18 223041" src="https://github.com/user-attachments/assets/a8432360-da31-488e-ab57-679c69ee0c28" />
 
 ### 2.6.3. Bounded Context: Control de Trabajadores
 
