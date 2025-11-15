@@ -2873,11 +2873,28 @@ El plan Lean UX canvas identifica que el usuario crítico y el vector de adopci�
 
 ## Video App Validation
 
+El siguiente video documenta el proceso de **validación de la aplicación** (App Validation), una etapa fundamental detallada en la sección 4.3 de este informe. 
+
+En la grabación, se evidencia la metodología de entrevistas de validación aplicadas a nuestro segmento objetivo principal: Supervisores y Jefes de Obra. Se muestra cómo se les presenta el prototipo interactivo de EngiTrack y la Landing Page desplegada. El objetivo fue recopilar su feedback directo sobre la usabilidad, la propuesta de valor y la utilidad de las funcionalidades clave.
+
+
+*(Pega aquí el enlace a tu video de "App Validation")*
+
+
+
 ## Video About-the-product
+
+El siguiente video presenta "EngiTrack", el producto digital desarrollado por la startup **BrosTechnologies**. En esta presentación, el equipo describe la problemática identificada en el sector construcción, donde las PYMEs dependen de métodos manuales e ineficientes para su gestión.
+
+El video detalla la propuesta de valor de EngiTrack como una solución móvil, accesible e intuitiva. Se exponen las funcionalidades clave diseñadas para los segmentos objetivo, el **Supervisor de Obra** y el **Contratante**, resumiendo cómo la aplicación centraliza la información para optimizar la gestión de proyectos, tareas y colaboradores, asegurando un control total y mayor transparencia.
+
+*(Pega aquí el enlace a tu video "About the Product")*
 
 ## Video About-the-team
 
----
+El siguiente video presenta a los miembros de la startup **BrosTechnologies**, el equipo responsable del análisis, diseño y desarrollo de la solución EngiTrack. Cada integrante describe su rol principal dentro del proyecto, las tecnologías que aplicó y su contribución específica al producto final. Este video complementa la información presentada en la sección 1.1.2 (Perfiles de integrantes del equipo) y refleja la colaboración y la aplicación práctica de los conocimientos descritos en la tabla de Student Outcome.
+
+*(Pega aquí el enlace a tu video)*
 
 # Glosario
 
