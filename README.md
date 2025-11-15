@@ -2709,7 +2709,9 @@ las vistas y la navegacion entre esas.
 A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del
 equipo a través de la plataforma GitHub:
 
-
+<p align="center">
+  <img src="images/tb2_insights.jpg" alt="PI5" width="1000">
+</p> 
 
 ## 4.3. Validation Interviews
 
