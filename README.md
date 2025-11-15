@@ -2699,7 +2699,6 @@ Backend: https://engitrack-backend-production.up.railway.app/index.html
 
 Aplicación en Android: https://appdistribution.firebase.google.com/testerapps/1:526610844773:android:63ec1686919f812c7bca8c/releases/009mgnus3uico?utm_source=firebase-console 
 
-Aplicación en flutter:
 
 
 #### 4.2.2.8. Team Collaboration Insights during Sprint
