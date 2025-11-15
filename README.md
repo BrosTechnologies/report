@@ -2533,7 +2533,7 @@ cooperación efectiva.
 
 En esta parte mostramos las tareas que se realizarán en este sprint.
 
-<img src="images/" alt="PB" width="1000"> 
+<img src="images/Trello_Sprint2.png" alt="PB" width="1000"> 
 
 <table style="width:100%; border-collapse: collapse;">
     <tr>
