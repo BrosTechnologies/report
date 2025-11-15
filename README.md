@@ -2896,7 +2896,7 @@ El video detalla la propuesta de valor de EngiTrack como una solución móvil, a
 
 El siguiente video presenta a los miembros de la startup **BrosTechnologies**, el equipo responsable del análisis, diseño y desarrollo de la solución EngiTrack. Cada integrante describe su rol principal dentro del proyecto, las tecnologías que aplicó y su contribución específica al producto final. Este video complementa la información presentada en la sección 1.1.2 (Perfiles de integrantes del equipo) y refleja la colaboración y la aplicación práctica de los conocimientos descritos en la tabla de Student Outcome.
 
-*(Pega aquí el enlace a tu video)*
+https://upcedupe-my.sharepoint.com/personal/u202310680_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310680%5Fupc%5Fedu%5Fpe%2FDocuments%2FMOVILES%2Fupc%2Dpre%2D202501%2Dcc238%2D1795%2DBrosTechnologies%2Dabout%2Dthe%2Dteam%2Dsprint%2D2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee8538b1b%2Daab9%2D45ec%2Db238%2D7153e90cd3a3
 
 # Glosario
 
