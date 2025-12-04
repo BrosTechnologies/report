@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="200">
     <h3 style="border: none; margin-bottom: 0;">Universidad Peruana de Ciencias Aplicadas</h1>    
-    <div style="border-bottom: 1px solid #d0d7de; width: 80%; margin: 10px auto;"></div>
+    <div style="border-bottom: 1px solid #d0d7de; width: 40%; margin: 10px auto;"></div>
     <h3 style="border: none; margin-top: 0; font-size: 1.3rem">Ingeniería de Software</h3>
     <p>
         <strong>Periodo: </strong> 202520<br><br>
@@ -13,9 +13,9 @@
     <p>
         <strong>Docente:</strong> Jorge Luis Mayta Guillermo
     </p>
-    <div style="border-bottom: 2px solid #aaa; width: 60%; margin: 30px auto;"></div>
+    <div style="border-bottom: 2px solid #aaa; width: 30%; margin: 30px auto;"></div>
     <h3 style="border: none; margin-bottom: 0; margin-top: 30px;">Informe del Trabajo Final</h1>
-    <div style="border-bottom: 1px solid #d0d7de; width: 40%; margin: 10px auto 20px auto;"></div>
+    <div style="border-bottom: 1px solid #d0d7de; width: 20%; margin: 10px auto 20px auto;"></div>
     <p style="font-size: 1.1em; margin-bottom: 60px;">
         <strong>Startup:</strong> BrosTechnologies<br>
         <strong>Producto:</strong> Engitrack
