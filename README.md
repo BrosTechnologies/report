@@ -50,7 +50,7 @@
 
 ---
 
-<div style="page-break-after: always;">
+<div style="break-before: page; page-break-before: always;"></div>
 
 # Registro de Versiones del Informe
 
