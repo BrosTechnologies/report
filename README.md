@@ -1485,6 +1485,8 @@ En esta sección se presenta y explica para cada producto donde se implementa el
 
 <img width="1000" height="auto" alt="Captura de pantalla 2025-09-18 223230" src="https://github.com/user-attachments/assets/549f75f7-46bf-4e5a-8ae1-93e21cdf31c6" />
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 ### 2.6.2. Bounded Context: Control de Inventario
 
 #### 2.6.2.1. Domain Layer
@@ -1576,6 +1578,8 @@ En esta sección se presenta y explica para cada producto donde se implementa el
 
 <img width="600" height="auto" alt="Captura de pantalla 2025-09-18 223041" src="https://github.com/user-attachments/assets/a8432360-da31-488e-ab57-679c69ee0c28" />
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 ### 2.6.3. Bounded Context: Control de Trabajadores
 
 #### 2.6.3.1. Domain Layer
@@ -1657,8 +1661,6 @@ En esta sección se presenta y explica para cada producto donde se implementa el
 
 **- NotificationService:** Publica eventos cuando un trabajador se registra o falta (para Payroll o supervisión).
 
-<div style="break-before: page; page-break-before: always;"></div>
-
 #### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
 
 En esta sección, el equipo explica y presenta los Component Diagrams de C4 Model para cada uno de los Containers considerados para el bounded context. En estos diagramas el equipo busca reflejar la descomposición de cada Container para identificar los bloques estructurales principales y sus interacciones.
@@ -1667,19 +1669,23 @@ En esta sección, el equipo explica y presenta los Component Diagrams de C4 Mode
   <img src="images/Component_trabajadores.png" alt="PI5" width="1000">
 </p>
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 
 En esta sección, el equipo presenta y explica los diagramas que presentan un mayor detalle sobre la implementación de componentes en el bounded context. Aquí se incluye como secciones internas Bounded Context Domain Layer Class Diagrams y Bounded Context Database Diagram.
 
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 
-<img width="882" height="auto" alt="Captura de pantalla 2025-09-18 222903" src="https://github.com/user-attachments/assets/c0e63429-8a6d-4fd0-abd0-f7a960cabdbf" />
+<img width="750px" height="auto" alt="Captura de pantalla 2025-09-18 222903" src="https://github.com/user-attachments/assets/c0e63429-8a6d-4fd0-abd0-f7a960cabdbf" />
 
 ##### 2.6.3.6.2. Bounded Context Database Design Diagram
 
 En esta sección se presenta y explica para cada producto donde se implementa el bounded context, el Database Diagram que incluye los objetos de base de datos que permitirán la persistencia de información para los objetos del bounded context.
 
-<img width="570" height="408" alt="Captura de pantalla 2025-09-18 223006" src="https://github.com/user-attachments/assets/aa2bd402-60e7-4666-a701-51c4de7534c8" />
+<img width="450" height="auto" alt="Captura de pantalla 2025-09-18 223006" src="https://github.com/user-attachments/assets/aa2bd402-60e7-4666-a701-51c4de7534c8" />
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 ### 2.6.4. Bounded Context: Control de Incidentes
 
@@ -1746,13 +1752,17 @@ Domain Services:
 
 **- FileStorageAdapter:** Guarda evidencias fotográficas de incidentes en un servicio en la nube.
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 #### 2.6.4.5. Bounded Context Software Architecture Component Level Diagrams
 
 En esta sección, el equipo explica y presenta los Component Diagrams de C4 Model para cada uno de los Containers considerados para el bounded context. En estos diagramas el equipo busca reflejar la descomposición de cada Container para identificar los bloques estructurales principales y sus interacciones.
 
 <p align="center">
-  <img src="images/Component_Incidentes.png" alt="PI5" width="1000">
+  <img src="images/Component_Incidentes.png" alt="PI5" width="auto" height="auto">
 </p>
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 #### 2.6.4.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1760,13 +1770,15 @@ En esta sección, el equipo presenta y explica los diagramas que presentan un ma
 
 ##### 2.6.4.6.1. Bounded Context Domain Layer Class Diagrams
 
-  <img src="images/Layer%20Class%20Diagrams.png" alt="PB" width="1000">
+  <img src="images/Layer%20Class%20Diagrams.png" alt="PB" width="500" height="auto">
 
 ##### 2.6.4.6.2. Bounded Context Database Design Diagram
 
 En esta sección se presenta y explica para cada producto donde se implementa el bounded context, el Database Diagram que incluye los objetos de base de datos que permitirán la persistencia de información para los objetos del bounded context.
 
-  <img src="images/Design%20Diagram.png" alt="PB" width="1000">
+<img src="images/Design%20Diagram.png" alt="PB" width="1000" height="auto">
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 ### 2.6.5. Bounded Context: Control de Maquinaria
 
@@ -1842,7 +1854,9 @@ MantenimientoProgramadoEvent: Se emite al sistema de notificaciones para alertar
 
 En esta sección, el equipo explica y presenta los Component Diagrams de C4 Model para cada uno de los Containers considerados para el bounded context. En estos diagramas el equipo busca reflejar la descomposición de cada Container para identificar los bloques estructurales principales y sus interacciones.
 
-  <img src="images/Bounded%20Context%20Software%20Architecture%20Component%20Level%20Diagrams.png" alt="PB" width="1000">
+<img src="images/Bounded%20Context%20Software%20Architecture%20Component%20Level%20Diagrams.png" alt="PB" width="1000">
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 #### 2.6.5.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1850,15 +1864,17 @@ En esta sección, el equipo presenta y explica los diagramas que presentan un ma
 
 ##### 2.6.5.6.1. Bounded Context Domain Layer Class Diagrams
 
-  <img src="images/Bounded%20Context%20Domain%20Layer%20Class%20Diagrams.png" alt="PB" width="1000">
+<img src="images/Bounded%20Context%20Domain%20Layer%20Class%20Diagrams.png" alt="PB" width="850">
 
 ##### 2.6.5.6.2. Bounded Context Database Design Diagram
 
 En esta sección se presenta y explica para cada producto donde se implementa el bounded context, el Database Diagram que incluye los objetos de base de datos que permitirán la persistencia de información para los objetos del bounded context.
 
-  <img src="images/Bounded%20Context%20Database%20Design%20Diagram.png" alt="PB" width="1000">
+<img src="images/Bounded%20Context%20Database%20Design%20Diagram.png" alt="PB" width="700">
 
 ---
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 # Capítulo III: Solution UI/UX Design
 
@@ -2096,6 +2112,8 @@ La navegación en el sitio web está orientada a comunicar la propuesta de valor
 
 - **Navegación Secundaria (Pie de Página):** El pie de página (footer) servirá como un sistema de navegación secundario, conteniendo enlaces a información legal (`Términos y Condiciones`, `Política de Privacidad`) y a los perfiles de redes sociales de la empresa.
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 ### 3.1.3. Landing Page UI Design
 
 #### 3.1.3.1. Landing Page Wireframe
@@ -2104,9 +2122,11 @@ A continuación, mostramos los wireframes de la landing page, los cuales represe
 
 Enlace a los wireframes de la Landing Page en Figma: https://www.figma.com/design/0enmJ6QIplFzRvrSUtQkSL/Mobile-Application?node-id=0-1&p=f&t=ZIOXXEyDFYiiZyiS-0
 
-![img.png](images/landing/img.png)
+<img src="images/landing/img.png" alt="PB" width="700">
 
-![img.png](images/landing/img2.png)
+<img src="images/landing/img2.png" alt="PB" width="700">
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 #### 3.1.3.2. Landing Page Mock-up
 
@@ -2114,31 +2134,37 @@ Esta sección presenta los mockups de la landing page, que ilustran el diseño f
 
 Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/design/0enmJ6QIplFzRvrSUtQkSL/Mobile-Application?node-id=0-1&p=f&t=ZIOXXEyDFYiiZyiS-0
 
-![img.png](images/landing/img3.png)
+<img src="images/landing/img3.png" alt="PB" width="700">
 
-![img.png](images/landing/img4.png)
+<img src="images/landing/img4.png" alt="PB" width="700">
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 ### 3.1.4. Mobile Applications UX/UI Design
 
 #### 3.1.4.1. Mobile Applications Wireframes
 
-![img.png](images/mobile/mobilewireframe.png)
+<img src="images/mobile/mobilewireframe.png" alt="PB" width="600">
 
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
 
-![img.png](images/mobile/wireframeflowmobile.png)
+<img src="images/mobile/wireframeflowmobile.png" alt="PB" width="700">
 
 #### 3.1.4.3. Mobile Applications Mock-ups
 
-![img.png](images/mobile/mockupmobile.png)
+<img src="images/mobile/mockupmobile.png" alt="PB" width="600">
 
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
 
-![img.png](images/mobile/flow1.png)
+<img src="images/mobile/flow1.png" alt="PB" width="600">
 
-![img.png](images/mobile/flow2.png)
+<br></br>
 
-![img.png](images/mobile/flow3.png)
+<img src="images/mobile/flow2.png" alt="PB" width="600">
+
+<br></br>
+
+<img src="images/mobile/flow3.png" alt="PB" width="600">
 
 #### 3.1.4.5. Mobile Applications Prototyping
 
@@ -2155,10 +2181,9 @@ Enlace al prototipo de la aplicación móvil en Figma:
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/EVkwQVj3MflGgSqPorAXGUgB-o6OJG1M4R51F-dXQYRh8A?e=Ztm9c8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-
-
-
 ---
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 # Capítulo IV: Product Implementation & Validation
 
