@@ -1,71 +1,56 @@
 # COURSE PROJECT
 
-<p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <br>
-    <strong>Carrera de Ingeniería de Software</strong><br>
-    <strong>Ciclo 2025-2</strong>
-</p>
-
-<p align="center">
-  <strong>Curso: </strong>Aplicaciones para Dispositivos Móviles<br>
-  <strong>Sección: </strong>1795
-</p>
-
-<p align="center">
-    <strong>Profesor: </strong>Jorge Luis Mayta Guillermo
-</p>
-
-<p align="center">
-    <strong>Informe de Trabajo Final</strong>
-</p>
-
-<p align="center">
-    <strong>Nombre del startup: </strong> BrosTechnologies
-</p>
-
-<p align="center">
-    <strong>Nombre del producto:</strong> Engitrack
-</p>
-
-<div>
-    <h3 align="center">Integrantes del equipo:</h3>
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="200">
+    <h3 style="border: none; margin-bottom: 0;">Universidad Peruana de Ciencias Aplicadas</h1>    
+    <div style="border-bottom: 1px solid #d0d7de; width: 80%; margin: 10px auto;"></div>
+    <h3 style="border: none; margin-top: 0; font-size: 1.3rem">Ingeniería de Software</h3>
+    <p>
+        <strong>Periodo: </strong> 202520<br><br>
+        <strong>1ACC0238 | Aplicaciones para Dispositivos Móviles</strong><br>
+        <strong>NRC:</strong> 1795
+    </p>
+    <p>
+        <strong>Docente:</strong> Jorge Luis Mayta Guillermo
+    </p>
+    <div style="border-bottom: 2px solid #aaa; width: 60%; margin: 30px auto;"></div>
+    <h3 style="border: none; margin-bottom: 0; margin-top: 30px;">Informe del Trabajo Final</h1>
+    <div style="border-bottom: 1px solid #d0d7de; width: 40%; margin: 10px auto 20px auto;"></div>
+    <p style="font-size: 1.1em; margin-bottom: 60px;">
+        <strong>Startup:</strong> BrosTechnologies<br>
+        <strong>Producto:</strong> Engitrack
+    </p>
+    <div style="text-align: center; display: inline-block; text-align: center;">
+        <p>
+            <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 2px 5px; font-family: monospace;">u202310931</span> 
+            - Bellido Salas, Raúl
+        </p>
+        <p>
+            <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 2px 5px; font-family: monospace;">u202310680</span> 
+            - Castro Sanchez, Amir Gabriel
+        </p>
+        <p>
+            <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 2px 5px; font-family: monospace;">u202314130</span> 
+            - Gonzales Valverde, Carlos Matthew
+        </p>
+                <p>
+            <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 2px 5px; font-family: monospace;">u202115357</span> 
+            - Prado Vargas, Mario Benjamín
+        </p>
+        <p>
+            <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 2px 5px; font-family: monospace;">u20221b778</span> 
+            - Fernández Remón, Roy
+        </p>
     </div>
-<div>
-     <table align="center">
-        <tr>
-            <th style="text-align:center;">Código</th>
-            <th style="text-align:center;">Nombre</th>
-        </tr>
-        <tr>
-            <td>u202310931</td>
-            <td>Bellido Salas, Raúl</td>
-        </tr>
-        <tr>
-            <td>u202310680</td>
-            <td>Castro Sanchez, Amir Gabriel</td>
-        </tr>
-        <tr>
-            <td>u202314130</td>
-            <td>Gonzales Valverde, Carlos Matthew</td>
-        </tr>
-        <tr>
-            <td>u202115357</td>
-            <td>Prado Vargas, Mario Benjamín</td>
-        </tr> 
-        <tr>
-            <td>u20221b778</td>
-            <td>Fernández Remón, Roy</td>
-        </tr>
-    </table>
+    <br><br><br>    
+    <p style="font-style: italic; color: #555;">
+        Diciembre 2025
+    </p>
 </div>
 
-<p align="center">
-    <strong>Setiembre, 2025</strong>
-</p>
-
 ---
+
+<div style="page-break-after: always;">
 
 # Registro de Versiones del Informe
 
@@ -95,12 +80,13 @@ Aqui podemos observar La cantidad de commits realizados por cada persona por ent
 <div style="break-before: page; page-break-before: always;"></div>
 # Contenido
 
-- [Carátula](#course-project)
+- [COURSE PROJECT](#course-project)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Objetivos SMART](#objetivos-smart)
+- [Cuadro de Objetivos SMART - Equipo de Ingeniería de Software](#cuadro-de-objetivos-smart---equipo-de-ingeniería-de-software)
 - [Capítulo I: Presentación](#capítulo-i-presentación)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -113,14 +99,20 @@ Aqui podemos observar La cantidad de commits realizados por cada persona por ent
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
   - [2.2. Entrevistas](#22-entrevistas)
     - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+      - [Segmento objetivo #1: Supervisores de obra](#segmento-objetivo-1-supervisores-de-obra)
+      - [Segmento objetivo #2: Contratantes de empresas privadas](#segmento-objetivo-2-contratantes-de-empresas-privadas)
     - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+      - [Segmento objetivo #1: Supervisores de obra](#segmento-objetivo-1-supervisores-de-obra-1)
+      - [Segmento objetivo #2: Contratantes de empresas privadas](#segmento-objetivo-2-contratantes-de-empresas-privadas-1)
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+      - [Análisis del Segmento #1: Supervisores de Obra](#análisis-del-segmento-1-supervisores-de-obra)
+      - [Análisis del Segmento #2: Contratantes de Empresas Privadas](#análisis-del-segmento-2-contratantes-de-empresas-privadas)
   - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
@@ -130,11 +122,26 @@ Aqui podemos observar La cantidad de commits realizados por cada persona por ent
   - [2.4. Requirements specification](#24-requirements-specification)
     - [2.4.1. User Stories](#241-user-stories)
     - [2.4.2. Impact Mapping](#242-impact-mapping)
-    - [2.4.3. Product Backlog](243-product-backlog)
+    - [2.4.3. Product Backlog](#243-product-backlog)
   - [2.5. Strategic-Level Domain-Driven Design](#25-strategic-level-domain-driven-design)
     - [2.5.1. EventStorming](#251-eventstorming)
       - [2.5.1.1. Candidate Context Discovery](#2511-candidate-context-discovery)
+  - [**Fase 1: Identificación de Áreas (30 minutos)**](#fase-1-identificación-de-áreas-30-minutos)
+  - [**Fase 2: Identificación de Eventos Pivotales (45 minutos)**](#fase-2-identificación-de-eventos-pivotales-45-minutos)
+  - [**Fase 3: Agrupación y Refinamiento (15 minutos)**](#fase-3-agrupación-y-refinamiento-15-minutos)
+    - [**Control de Trabajadores**](#control-de-trabajadores)
+    - [**Gestión de Proyectos**](#gestión-de-proyectos)
+    - [**Control de Inventario**](#control-de-inventario)
+    - [**Control de Incidentes**](#control-de-incidentes)
+    - [**Control de Maquinaria**](#control-de-maquinaria)
+  - [**Evolución del event storming**](#evolución-del-event-storming)
+  - [**Criterios de Separación de Contextos**](#criterios-de-separación-de-contextos)
+  - [**Resultados y Recomendaciones**](#resultados-y-recomendaciones)
       - [2.5.1.2. Domain Message Flows Modeling](#2512-domain-message-flows-modeling)
+  - [Escenario 1 – Registro de Usuario y Proyecto](#escenario-1--registro-de-usuario-y-proyecto)
+  - [Escenario 2 – Consumo de Material y Alerta de Stock Bajo](#escenario-2--consumo-de-material-y-alerta-de-stock-bajo)
+  - [Escenario 3 – Reporte Diario con Evidencia Fotográfica](#escenario-3--reporte-diario-con-evidencia-fotográfica)
+  - [Escenario 4 – Registro de Incidente de Seguridad](#escenario-4--registro-de-incidente-de-seguridad)
       - [2.5.1.3. Bounded Context Canvases](#2513-bounded-context-canvases)
     - [2.5.2. Context Mapping](#252-context-mapping)
     - [2.5.3. Software Architecture](#253-software-architecture)
@@ -146,57 +153,75 @@ Aqui podemos observar La cantidad de commits realizados por cada persona por ent
       - [2.6.1.1. Domain Layer](#2611-domain-layer)
       - [2.6.1.2. Interface Layer](#2612-interface-layer)
       - [2.6.1.3. Application Layer](#2613-application-layer)
-      - [2.6.1.4. Infrastructure Layer](#2614-infrastructure-layer)
+      - [2.6.1.4 Infrastructure Layer](#2614-infrastructure-layer)
       - [2.6.1.5. Bounded Context Software Architecture Component Level Diagrams](#2615-bounded-context-software-architecture-component-level-diagrams)
       - [2.6.1.6. Bounded Context Software Architecture Code Level Diagrams](#2616-bounded-context-software-architecture-code-level-diagrams)
         - [2.6.1.6.1. Bounded Context Domain Layer Class Diagrams](#26161-bounded-context-domain-layer-class-diagrams)
         - [2.6.1.6.2. Bounded Context Database Design Diagram](#26162-bounded-context-database-design-diagram)
-  - [2.6.2. Bounded Context: Control de Inventario](#262-bounded-context-control-de-inventario)
-    - [2.6.2.1. Domain Layer](#2621-domain-layer)
-    - [2.6.2.2. Interface Layer](#2622-interface-layer)
-    - [2.6.2.3. Application Layer](#2623-application-layer)
-    - [2.6.2.4. Infrastructure Layer](#2624-infrastructure-layer)
-    - [2.6.2.5. Bounded Context Software Architecture Component Level Diagrams](#2625-bounded-context-software-architecture-component-level-diagrams)
-    - [2.6.2.6. Bounded Context Software Architecture Code Level Diagrams](#2626-bounded-context-software-architecture-code-level-diagrams)
-      - [2.6.2.6.1. Bounded Context Domain Layer Class Diagrams](#26261-bounded-context-domain-layer-class-diagrams)
-      - [2.6.2.6.2. Bounded Context Database Design Diagram](#26262-bounded-context-database-design-diagram)
-  - [2.6.3. Bounded Context: Control de Trabajadores](#263-bounded-context-control-de-trabajadores)
-    - [2.6.3.1. Domain Layer](#2631-domain-layer)
-    - [2.6.3.2. Interface Layer](#2632-interface-layer)
-    - [2.6.3.3. Application Layer](#2633-application-layer)
-    - [2.6.3.4. Infrastructure Layer](#2634-infrastructure-layer)
-    - [2.6.3.5. Bounded Context Software Architecture Component Level Diagrams](#2635-bounded-context-software-architecture-component-level-diagrams)
-    - [2.6.3.6. Bounded Context Software Architecture Code Level Diagrams](#2636-bounded-context-software-architecture-code-level-diagrams)
-      - [2.6.3.6.1. Bounded Context Domain Layer Class Diagrams](#26361-bounded-context-domain-layer-class-diagrams)
-      - [2.6.3.6.2. Bounded Context Database Design Diagram](#26362-bounded-context-database-design-diagram)
-  - [2.6.4. Bounded Context: Control de Incidentes](#264-bounded-context-control-de-incidentes)
-    - [2.6.4.1. Domain Layer](#2641-domain-layer)
-    - [2.6.4.2. Interface Layer](#2642-interface-layer)
-    - [2.6.4.3. Application Layer](#2643-application-layer)
-    - [2.6.4.4. Infrastructure Layer](#2644-infrastructure-layer)
-    - [2.6.4.5. Bounded Context Software Architecture Component Level Diagrams](#2645-bounded-context-software-architecture-component-level-diagrams)
-    - [2.6.4.6. Bounded Context Software Architecture Code Level Diagrams](#2646-bounded-context-software-architecture-code-level-diagrams)
-      - [2.6.4.6.1. Bounded Context Domain Layer Class Diagrams](#26461-bounded-context-domain-layer-class-diagrams)
-      - [2.6.4.6.2. Bounded Context Database Design Diagram](#26462-bounded-context-database-design-diagram)
-  - [2.6.5. Bounded Context: Control de Maquinaria](#265-bounded-context-control-de-maquinaria)
-    - [2.6.5.1. Domain Layer](#2651-domain-layer)
-    - [2.6.5.2. Interface Layer](#2652-interface-layer)
-    - [2.6.5.3. Application Layer](#2653-application-layer)
-    - [2.6.5.4. Infrastructure Layer](#2654-infrastructure-layer)
-    - [2.6.5.5. Bounded Context Software Architecture Component Level Diagrams](#2655-bounded-context-software-architecture-component-level-diagrams)
-    - [2.6.5.6. Bounded Context Software Architecture Code Level Diagrams](#2656-bounded-context-software-architecture-code-level-diagrams)
-      - [2.6.5.6.1. Bounded Context Domain Layer Class Diagrams](#26561-bounded-context-domain-layer-class-diagrams)
-      - [2.6.5.6.2. Bounded Context Database Design Diagram](#26562-bounded-context-database-design-diagram)
+    - [2.6.2. Bounded Context: Control de Inventario](#262-bounded-context-control-de-inventario)
+      - [2.6.2.1. Domain Layer](#2621-domain-layer)
+      - [2.6.2.2. Interface Layer](#2622-interface-layer)
+      - [2.6.2.3. Application Layer](#2623-application-layer)
+      - [2.6.2.4 Infrastructure Layer](#2624-infrastructure-layer)
+      - [2.6.2.5. Bounded Context Software Architecture Component Level Diagrams](#2625-bounded-context-software-architecture-component-level-diagrams)
+      - [2.6.2.6. Bounded Context Software Architecture Code Level Diagrams](#2626-bounded-context-software-architecture-code-level-diagrams)
+        - [2.6.2.6.1. Bounded Context Domain Layer Class Diagrams](#26261-bounded-context-domain-layer-class-diagrams)
+        - [2.6.2.6.2. Bounded Context Database Design Diagram](#26262-bounded-context-database-design-diagram)
+    - [2.6.3. Bounded Context: Control de Trabajadores](#263-bounded-context-control-de-trabajadores)
+      - [2.6.3.1. Domain Layer](#2631-domain-layer)
+      - [2.6.3.2. Interface Layer](#2632-interface-layer)
+      - [2.6.3.3. Application Layer](#2633-application-layer)
+      - [2.6.3.4 Infrastructure Layer](#2634-infrastructure-layer)
+      - [2.6.3.5. Bounded Context Software Architecture Component Level Diagrams](#2635-bounded-context-software-architecture-component-level-diagrams)
+      - [2.6.3.6. Bounded Context Software Architecture Code Level Diagrams](#2636-bounded-context-software-architecture-code-level-diagrams)
+        - [2.6.3.6.1. Bounded Context Domain Layer Class Diagrams](#26361-bounded-context-domain-layer-class-diagrams)
+        - [2.6.3.6.2. Bounded Context Database Design Diagram](#26362-bounded-context-database-design-diagram)
+    - [2.6.4. Bounded Context: Control de Incidentes](#264-bounded-context-control-de-incidentes)
+      - [2.6.4.1. Domain Layer](#2641-domain-layer)
+      - [2.6.4.2. Interface Layer](#2642-interface-layer)
+      - [2.6.4.3. Application Layer](#2643-application-layer)
+      - [2.6.4.4 Infrastructure Layer](#2644-infrastructure-layer)
+      - [2.6.4.5. Bounded Context Software Architecture Component Level Diagrams](#2645-bounded-context-software-architecture-component-level-diagrams)
+      - [2.6.4.6. Bounded Context Software Architecture Code Level Diagrams](#2646-bounded-context-software-architecture-code-level-diagrams)
+        - [2.6.4.6.1. Bounded Context Domain Layer Class Diagrams](#26461-bounded-context-domain-layer-class-diagrams)
+        - [2.6.4.6.2. Bounded Context Database Design Diagram](#26462-bounded-context-database-design-diagram)
+    - [2.6.5. Bounded Context: Control de Maquinaria](#265-bounded-context-control-de-maquinaria)
+      - [2.6.5.1. Domain Layer](#2651-domain-layer)
+      - [2.6.5.2. Interface Layer](#2652-interface-layer)
+      - [2.6.5.3. Application Layer](#2653-application-layer)
+      - [2.6.5.4 Infrastructure Layer](#2654-infrastructure-layer)
+      - [2.6.5.5. Bounded Context Software Architecture Component Level Diagrams](#2655-bounded-context-software-architecture-component-level-diagrams)
+      - [2.6.5.6. Bounded Context Software Architecture Code Level Diagrams](#2656-bounded-context-software-architecture-code-level-diagrams)
+        - [2.6.5.6.1. Bounded Context Domain Layer Class Diagrams](#26561-bounded-context-domain-layer-class-diagrams)
+        - [2.6.5.6.2. Bounded Context Database Design Diagram](#26562-bounded-context-database-design-diagram)
 - [Capítulo III: Solution UI/UX Design](#capítulo-iii-solution-uiux-design)
   - [3.1. Product design](#31-product-design)
     - [3.1.1. Style Guidelines](#311-style-guidelines)
       - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)
+      - [**Branding y Tono de Comunicación**](#branding-y-tono-de-comunicación)
+      - [**Paleta de Colores**](#paleta-de-colores)
+      - [**Tipografía**](#tipografía)
+      - [**Espaciado (Spacing)**](#espaciado-spacing)
     - [3.1.2. Information Architecture](#312-information-architecture)
       - [3.1.2.1. Organization Systems](#3121-organization-systems)
+        - [**Sistemas de Organización Visual**](#sistemas-de-organización-visual)
+        - [**Esquemas de Categorización del Contenido**](#esquemas-de-categorización-del-contenido)
       - [3.1.2.2. Labelling Systems](#3122-labelling-systems)
+        - [**Etiquetas de Navegación Principal**](#etiquetas-de-navegación-principal)
+        - [**Etiquetas de Acciones Principales (Call to Action - CTA)**](#etiquetas-de-acciones-principales-call-to-action---cta)
+        - [**Etiquetas de Acciones de Gestión**](#etiquetas-de-acciones-de-gestión)
+        - [**Etiquetas de Estado y Datos**](#etiquetas-de-estado-y-datos)
       - [3.1.2.3. SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)
+        - [**SEO Tags para el Landing Page**](#seo-tags-para-el-landing-page)
+        - [**ASO (App Store Optimization) para la Aplicación Móvil**](#aso-app-store-optimization-para-la-aplicación-móvil)
       - [3.1.2.4. Searching Systems](#3124-searching-systems)
+        - [**Búsqueda de Proyectos**](#búsqueda-de-proyectos)
+        - [**Búsqueda en Inventario**](#búsqueda-en-inventario)
+        - [**Búsqueda de Trabajadores**](#búsqueda-de-trabajadores)
+        - [**Búsqueda de Incidentes**](#búsqueda-de-incidentes)
       - [3.1.2.5. Navigation Systems](#3125-navigation-systems)
+        - [**Sistema de Navegación para la Aplicación Móvil**](#sistema-de-navegación-para-la-aplicación-móvil)
+        - [**Sistema de Navegación para el Landing Page**](#sistema-de-navegación-para-el-landing-page)
     - [3.1.3. Landing Page UI Design](#313-landing-page-ui-design)
       - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
       - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)
@@ -206,13 +231,15 @@ Aqui podemos observar La cantidad de commits realizados por cada persona por ent
       - [3.1.4.3. Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)
       - [3.1.4.4. Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)
       - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping)
-- [Capítulo IV: Product Implementation & Validation](#capítulo-iv-product-implementation--validation)
-- [4.1. Software Configuration Management](#41-software-configuration-management)
-  - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
-  - [4.1.2. Source Code Management](#412-source-code-management)
-  - [4.1.3. Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)
-  - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
-  - [4.2. Landing Page & Mobile Application Implementation](#42-landing-page--mobile-application-implementation)
+- [Capítulo IV: Product Implementation \& Validation](#capítulo-iv-product-implementation--validation)
+  - [4.1. Software Configuration Management](#41-software-configuration-management)
+    - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
+    - [4.1.2. Source Code Management](#412-source-code-management)
+    - [4.1.3. Source Code Style Guide \& Conventions](#413-source-code-style-guide--conventions)
+        - [**Convenciones de Commits**](#convenciones-de-commits)
+        - [**Convenciones de Versionado de Lanzamientos**](#convenciones-de-versionado-de-lanzamientos)
+    - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
+  - [4.2. Landing Page \& Mobile Application Implementation](#42-landing-page--mobile-application-implementation)
     - [4.2.1. Sprint 1](#421-sprint-1)
       - [4.2.1.1. Sprint Planning 1](#4211-sprint-planning-1)
       - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
@@ -222,19 +249,41 @@ Aqui podemos observar La cantidad de commits realizados por cada persona por ent
       - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
       - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
       - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
-   - [4.2.2. Sprint 2](#421-sprint-2)
-      - [4.2.2.1. Sprint Planning 1](#4211-sprint-planning-2)
-      - [4.2.2.2. Sprint Backlog 1](#4212-sprint-backlog-2)
-      - [4.2.2.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
-      - [4.2.2.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
-      - [4.2.2.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
-      - [4.2.2.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
-      - [4.2.2.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
-      - [4.2.2.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
+    - [4.2.2. Sprint 2](#422-sprint-2)
+      - [4.2.2.1. Sprint Planning 2](#4221-sprint-planning-2)
+      - [4.2.2.2. Sprint Backlog 2](#4222-sprint-backlog-2)
+  - [Product Backlog - EngiTrack](#product-backlog---engitrack)
+      - [4.2.2.3. Development Evidence for Sprint Review](#4223-development-evidence-for-sprint-review)
+      - [4.2.2.4. Testing Suite Evidence for Sprint Review](#4224-testing-suite-evidence-for-sprint-review)
+      - [4.2.2.5. Execution Evidence for Sprint Review](#4225-execution-evidence-for-sprint-review)
+      - [4.2.2.6. Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)
+      - [4.2.2.7. Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)
+      - [4.2.2.8. Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)
   - [4.3. Validation Interviews](#43-validation-interviews)
     - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
+      - [Introducción](#introducción)
+      - [Contexto y Problemas Actuales](#contexto-y-problemas-actuales)
+      - [Validación de la Solución](#validación-de-la-solución)
+      - [Opinión sobre la Aplicación Móvil](#opinión-sobre-la-aplicación-móvil)
+      - [Validación del Sitio Web](#validación-del-sitio-web)
+      - [Cierre](#cierre)
     - [4.3.2. Registro de Entrevistas](#432-registro-de-entrevistas)
     - [4.3.3. Evaluaciones según heurísticas](#433-evaluaciones-según-heurísticas)
+- [EVALUACIÓN HEURÍSTICA - ENGITRACK](#evaluación-heurística---engitrack)
+  - [INFORMACIÓN BÁSICA](#información-básica)
+  - [TABLA RESUMEN](#tabla-resumen)
+  - [DESCRIPCIÓN DETALLADA DE PROBLEMAS](#descripción-detallada-de-problemas)
+    - [#1 Falta de funcionalidad offline](#1-falta-de-funcionalidad-offline)
+    - [#2 Diseño visual poco atractivo y falta de imágenes](#2-diseño-visual-poco-atractivo-y-falta-de-imágenes)
+    - [#3 Funcionalidad de perfil de usuario poco útil](#3-funcionalidad-de-perfil-de-usuario-poco-útil)
+    - [#4 Falta de integración de multimedia en proyectos](#4-falta-de-integración-de-multimedia-en-proyectos)
+    - [#5 Sistema de notificaciones limitado](#5-sistema-de-notificaciones-limitado)
+    - [#6 Limitaciones en el plan gratuito](#6-limitaciones-en-el-plan-gratuito)
+    - [#7 Formulario de contacto sin confirmación](#7-formulario-de-contacto-sin-confirmación)
+    - [#8 Falta de soporte multilenguaje completo](#8-falta-de-soporte-multilenguaje-completo)
+  - [OBSERVACIONES ADICIONALES](#observaciones-adicionales)
+    - [Aspectos Positivos Identificados](#aspectos-positivos-identificados)
+    - [Recomendaciones de los Usuarios](#recomendaciones-de-los-usuarios)
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video App Validation](#video-app-validation)
