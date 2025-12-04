@@ -319,9 +319,9 @@ del ABET – EAC - Student Outcome 7.
 | **Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.** | **TB1: Roy Fernández Remón**<br>Reforzamos los conocimientos sobre metodologías ágiles y el enfoque Lean UX para aplicarlos en la definición del problema y la validación de la propuesta de valor.<br><br>**TP1: Roy Fernández Remón**<br>Diseñé las pantallas de presentación de la aplicación EngiTrack en Android Studio, aplicando principios de diseño visual y flujo de navegación entre vistas. Profundicé en el enrutamiento dentro del entorno móvil, fortaleciendo mis conocimientos en estructuración de interfaces y coherencia de experiencia de usuario.<br><br>**TB2: Roy Fernández Remón**<br>Me encargué de coordinar la integración de los artefactos corregidos, validando que las secciones del informe mantengan consistencia narrativa y técnica. Además, participé en la revisión de las funcionalidades core presentadas en la aplicación y en la elaboración de la primera versión de los videos solicitados. Este trabajo mejoró mi capacidad de organización y documentación de avances funcionales.<br><br>**TB1: Prado Vargas, Mario Benjamín**<br>Aplicamos herramientas de análisis y técnicas de entrevista para comprender las necesidades reales de los usuarios y el contexto del problema.<br><br>**TP1: Prado Vargas, Mario Benjamín**<br>Desarrollé la landing page de EngiTrack y gestioné su despliegue final, aplicando conceptos de diseño responsive y jerarquía visual. Aprendí a integrar secciones interactivas como *features* y *pricing*, fortaleciendo mi dominio en la presentación de productos digitales.<br><br>**TB2: Prado Vargas, Mario Benjamín**<br>Realicé la actualización de la sección Student Outcome y colaboré en la revisión global del informe, asegurando que los artefactos corregidos reflejen los avances reales del proyecto. También apoyé en el despliegue del landing page, verificando su accesibilidad pública y el cumplimiento de las pautas de presentación. Estas actividades reforzaron mis conocimientos en documentación técnica y despliegue web.<br><br>**TB1: Bellido Salas, Raúl**<br>Ejecutamos actividades de Event Storming y modelado de dominio para representar los procesos del sistema y entender su estructura funcional.<br><br>**TP1: Bellido Salas, Raúl**<br>Asumí el rol de líder del equipo, organizando tareas, guiando la redacción del informe y verificando la consistencia entre artefactos. Fortalecí mis habilidades de gestión y coordinación, además de apoyar en la identificación y resolución de errores técnicos durante el desarrollo.<br><br>**TB2: Bellido Salas, Raúl**<br>En esta entrega participé en la revisión y mejora de los artefactos previamente desarrollados, asegurando coherencia entre secciones y fortaleciendo la claridad del reporte. También apoyé en la documentación del backend desplegado, verificando que su estructura y endpoints cumplan con los estándares definidos en el curso. Estas actividades reforzaron mis conocimientos en análisis de documentación técnica y validación de entregables en proyectos móviles.<br><br>**TB1: Castro Sanchez, Amir Gabriel**<br>Participamos en el análisis competitivo del mercado, identificando oportunidades de mejora frente a soluciones móviles existentes.<br><br>**TP1: Castro Sanchez, Amir Gabriel**<br>Diseñé las pantallas de *login*, *register* y *perfil* en Android Studio, implementando el enrutamiento entre vistas y la edición del perfil. Profundicé en la arquitectura de navegación de Android y en la estructuración modular del código para facilitar futuras integraciones.<br><br>**TB2: Castro Sanchez, Amir Gabriel**<br>Me enfoqué en la actualización del Registro de Versiones del Informe y la mejora de la sección Project Report Collaboration Insights. Además, apoyé en la validación de las funcionalidades core de la aplicación, verificando el flujo correcto entre pantallas y la interacción con los servicios desplegados. Esto me permitió consolidar mis conocimientos en integración y revisión técnica de productos móviles.<br><br>**TB1: Gonzales Valverde, Carlos Matthew**<br>Reforzamos conceptos de diseño centrado en el usuario, preparando las bases para el desarrollo de wireframes y prototipos en las siguientes etapas.<br><br>**TP1: Gonzales Valverde, Carlos Matthew**<br>Desarrollé el backend de EngiTrack utilizando *Minimal API*, implementando la conexión con la aplicación móvil para una funcionalidad principal. Apliqué buenas prácticas de arquitectura ligera y documenté los endpoints creados. Además, apoyé en la maquetación de pantallas del frontend, fortaleciendo mis competencias técnicas en integración móvil-backend.<br><br>**TB2: Gonzales Valverde, Carlos Matthew**<br>Contribuí revisando el backend de EngiTrack desplegado públicamente, documentando su funcionamiento e incorporando mejoras en la estructura de los servicios. Participé en la corrección de artefactos previos para asegurar su alineación con el estado actual del proyecto. Este proceso fortaleció mi comprensión del despliegue backend y del aseguramiento de calidad técnica en proyectos móviles. | **TB1:** El equipo consolidó su capacidad para aplicar conocimientos previos en metodologías de análisis y diseño, adaptándolos a un contexto real de proyecto. Este proceso fortaleció la comprensión del problema, el trabajo colaborativo y la planificación de la futura implementación.<br><br>**TP1:** El grupo amplió sus competencias técnicas al implementar los componentes principales del sistema: backend con Minimal API, frontend móvil en Android Studio y landing page web. Se evidenció la aplicación práctica de nuevos conocimientos adquiridos de manera autónoma, mejorando la capacidad técnica y la coordinación grupal.<br><br>**TB2:** El equipo reforzó su capacidad para actualizar conocimientos técnicos y aplicarlos directamente en la mejora del proyecto. La revisión y corrección de artefactos, la validación de funcionalidades y el despliegue de componentes clave permitieron consolidar una comprensión más sólida de los procesos involucrados en el desarrollo móvil. Este avance evidencia la aplicación práctica de conocimientos adquiridos y la capacidad del grupo para mejorar progresivamente la calidad del producto.|
 | **Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.** | **TB1: Roy Fernández Remón**<br>Promovimos la actualización constante de conocimientos técnicos y metodológicos para adaptarnos a los requerimientos del proyecto.<br><br>**TP1: Roy Fernández Remón**<br>Me capacité en nuevas técnicas de navegación en Android y optimización de interfaces, aplicando documentación oficial y recursos en línea para mejorar el flujo de la aplicación. Este proceso reforzó la importancia del aprendizaje autónomo para superar los retos del desarrollo móvil.<br><br>**TB2: Fernández Remón, Roy**<br>Fortalecí mi aprendizaje en herramientas de gestión y documentación audiovisual para apoyar en la elaboración de los videos iniciales y coordinar la coherencia de los entregables. Esta experiencia reafirmó la necesidad del aprendizaje continuo para comunicar los avances del proyecto de manera profesional.<br><br>**TB1: Prado Vargas, Mario Benjamín**<br>Fomentamos el aprendizaje colaborativo mediante la revisión de recursos y ejemplos de proyectos similares en el ámbito móvil.<br><br>**TP1: Prado Vargas, Mario Benjamín**<br>Aprendí sobre despliegue de páginas web estáticas y la estructura de componentes modernos en frameworks frontend. Este aprendizaje me permitió optimizar la presentación del producto y comprender el flujo de interacción con usuarios reales.<br><br>**TB2: Prado Vargas, Mario Benjamín**<br>Investigué buenas prácticas de presentación de landing pages y de documentación de resultados para actualizar secciones del informe y mejorar la accesibilidad del despliegue web. Este aprendizaje reflejó la importancia de mantenerse actualizado para garantizar productos funcionales y con buena presentación.<br><br>**TB1: Bellido Salas, Raúl**<br>Participamos en la documentación de los procesos de análisis para fortalecer la comprensión compartida y facilitar futuras iteraciones.<br><br>**TP1: Bellido Salas, Raúl**<br>Fortalecí mis habilidades de liderazgo técnico, aplicando estrategias de seguimiento ágil y comunicación efectiva. Este proceso me permitió reconocer la importancia del aprendizaje organizacional y la gestión del conocimiento dentro del equipo.<br><br>**TB2: Bellido Salas, Raúl**<br>Fortalecí mi aprendizaje autónomo revisando documentación técnica necesaria para evaluar correctamente los artefactos previos y la estructura actual del backend. Este proceso me permitió identificar inconsistencias, proponer mejoras y comprender la importancia del aprendizaje continuo para mantener la calidad del proyecto.<br><br>**TB1: Castro Sanchez, Amir Gabriel**<br>Colaboramos activamente en la consolidación de los entregables, aplicando estrategias de mejora continua en base a retroalimentación interna.<br><br>**TP1: Castro Sanchez, Amir Gabriel**<br>Aprendí sobre la arquitectura de *Activities* y *Fragments* en Android Studio, investigando en foros y documentación oficial. Esta experiencia fortaleció mi autonomía para resolver problemas y mi habilidad de adaptación ante tecnologías nuevas.<br><br>**TB2: Castro Sanchez, Amir Gabriel**<br>Amplié mis conocimientos sobre integración entre frontend móvil y servicios backend para validar las funcionalidades core mostradas en esta entrega. Me apoyé en documentación externa y recursos técnicos, reforzando la necesidad del aprendizaje permanente para afrontar retos dentro del proyecto.<br><br>**TB1: Gonzales Valverde, Carlos Matthew**<br>Reconocimos la importancia de seguir adquiriendo conocimientos en experiencia de usuario y arquitectura de software para etapas posteriores del desarrollo.<br><br>**TP1: Gonzales Valverde, Carlos Matthew**<br>Profundicé de forma autodidacta en la creación de servicios con Minimal API, entendiendo su diferencia con RESTful y sus ventajas en proyectos ligeros. Esta experiencia consolidó mi capacidad de aprendizaje técnico continuo y de aplicación práctica inmediata.<br><br>**TB2: Gonzales Valverde, Carlos Matthew**<br>Me capacité de manera autónoma en buenas prácticas de documentación y despliegue de servicios backend para revisar y mejorar la API presentada en esta entrega. Este proceso fortaleció mi habilidad para adaptar conocimientos técnicos y mejorar la calidad del producto mediante aprendizaje continuo. | **TB1:** El grupo comprendió que el aprendizaje continuo es una herramienta clave para afrontar los desafíos del desarrollo de software. Mantener una actitud de mejora y actualización constante permitirá fortalecer el desempeño profesional y la calidad del producto final.<br><br>**TP1:** Durante esta etapa, el equipo demostró un aprendizaje activo y colaborativo al enfrentarse a nuevas tecnologías como Android Studio y Minimal API. El trabajo autónomo, la investigación técnica y la documentación constante reflejan un compromiso con el crecimiento profesional y la mejora continua.<br><br>**TB2:** Durante esta entrega, el equipo demostró una actitud activa hacia el aprendizaje permanente, investigando recursos técnicos externos y aplicando nuevos conocimientos para mejorar la calidad del despliegue, la documentación y la presentación del proyecto. La revisión continua, la adaptación a nuevas herramientas y la autorreflexión evidencian un compromiso con el crecimiento profesional y la mejora constante de los entregables. |
 
-<div style="page-break-after: always;">
-
 ---
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 # Objetivos SMART
 
@@ -548,7 +548,7 @@ Es fundamental realizarlo debido a que te brinda una visión más detallada de l
 
 |        **Nombre**        |                                                           | EngiTrack                                                                                                       |                                              Procore                                               |                                BuilderTrend                                 |                                            BuildWise                                             |
 |:------------------------:|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-|         **Logo**         |                                                           | <img src="images/engitrack.png" alt="PB" height="180px">                                                        |                       <img src="images/procore.png" alt="PB" height="180px">                       |         <img src="images/buildertrend.png" alt="PB" height="180px">         |                     <img src="images/buildwise.png" alt="PB" height="180px">                     |
+|         **Logo**         |                                                           | <img src="images/engitrack.png" alt="PB" height="130px">                                                        |                       <img src="images/procore.png" alt="PB" height="130px">                       |         <img src="images/buildertrend.png" alt="PB" height="130px">         |                     <img src="images/buildwise.png" alt="PB" height="130px">                     |
 |        **Perfil**        | **Overview**                                              | Plataforma digital integral para PYMEs constructoras y equipos administrativos. Optimiza procesos y decisiones. | Plataforma robusta para grandes constructoras; impulsa la gestión basada en datos y escalabilidad. |           Software para construcción residencial y remodelación.            |             Plataforma ágil y accesible para PYMEs; también brinda asesoría técnica.             |
 |                          | **Ventaja competitiva ¿Qué valor ofrece a los clientes?** | Solución completa, accesible y fácil de usar, con soporte personalizado e informes automatizados.               |                   Funcionalidad avanzada y escalabilidad para proyectos grandes.                   | Mejora comunicación, planificación y presupuesto en proyectos de vivienda.  |        Solución sencilla y accesible para obras pequeñas y medianas, con soporte directo.        |
 |  **Plan de marketing**   | **Mercado objetivo**                                      | Supervisores de obras y contratantes de PYMEs constructoras.                                                    |           Grandes empresas constructoras, gerentes de proyectos, contratistas generales.           |   Constructores de viviendas, remodeladores, contratistas especializados.   |           Pequeñas constructoras, remodeladores independientes y contratistas locales.           |
@@ -769,11 +769,13 @@ En los siguientes cuadros podemos observar los usuarios ideales de nuestra soluc
 
 ### 2.3.1. User Personas
 
-<img width="1050" height="1600" alt="Carlos Huamán (1)" src="https://github.com/user-attachments/assets/428767d8-e978-45b3-81c6-ada8f1178c26" />
+<img width="auto" height="1100" alt="Carlos Huamán (1)" src="https://github.com/user-attachments/assets/428767d8-e978-45b3-81c6-ada8f1178c26" />
+
+<br></br>
+
+<img width="auto" height="1100" alt="Mariana Torres (1)" src="https://github.com/user-attachments/assets/a6cba093-236a-4590-90a2-5cca36b9fdba" />
 
 <div style="break-before: page; page-break-before: always;"></div>
-
-<img width="1050" height="1600" alt="Mariana Torres (1)" src="https://github.com/user-attachments/assets/a6cba093-236a-4590-90a2-5cca36b9fdba" />
 
 ### 2.3.2. User Task Matrix
 
@@ -793,25 +795,35 @@ Para priorizar las funcionalidades de EngiTrack, se analizaron las tareas clave 
 | Coordinación con clientes/contratantes                   |    Always     |      High      |     Always     |      High      |
 | Toma de decisiones de continuidad del proyecto           |     Often     |      High      |     Always     |      High      |
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 ### 2.3.3. User Journey Mapping
 
 Con los arquetipos de usuario definidos y sus tareas críticas identificadas a través de la matriz, el siguiente paso es profundizar en su experiencia subjetiva. El User Journey Mapping nos permite visualizar de manera integral la interacción de Carlos y Mariana con el proceso de gestión de obras, identificando puntos de fricción, momentos de verdad y oportunidades clave para la intervención de EngiTrack a lo largo de su jornada.
 
-User Journey Mapping del segmento #1: Supervisor de Obra
+User Journey Mapping del segmento #1: Supervisor de Obra:
+
 <img width="894" height="853" alt="Captura de pantalla 2025-09-18 224004" src="https://github.com/user-attachments/assets/18b98ab2-9984-4bb6-a2a2-ddf20978408f" />
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 User Journey Mapping del segmento #2: Contratista de empresas privadas:
+
 <img width="951" height="804" alt="Captura de pantalla 2025-09-18 223909" src="https://github.com/user-attachments/assets/71710299-1a89-4a2a-bec7-dddbf03bd775" />
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 ### 2.3.4. Empathy Mapping
 
 Complementariamente, el Empathy Mapping se enfoca en comprender el universo interno de nuestros usuarios, sintetizando lo que ellos dicen, piensan, sienten y hacen en su contexto laboral. En conjunto, estas herramientas transforman los datos y tareas en una comprensión humana y profunda, esencial para diseñar una solución que no solo sea funcional, sino también intuitiva y emocionalmente resonante para quienes la utilizarán.
 
-<img width="1050" height="1270" alt="Empathy Carlos Huaman" src="https://github.com/user-attachments/assets/e00bd736-ea18-4dfd-abc8-0c13d4929d75" />
+<img width="auto" height="1000" alt="Empathy Carlos Huaman" src="https://github.com/user-attachments/assets/e00bd736-ea18-4dfd-abc8-0c13d4929d75" />
 
 <div style="break-before: page; page-break-before: always;"></div>
 
-<img width="1050" height="1180" alt="Empathy Mariana Torres" src="https://github.com/user-attachments/assets/1a85cf74-ec24-4e27-b8df-af6b2f3dbfd7" />
+<img width="auto" height="1000" alt="Empathy Mariana Torres" src="https://github.com/user-attachments/assets/1a85cf74-ec24-4e27-b8df-af6b2f3dbfd7" />
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 ### 2.3.5. Ubiquitous Language
 
@@ -938,11 +950,13 @@ Spike stories
 | **SP14** | Evaluación de sincronización offline                         | Analizar estrategias para funcionamiento offline en dispositivos móviles                                                 | **Dado que:** La app debe funcionar offline en obras sin conexión  **Cuando:** Investigo estrategias de sincronización offline  **Entonces:** Presento arquitectura para sync offline/online y resolución de conflictos                            | 4 días |
 | **SP15** | Análisis de métricas para dashboard                          | Investigar KPIs relevantes para reportes de gerencia                                                                     | **Dado que:** Necesitamos definir métricas para dashboards  **Cuando:** Analizo KPIs de gestión de proyectos construcción  **Entonces:** Documento set de métricas recomendadas con fórmulas de cálculo                                            | 2 días |
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 ### 2.4.2. Impact Mapping
 
 Para traducir las user stories en una estrategia de desarrollo focalizada y medible, se emplea la técnica de Impact Mapping. Este enfoque asegura que cada feature desarrollado contribuya directamente a los objetivos de negocio, priorizando las iniciativas de mayor impacto y evitando el desarrollo de funcionalidades superfluas.
 
-<img width="1240" height="2998" alt="Impact map 1 (1)" src="https://github.com/user-attachments/assets/bd732350-10aa-4266-9b2f-6f9e6546fe5d" />
+<img width="auto" height="1300" alt="Impact map 1 (1)" src="https://github.com/user-attachments/assets/bd732350-10aa-4266-9b2f-6f9e6546fe5d" />
 
 ### 2.4.3. Product Backlog
 
@@ -984,9 +998,10 @@ La siguiente tabla presenta el backlog priorizado que servirá como plan de trab
 Glosario:
 
 <p align="center">
-  <img src="images/event_glosary.jpg" alt="PI5" width="500">
+  <img src="images/event_glosary.jpg" alt="PI5" width="auto" height="600px">
 </p>
 
+<div style="break-before: page; page-break-before: always;"></div>
 
 Paso 1
 
@@ -1003,6 +1018,8 @@ Una vez listados los eventos, se ordenan cronológicamente según su secuencia n
 <p align="center">
   <img src="images/event_step2.jpg" alt="PB" width="1000">
 </p>
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 Paso 3
 
@@ -1028,6 +1045,8 @@ Se analizan los comandos que provocan la aparición de los eventos. A diferencia
   <img src="images/event_step5.jpg" alt="PB" width="1000">
 </p>
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 Paso 6
 
 Se reconocen las políticas automáticas, es decir, reglas del sistema que hacen que un evento dispare automáticamente un comando, sin necesidad de intervención humana.
@@ -1051,6 +1070,8 @@ Se incorporan los sistemas externos que interactúan con el dominio, ya sea envi
 <p align="center">
   <img src="images/event_step8.jpg" alt="PB" width="1000">
 </p>
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 Paso 9
 
@@ -1245,12 +1266,17 @@ Este flujo es clave para la atención temprana de riesgos y la gestión de la se
 #### 2.5.1.3. Bounded Context Canvases
 
 <p align="center">
-  <img src="images/bcc_glosary.jpg" alt="PB" width="100%">
+  <img src="images/bcc_glosary.jpg" alt="PB" width="auto" height="300px">
 </p>
 
+<br></br>
+
 <p align="center">
-  <img src="images/bcc_glosary_2.jpg" alt="PB" width="100%">
+  <img src="images/bcc_glosary_2.jpg" alt="PB" width="auto" height="400px">
 </p>
+
+<div style="break-before: page; page-break-before: always;"></div>
+
 
 <p align="center">
   <img src="images/bcc_1.jpg" alt="PB" width="100%">
@@ -1299,6 +1325,9 @@ Durante la elaboración se discutieron alternativas usando las preguntas guía:
 ¿Qué pasaría si usamos un Anticorruption Layer?
 → Se decidió aplicar un ACL entre Control de Incidentes y Gestión de Proyectos para simplificar la información que sube al nivel del proyecto (solo impactos relevantes).
 
+<div style="break-before: page; page-break-before: always;"></div>
+
+
 **Diseños candidatos:**
 
 - Diseño A: Unir Maquinaria y Trabajadores en un mismo bounded context (justificación: ambos se relacionan con asignación de recursos).
@@ -1316,24 +1345,30 @@ Al final evuluamos simplicidad vs. acoplamiento, y se eligió el Diseño B como 
 
 El equipo llegó a la conclusión que Gestión de Proyectos debe ser el core domain, manteniendo los demás bounded contexts como satélites que se integran bajo patrones de relación claros. Se rechazaron diseños con excesiva fragmentación porque aumentaban la complejidad de sincronización y se priorizó una organización balanceada entre cohesión interna y bajo acoplamiento entre contextos.
 
-<img width="1624" height="810" alt="Captura de pantalla 2025-09-18 004743" src="https://github.com/user-attachments/assets/df234ba5-008b-494e-9341-ea3fac9fefd8" />
+<br></br>
+
+<img width="auto" height="600px" alt="Captura de pantalla 2025-09-18 004743" src="https://github.com/user-attachments/assets/df234ba5-008b-494e-9341-ea3fac9fefd8" />
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 ### 2.5.3. Software Architecture
 
 #### 2.5.3.1. Software Architecture Context Level Diagrams
 
-<img width="1000" height="1000" alt="structurizr-106317-LandscapeView" src="https://github.com/user-attachments/assets/0a07fc0a-39cb-4a0e-9952-5c6f3c142c4d" />
-<img width="1000" height="200" alt="structurizr-106317-LandscapeView-key" src="https://github.com/user-attachments/assets/99f91dad-5fe7-4e7c-8f1e-c28f2c79b770" />
+<img width="900" height="auto" alt="structurizr-106317-LandscapeView" src="https://github.com/user-attachments/assets/0a07fc0a-39cb-4a0e-9952-5c6f3c142c4d" />
+<img width="900" height="auto" alt="structurizr-106317-LandscapeView-key" src="https://github.com/user-attachments/assets/99f91dad-5fe7-4e7c-8f1e-c28f2c79b770" />
 
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 
 <p align="center">
-  <img src="images/container.jpg" alt="PB" width="1000">
+  <img src="images/container.jpg" alt="PB" width="1000" height="auto">
 </p>
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
 
-<img width="975" height="912" alt="Captura de pantalla 2025-09-18 222510" src="https://github.com/user-attachments/assets/2d6ef752-c5e8-4bc5-bad0-737d9bfd45cc" />
+<img width="975" height="auto" alt="Captura de pantalla 2025-09-18 222510" src="https://github.com/user-attachments/assets/2d6ef752-c5e8-4bc5-bad0-737d9bfd45cc" />
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 ## 2.6. Tactical-Level Domain-Driven Design
 
@@ -1417,7 +1452,6 @@ Propósito: Consumir eventos de autenticación/autorización y comunicarlos al d
 - Crear proyecto (CrearProyectoCommandHandler)
 
 - Consultar proyectos (ConsultarProyectosQueryHandler)
--
 
 #### 2.6.1.4 Infrastructure Layer
 
@@ -1433,7 +1467,7 @@ Propósito: Consumir eventos de autenticación/autorización y comunicarlos al d
 
 En esta sección, el equipo explica y presenta los Component Diagrams de C4 Model para cada uno de los Containers considerados para el bounded context. En estos diagramas el equipo busca reflejar la descomposición de cada Container para identificar los bloques estructurales principales y sus interacciones.
 
-<img width="1000" height="1000" alt="structurizr-106317-Component-001" src="https://github.com/user-attachments/assets/58600ad9-67db-4e1c-882a-9d42e3d1ab19" />
+<img width="950" height="auto" alt="structurizr-106317-Component-001" src="https://github.com/user-attachments/assets/58600ad9-67db-4e1c-882a-9d42e3d1ab19" />
 
 #### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1443,13 +1477,13 @@ En esta sección, el equipo presenta y explica los diagramas que presentan un ma
 
 En esta sección se presenta el Class Diagram de UML para las clases del Domain Layer en el bounded context.
 
-<img width="1000" height="1000" alt="Captura de pantalla 2025-09-18 223257" src="https://github.com/user-attachments/assets/6f20b94c-8bf9-4f35-9baa-2648c40f8109" />
+<img width="1000" height="auto" alt="Captura de pantalla 2025-09-18 223257" src="https://github.com/user-attachments/assets/6f20b94c-8bf9-4f35-9baa-2648c40f8109" />
 
 ##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
 En esta sección se presenta y explica para cada producto donde se implementa el bounded context, el Database Diagram que incluye los objetos de base de datos que permitirán la persistencia de información para los objetos del bounded context.
 
-<img width="1000" height="1000" alt="Captura de pantalla 2025-09-18 223230" src="https://github.com/user-attachments/assets/549f75f7-46bf-4e5a-8ae1-93e21cdf31c6" />
+<img width="1000" height="auto" alt="Captura de pantalla 2025-09-18 223230" src="https://github.com/user-attachments/assets/549f75f7-46bf-4e5a-8ae1-93e21cdf31c6" />
 
 ### 2.6.2. Bounded Context: Control de Inventario
 
@@ -1510,8 +1544,6 @@ Repositories:
 
 **CloudStorageAdapter:** Conector para almacenamiento de documentos de compra o fotos de materiales en un servicio en la nube (ej. AWS S3, Firebase Storage).
 
--
-
 #### 2.6.2.4 Infrastructure Layer
 
 **- MaterialRepositoryImpl:** Implementa la interfaz MaterialRepository para CRUD de materiales en la base de datos.
@@ -1520,11 +1552,13 @@ Repositories:
 
 **- CloudStorageAdapter:** Conector para almacenamiento de documentos de compra o fotos de materiales en un servicio en la nube (ej. AWS S3, Firebase Storage).
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 #### 2.6.2.5. Bounded Context Software Architecture Component Level Diagrams
 
 En esta sección, el equipo explica y presenta los Component Diagrams de C4 Model para cada uno de los Containers considerados para el bounded context. En estos diagramas el equipo busca reflejar la descomposición de cada Container para identificar los bloques estructurales principales y sus interacciones.
 
-<img width="1000" height="1000" alt="structurizr-106317-Component-001 (1)" src="https://github.com/user-attachments/assets/e5498d2e-2c02-4edd-9397-b7b48e2ce7e0" />
+<img width="1000" height="auto" alt="structurizr-106317-Component-001 (1)" src="https://github.com/user-attachments/assets/e5498d2e-2c02-4edd-9397-b7b48e2ce7e0" />
 
 #### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1532,13 +1566,15 @@ En esta sección, el equipo presenta y explica los diagramas que presentan un ma
 
 ##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
 
-<img width="1000" height="1000" alt="Captura de pantalla 2025-09-18 223128" src="https://github.com/user-attachments/assets/de53f682-98a7-41ae-a076-bc320b4ea3b2" />
+<img width="1000" height="auto" alt="Captura de pantalla 2025-09-18 223128" src="https://github.com/user-attachments/assets/de53f682-98a7-41ae-a076-bc320b4ea3b2" />
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 ##### 2.6.2.6.2. Bounded Context Database Design Diagram
 
 En esta sección se presenta y explica para cada producto donde se implementa el bounded context, el Database Diagram que incluye los objetos de base de datos que permitirán la persistencia de información para los objetos del bounded context.
 
-<img width="1000" height="1000" alt="Captura de pantalla 2025-09-18 223041" src="https://github.com/user-attachments/assets/a8432360-da31-488e-ab57-679c69ee0c28" />
+<img width="600" height="auto" alt="Captura de pantalla 2025-09-18 223041" src="https://github.com/user-attachments/assets/a8432360-da31-488e-ab57-679c69ee0c28" />
 
 ### 2.6.3. Bounded Context: Control de Trabajadores
 
@@ -1611,8 +1647,6 @@ En esta sección se presenta y explica para cada producto donde se implementa el
 
 **NotificationService:** Publica eventos cuando un trabajador se registra o falta (para Payroll o supervisión).
 
--
-
 #### 2.6.3.4 Infrastructure Layer
 
 **- WorkerRepositoryImpl:** Implementa la interfaz WorkerRepository con consultas por proyecto.
@@ -1622,6 +1656,8 @@ En esta sección se presenta y explica para cada producto donde se implementa el
 **- IdentityVerificationAdapter (opcional):** Servicio externo para validar identidades (ej. integración con API RENIEC, si se considera necesario).
 
 **- NotificationService:** Publica eventos cuando un trabajador se registra o falta (para Payroll o supervisión).
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 #### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -1637,7 +1673,7 @@ En esta sección, el equipo presenta y explica los diagramas que presentan un ma
 
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 
-<img width="882" height="838" alt="Captura de pantalla 2025-09-18 222903" src="https://github.com/user-attachments/assets/c0e63429-8a6d-4fd0-abd0-f7a960cabdbf" />
+<img width="882" height="auto" alt="Captura de pantalla 2025-09-18 222903" src="https://github.com/user-attachments/assets/c0e63429-8a6d-4fd0-abd0-f7a960cabdbf" />
 
 ##### 2.6.3.6.2. Bounded Context Database Design Diagram
 
