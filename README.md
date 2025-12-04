@@ -69,15 +69,18 @@ Aqui podemos observar La cantidad de commits realizados por cada persona por ent
 
 **URL del repositorio para el Project Report:** [https://github.com/BrosTechnologies/report](https://github.com/BrosTechnologies/report)
 
-<img width="846" height="951" alt="Captura de pantalla 2025-09-18 234749" src="https://github.com/user-attachments/assets/a57ece77-2ed5-4246-8efc-734ac80175df" />
+<img width="700" height="auto" alt="Captura de pantalla 2025-09-18 234749" src="https://github.com/user-attachments/assets/a57ece77-2ed5-4246-8efc-734ac80175df" />
 
-<img width="903" height="513" alt="Captura de pantalla 2025-09-18 234732" src="https://github.com/user-attachments/assets/767a07c5-d310-46d3-97c6-37c852df98ec" />
+<br></br>
+
+<img width="700" height="auto" alt="Captura de pantalla 2025-09-18 234732" src="https://github.com/user-attachments/assets/767a07c5-d310-46d3-97c6-37c852df98ec" />
 
 ---
 
 <div style="page-break-after: always;">
 
 <div style="break-before: page; page-break-before: always;"></div>
+
 # Contenido
 
 - [COURSE PROJECT](#course-project)
