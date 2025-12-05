@@ -3201,6 +3201,46 @@ El siguiente video presenta a los miembros de la startup **BrosTechnologies**, e
 
 # Glosario
 
+**Agile (Metodología Ágil):** Enfoque de gestión de proyectos de software que promueve el desarrollo iterativo, la colaboración constante con el cliente y la respuesta flexible ante los cambios.
+
+**API (Application Programming Interface):** Conjunto de definiciones y protocolos que permite la comunicación e interacción entre dos componentes de software distintos, facilitando el intercambio de datos entre el Frontend y el Backend.
+
+**Backlog:** Lista ordenada de todo el trabajo que se necesita realizar en el proyecto. Contiene requisitos, historias de usuario y tareas técnicas pendientes.
+
+**Backend:** Capa del desarrollo de software que se encarga de la lógica del servidor, bases de datos y la arquitectura interna de la aplicación. No es visible directamente para el usuario final.
+
+**Clean Architecture:** Patrón de arquitectura de software que separa los elementos del diseño en capas, aislando la lógica de negocio de los detalles técnicos como bases de datos o interfaces de usuario.
+
+**DDD (Domain-Driven Design):** Enfoque de desarrollo centrado en el dominio del negocio y su lógica, promoviendo colaboración entre expertos del dominio y desarrolladores.
+
+**Flutter:** Kit de desarrollo de software (SDK) de código abierto de Google, usado para crear aplicaciones móviles, web y de escritorio con una sola base de código.
+
+**Framework:** Entorno o estructura base que ofrece herramientas y librerías predefinidas para agilizar el desarrollo de software (ej. Spring Boot).
+
+**Frontend:** Parte de la aplicación con la que interactúa el usuario final; incluye la interfaz gráfica, el diseño visual y la experiencia de usuario.
+
+**IDE (Integrated Development Environment):** Entorno de desarrollo integrado que proporciona herramientas para escribir, depurar y compilar código (ej. VS Code, IntelliJ IDEA).
+
+**Mockup:** Representación estática de media o alta fidelidad de una interfaz, usada para mostrar estructura y funcionalidad visual.
+
+**Product Backlog:** Inventario priorizado de todas las funcionalidades y requisitos que debe cumplir el producto final.
+
+**Repositorio:** Espacio centralizado donde se almacena y mantiene el código fuente, permitiendo control de versiones y colaboración (ej. GitHub).
+
+**Scrum:** Marco de trabajo ágil basado en procesos iterativos e incrementales para entregar valor de forma frecuente.
+
+**SDK (Software Development Kit):** Conjunto de herramientas que permite crear aplicaciones para un sistema específico.
+
+**Sprint:** Periodo de tiempo fijo en Scrum (de 2 a 4 semanas) en el que el equipo trabaja para completar un conjunto de tareas.
+
+**UI (User Interface):** Interfaz de usuario; comprende botones, pantallas, iconos y elementos visuales con los que el usuario interactúa.
+
+**User Story (Historia de Usuario):** Descripción breve de una funcionalidad desde la perspectiva del usuario final.
+
+**UX (User Experience):** Experiencia general del usuario al interactuar con un producto o sistema, incluyendo percepciones y emociones.
+
+<div style="break-before: page; page-break-before: always;"></div>
+
 # Bibliografía
 
 Numia. (s.f.). Digitalización de Empresas: Los Retos y Barreras Más Comunes. Recuperado 8 de octubre de 2025, de [https://blog.numia.co/digitalizacion-de-empresas/](https://blog.numia.co/digitalizacion-de-empresas/)
@@ -3208,6 +3248,15 @@ Numia. (s.f.). Digitalización de Empresas: Los Retos y Barreras Más Comunes. R
 Hinostroza, Q. P. (2019). Procedimientos para la implementación del modelado de la información de la construcción (BIM) en micro y pequeñas empresas del sector construcción \[Tesis de pregrado, Universidad Peruana de Ciencias Aplicadas\]. Repositorio Académico UPC. [https://repositorioacademico.upc.edu.pe/handle/10757/628105](https://repositorioacademico.upc.edu.pe/handle/10757/628105)
 
 López, L. (2022, 29 de marzo). 5 barreras para los gobiernos digitales inclusivos. CAF. Recuperado 8 de octubre de 2025, de[https://www.caf.com/es/blog/5-barreras-para-los-gobiernos-digitales-inclusivos/](https://www.caf.com/es/blog/5-barreras-para-los-gobiernos-digitales-inclusivos/)
+
+Gothelf, J., & Seiden, J. (2013). *Lean UX: Applying lean principles to improve user experience*.  
+Recuperado de https://books.google.es/books?hl=es&lr=&id=7TDQ4WZ1BHoC&oi=fnd&pg=PR9&dq=Lean+UX+2013&ots=wcoh1DeAHp&sig=BUw_djW-_fO2xALUpzNdHv3pJaA#v=onepage&q=Lean%20UX%202013&f=false
+
+SmartBear. (s. f.). ¿Qué es Swagger y por qué es útil? *Swagger*.  
+Recuperado el 7 de julio de 2025 de https://swagger.io/docs/specification/2-0/what-is-swagger/
+
+SmartBear. (s. f.). *Especificación OpenAPI 3.1.1*. Swagger.  
+Recuperado el 7 de julio de 2025 de https://swagger.io/specification/
 
 <div style="break-before: page; page-break-before: always;"></div>
 
