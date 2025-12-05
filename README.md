@@ -3273,3 +3273,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQDPaNeu
 Anexo E. Link de About-the-Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQASbXif_YYFTquEc8A4S8W8AY0wV65xlWdwAuJy2JChFWY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RoU5um 
 
 Anexo F. Link de la aplicación movil en android: https://appdistribution.firebase.google.com/testerapps/1:526610844773:android:63ec1686919f812c7bca8c/releases/009mgnus3uico?utm_source=firebase-console 
+
+Anexo G. Link de About-the-Product REVISED: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQBdS_8fIXuLTY3tot5pKI3BAVVSkaBB74dUSU4KR40JZ8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2kArig 
+
+Anexo H. Link de la aplicación movil en flutter: https://appdistribution.firebase.google.com/testerapps/1:526610844773:android:6084d1229776c7667bca8c/releases/0eajrrl5v1ato?utm_source=firebase-console  
