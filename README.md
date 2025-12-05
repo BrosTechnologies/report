@@ -2915,15 +2915,15 @@ En esta parte mostramos las tareas que se realizarán/realizaron en este sprint.
 | US Id | US Title | Task Id | Task Title | Description | Est. (h) | Assigned To | Status |
 | :--- | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
 | **N/A** | Configuración | **TE01** | Setup Proyecto Flutter | Inicializar proyecto, clean arch. | 4 | Lead/Mobile | **Done** |
-| **HU16** | Registrar Perfil | **HU16.F** | Editar Perfil (Flutter) | UI edición datos supervisor. | 8 | Mobile Dev | **To Review** |
+| **HU16** | Registrar Perfil | **HU16.F** | Editar Perfil (Flutter) | UI edición datos supervisor. | 8 | Mobile Dev | **Done** |
 | **N/A** | Autenticación | **HU00.F** | Auth: Login y Registro | Pantallas conectadas al Backend. | 8 | Mobile Dev | **Done** |
-| **HU09** | Nuevo Proyecto | **HU09.F** | Ingresar Proyecto (Flutter) | UI crear proyectos y validación. | 8 | Mobile Dev | **To Review** |
-| **HU25** | Listar Proyectos | **HU25.F** | Listar Proyectos (Flutter) | Vista lista proyectos activos. | 6 | Mobile Dev | **In Process** |
-| **HU06** | Reg. Trabajadores | **HU06.F** | Registro Trabajadores (Fl) | Formulario agregar trabajadores. | 8 | Mobile Dev | **To Review** |
-| **HU10** | Lista Trabajadores | **HU10.F** | Lista Trabajadores (Fl) | Vista trabajadores por obra. | 6 | Mobile Dev | **In Process** |
-| **HU20** | Rep. Incidentes | **HU20.1** | Reporte Incidentes (UI) | Formulario reporte incidentes. | 8 | Mobile Dev | **To Do** |
-| **HU20** | Rep. Incidentes | **TS14** | Endpoint POST Incidente | Backend: Endpoint registro. | 6 | Backend Dev | **To Do** |
-| **HU01** | Ent. Materiales | **HU01.F** | Registro Materiales (UI) | UI ingreso de materiales. | 8 | Mobile Dev | **To Do** |
+| **HU09** | Nuevo Proyecto | **HU09.F** | Ingresar Proyecto (Flutter) | UI crear proyectos y validación. | 8 | Mobile Dev | **Done** |
+| **HU25** | Listar Proyectos | **HU25.F** | Listar Proyectos (Flutter) | Vista lista proyectos activos. | 6 | Mobile Dev | **Done** |
+| **HU06** | Reg. Trabajadores | **HU06.F** | Registro Trabajadores (Fl) | Formulario agregar trabajadores. | 8 | Mobile Dev | **Done** |
+| **HU10** | Lista Trabajadores | **HU10.F** | Lista Trabajadores (Fl) | Vista trabajadores por obra. | 6 | Mobile Dev | **Done** |
+| **HU20** | Rep. Incidentes | **HU20.1** | Reporte Incidentes (UI) | Formulario reporte incidentes. | 8 | Mobile Dev | **Done** |
+| **HU20** | Rep. Incidentes | **TS14** | Endpoint POST Incidente | Backend: Endpoint registro. | 6 | Backend Dev | **To Review** |
+| **HU01** | Ent. Materiales | **HU01.F** | Registro Materiales (UI) | UI ingreso de materiales. | 8 | Mobile Dev | **To Review** |
 | **HU03** | Alertas Stock | **TS10.1** | Lógica Alerta Stock | Backend: Verificación stock. | 4 | Backend Dev | **To Do** |
 | **N/A** | Investigación | **SP04** | Estudio Bibliotecas PDF | Evaluar librerías reportes. | 4 | Tech Lead | **To Do** |
 
