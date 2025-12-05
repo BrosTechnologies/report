@@ -2241,6 +2241,8 @@ UXPressia se empleó para la creación de User Personas, Empathy Maps, Journey M
 Usamos plantillas de UXPressia para elaborar cada una de estas herramientas, permitiendo exportar el
 trabajo realizado para incluirlo en el proyecto.
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 **Software Development**
 
 - Landing Page
