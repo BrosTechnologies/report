@@ -60,6 +60,7 @@ Aqui podemos observar las diferentes versiones registradas del informe, contenie
 | ----------- | ---------- | --------- | ----------------------------------------------------------------------- |
 | 1.0         | 26/08/2025 | Anónimo   | Se implementó el diseño/esqueleto del informe sobre todas las secciones |
 | 2.0         | 18/09/2025 | BrosTechnologies | Se completó el contenido principal del informe, incluyendo Lean UX, Needfinding, DDD, Sprints 1 y 2, y Entrevistas de Validación. |
+| 3.0         | 5/12/2025 | BrosTechnologies | Se completó el contenido principal del informe, incluyendo El desarrollo completo de las aplicaciones, asi como del sprint 3. |
 
 ---
 
