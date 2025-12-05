@@ -2920,6 +2920,75 @@ En esta parte mostramos las tareas que se realizarán/realizaron en este sprint.
 
 <div style="break-before: page; page-break-before: always;"></div>
 
+#### 4.2.3.3. Development Evidence for Sprint Review
+
+
+
+
+- Se presentan los commits realizados en el repositorio de la Aplicación móvil desarrollada en Flutter en GitHub.
+
+  Link del repositorio de la Aplicación móvil en flutter: https://github.com/BrosTechnologies/front-engitrack-flutter-2
+
+#### 4.2.3.4. Testing Suite Evidence for Sprint Review 
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| buildtruck-mobile | develop | 7344000 | Merge pull request #4 from BrosTechnologies/features/home-calendar | Merged the home calendar feature branch into develop, integrating the new dashboard UI and calendar logic. | 05/12/2025 |
+| buildtruck-mobile | develop | 8b52516 | Update gradle-wrapper.properties | Updated Gradle wrapper version to ensure compatibility with the latest Android build tools for the new module. | 05/12/2025 |
+| buildtruck-mobile | develop | a4d7998 | Update gradle-wrapper.properties | Minor adjustment to Gradle properties to fix a build warning related to the previous update. | 05/12/2025 |
+| buildtruck-mobile | develop | cd81e5d | Update AppFrameworkInfo.plist | Updated iOS plist configuration to include necessary permissions and settings for the dashboard view. | 05/12/2025 |
+| buildtruck-mobile | develop | 5484f74 | Update AppFrameworkInfo.plist | Corrected a metadata entry in the iOS framework info file ensuring proper app indexing. | 05/12/2025 |
+| buildtruck-mobile | develop | 36ab4c9 | feat add home dashboard and calendar | Implemented the main dashboard layout and embedded the calendar component for task visualization. | 05/12/2025 |
+
+#### 4.2.3.5. Execution Evidence for Sprint Review
+
+En el Sprint 3 hemos logrado implementar el la versión completa de la aplicación desarrollada en flutter.
+
+<p align="center">
+  <img src="images/flutter_video_tb2.jpg" alt="PI5" width="1000">
+</p> 
+
+
+Video de demostración de la aplicación en Flutter: 
+
+
+#### 4.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, se documentaron los endpoints desarrollados en el backend utilizando la especificación OpenAPI (swagger), con el objetivo de facilitar su comprensión, prueba y futura integración por parte de otros miembros del equipo o desarrolladores externos.
+A continuación, se presenta capturas de la relación de endpoints implementados y documentados, indicando las acciones que soportan, sus respectivos métodos HTTP, parámetros relevantes, ejemplo de uso y respuesta.
+
+<p align="center">
+  <img src="images/tb2_backend.jpg" alt="PI5" width="1000">
+</p> 
+
+#### 4.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante este Sprint, no se realizaron cambios adicionales en el proceso de despliegue. Sin embargo, se
+mantiene operativo el entorno previamente configurado y desplegado para cada uno de los componentes del
+sistema.
+
+A continuación, se presentan los enlaces de despliegue correspondientes, junto con una captura
+representativa de cada uno:
+
+Backend: https://engitrack-backend-production.up.railway.app/index.html
+
+Aplicación en Flutter:
+
+
+#### 4.2.3.8. Team Collaboration Insights during Sprint
+
+El equipo desarrolló la Aplicación móvil en los 2 entornos requeridos, así como la versión completa del servicio back end . En la aplicación móvil , se enfoco mas en
+las vistas y la navegacion entre esas.
+
+A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del
+equipo a través de la plataforma GitHub:
+
+<p align="center">
+  <img src="images/tb2_insights.jpg" alt="PI5" width="1000">
+</p>
+
+
 ## 4.3. Validation Interviews
 
 ### 4.3.1. Diseño de Entrevistas
