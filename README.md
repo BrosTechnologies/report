@@ -1,6 +1,3 @@
-
-
-
 # COURSE PROJECT
 
 <div align="center">
