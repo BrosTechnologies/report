@@ -3185,7 +3185,7 @@ El video detalla la propuesta de valor de EngiTrack como una solución móvil, a
 
 <img src="images/about-the-product.png" alt="PB" width="1000">
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQASbXif_YYFTquEc8A4S8W8AY0wV65xlWdwAuJy2JChFWY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RoU5um 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQDTEE4RhcV4QqIZelJygU8zAawd0iBWAwH64wIdGwlerUs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BFAKHb
 
 <div style="break-before: page; page-break-before: always;"></div>
 
@@ -3270,10 +3270,10 @@ Anexo C. Landing Page: [https://engitrack-backend-production.up.railway.app/inde
 Anexo D. [Link de About-the-team:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQDPaNeuh1QgS4HtCcGP3crrAdXqZKLU43Jk5Y2xFPlNxsc)
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQDPaNeuh1QgS4HtCcGP3crrAdXqZKLU43Jk5Y2xFPlNxsc
 
-Anexo E. Link de About-the-Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQASbXif_YYFTquEc8A4S8W8AY0wV65xlWdwAuJy2JChFWY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RoU5um 
+Anexo E. Link de About-the-Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQDTEE4RhcV4QqIZelJygU8zAawd0iBWAwH64wIdGwlerUs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BFAKHb
 
 Anexo F. Link de la aplicación movil en android: https://appdistribution.firebase.google.com/testerapps/1:526610844773:android:63ec1686919f812c7bca8c/releases/009mgnus3uico?utm_source=firebase-console 
 
-Anexo G. Link de About-the-Product REVISED: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQBdS_8fIXuLTY3tot5pKI3BAVVSkaBB74dUSU4KR40JZ8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2kArig 
+Anexo G. Link de About-the-Product REVISED: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQDTEE4RhcV4QqIZelJygU8zAawd0iBWAwH64wIdGwlerUs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BFAKHb
 
 Anexo H. Link de la aplicación movil en flutter: https://appdistribution.firebase.google.com/testerapps/1:526610844773:android:6084d1229776c7667bca8c/releases/0eajrrl5v1ato?utm_source=firebase-console  
