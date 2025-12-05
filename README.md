@@ -2903,21 +2903,20 @@ En esta parte mostramos las tareas que se realizarán/realizaron en este sprint.
 
 #### 4.3.1.2. Sprint Backlog 3
 
-| ID | Título | Descripción | Est. (H) | Asignado | Estado | Relacionado (Epic/Story) |
-| :--- | :--- | :--- | :---: | :--- | :--- | :--- |
-| **TE01** | Setup Proyecto Flutter | Inicializar proyecto Flutter, configurar estructura de carpetas (Clean Arch), temas y rutas. | 4 | Lead/Mobile | **Done** | N/A |
-| **HU16.F** | Editar Perfil (Flutter) | Implementar UI en Flutter para edición de datos del supervisor. *(Refleja commits de features/profile)* | 8 | Mobile Dev | **To Review** | EP04 / HU16 |
-| **HU09.F** | Ingresar Nuevo Proyecto (Flutter) | Pantalla para crear proyectos y validación de fechas en Flutter. *(Refleja commits de features/projects)* | 8 | Mobile Dev | **To Review** | EP06 / HU09 |
-| **HU25.F** | Listar Proyectos (Flutter) | Implementar vista de lista de proyectos activos con consumo de API. | 6 | Mobile Dev | **In Process** | EP06 / HU25 |
-| **HU06.F** | Registro de Trabajadores (Flutter) | Formulario Flutter para agregar trabajadores y validación de datos. *(Refleja commits de features/workers)* | 8 | Mobile Dev | **To Review** | EP02 / HU06 |
-| **HU10.F** | Lista de Trabajadores (Flutter) | Vista para visualizar la lista de trabajadores asignados por obra. | 6 | Mobile Dev | **In Process** | EP02 / HU10 |
-| **HU00.F** | Auth: Login y Registro (Flutter) | Pantallas de Login y Registro conectadas al Backend. *(Refleja commits de login/register)* | 8 | Mobile Dev | **Done** | N/A (Core) |
-| **HU20.1** | Reporte Incidentes (UI Flutter) | Crear formulario en Flutter para reporte de incidentes (reemplaza la tarea de Android). | 8 | Mobile Dev | **To Do** | EP03 / HU20 |
-| **TS14** | Endpoint POST Incidente | Backend: Crear endpoint para registrar incidentes con validación. | 6 | Backend Dev | **To Do** | EP03 / HU20 |
-| **HU01.F** | Registro Entrada Materiales (Flutter) | UI en Flutter para el ingreso de materiales (Módulo Inventario). | 8 | Mobile Dev | **To Do** | EP01 / HU01 |
-| **TS10.1** | Lógica Alerta Stock (Backend) | Finalizar lógica de verificación de stock mínimo (Arrastrado del Sprint 1). | 4 | Backend Dev | **To Do** | EP01 / HU03 |
-| **SP04** | Estudio Bibliotecas PDF | Finalizar evaluación de librerías para reportes (Arrastrado del Sprint 2). | 4 | Tech Lead | **To Do** | EP03 |
-
+| US Id | US Title | Task Id | Task Title | Description | Est. (h) | Assigned To | Status |
+| :--- | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
+| **N/A** | Configuración | **TE01** | Setup Proyecto Flutter | Inicializar proyecto, clean arch. | 4 | Lead/Mobile | **Done** |
+| **HU16** | Registrar Perfil | **HU16.F** | Editar Perfil (Flutter) | UI edición datos supervisor. | 8 | Mobile Dev | **To Review** |
+| **N/A** | Autenticación | **HU00.F** | Auth: Login y Registro | Pantallas conectadas al Backend. | 8 | Mobile Dev | **Done** |
+| **HU09** | Nuevo Proyecto | **HU09.F** | Ingresar Proyecto (Flutter) | UI crear proyectos y validación. | 8 | Mobile Dev | **To Review** |
+| **HU25** | Listar Proyectos | **HU25.F** | Listar Proyectos (Flutter) | Vista lista proyectos activos. | 6 | Mobile Dev | **In Process** |
+| **HU06** | Reg. Trabajadores | **HU06.F** | Registro Trabajadores (Fl) | Formulario agregar trabajadores. | 8 | Mobile Dev | **To Review** |
+| **HU10** | Lista Trabajadores | **HU10.F** | Lista Trabajadores (Fl) | Vista trabajadores por obra. | 6 | Mobile Dev | **In Process** |
+| **HU20** | Rep. Incidentes | **HU20.1** | Reporte Incidentes (UI) | Formulario reporte incidentes. | 8 | Mobile Dev | **To Do** |
+| **HU20** | Rep. Incidentes | **TS14** | Endpoint POST Incidente | Backend: Endpoint registro. | 6 | Backend Dev | **To Do** |
+| **HU01** | Ent. Materiales | **HU01.F** | Registro Materiales (UI) | UI ingreso de materiales. | 8 | Mobile Dev | **To Do** |
+| **HU03** | Alertas Stock | **TS10.1** | Lógica Alerta Stock | Backend: Verificación stock. | 4 | Backend Dev | **To Do** |
+| **N/A** | Investigación | **SP04** | Estudio Bibliotecas PDF | Evaluar librerías reportes. | 4 | Tech Lead | **To Do** |
 
 <div style="break-before: page; page-break-before: always;"></div>
 
