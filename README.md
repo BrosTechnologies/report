@@ -2844,6 +2844,8 @@ equipo a través de la plataforma GitHub:
   <img src="images/tb2_insights.jpg" alt="PI5" width="1000">
 </p>
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 ### 4.2.3. Sprint 3
 
 En esta sección se registra y explica el avance final en términos de producto y trabajo colaborativo para el Sprint 3, enfocado en terminar la aplicación movil en flutter con cambios menores en el backend y la aplicacion hecha en jetpack compose. Se detalla el progreso tangible y funcional, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva.
@@ -2851,11 +2853,11 @@ En esta sección se registra y explica el avance final en términos de producto 
 #### 4.2.3.1. Sprint Planning 3
 
 En esta parte mostramos las tareas que se realizarán/realizaron en este sprint.
-<img src="images/sprint-planning-3.png" alt="SP3" width="1000">
+<img src="images/sprint-planning-3.png" alt="SP3" height="250" width="auto">
 
 [Link a Trello:](https://trello.com/b/Lw00Z8sn/sprint-planning-3) https://trello.com/b/Lw00Z8sn/sprint-planning-3
 
-<table style="width:100%; border-collapse: collapse;">
+<table style="width:100%; border-collapse: collapse; margin-top: 0px">
     <tr>
         <th style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint #</th>
         <th style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint 3</th>
@@ -2929,9 +2931,6 @@ En esta parte mostramos las tareas que se realizarán/realizaron en este sprint.
 
 #### 4.2.3.3. Development Evidence for Sprint Review
 
-
-
-
 - Se presentan los commits realizados en el repositorio de la Aplicación móvil desarrollada en Flutter en GitHub.
 
   Link del repositorio de la Aplicación móvil en flutter: https://github.com/BrosTechnologies/front-engitrack-flutter-2
@@ -2953,12 +2952,12 @@ En esta parte mostramos las tareas que se realizarán/realizaron en este sprint.
 En el Sprint 3 hemos logrado implementar el la versión completa de la aplicación desarrollada en flutter.
 
 <p align="center">
-  <img src="images/flutter_video_tb2.jpg" alt="PI5" width="1000">
+  <img src="images/flutter_video_tb2.jpg" alt="PI5" height="450">
 </p> 
-
 
 Video de demostración de la aplicación en Flutter: 
 
+<div style="break-before: page; page-break-before: always;"></div>
 
 #### 4.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -2982,6 +2981,7 @@ Backend: https://engitrack-backend-production.up.railway.app/index.html
 
 Aplicación en Flutter:
 
+<div style="break-before: page; page-break-before: always;"></div>
 
 #### 4.2.3.8. Team Collaboration Insights during Sprint
 
@@ -2995,6 +2995,7 @@ equipo a través de la plataforma GitHub:
   <img src="images/tb2_insights.jpg" alt="PI5" width="1000">
 </p>
 
+<div style="break-before: page; page-break-before: always;"></div>
 
 ## 4.3. Validation Interviews
 
@@ -3043,6 +3044,8 @@ _(En este momento se le presenta la **Landing Page de EngiTrack**.)_
 2. ¿La recomendarías a otros colegas o empresas?
 3. ¿Qué sugerencias o mejoras harías?
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 ### 4.3.2. Registro de Entrevistas
 
 **Entrevistado 1**
@@ -3062,7 +3065,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/Ed
 
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/Ecers6WXriBAqNby-dptQFEBEB0QTy16mwQxxufkFtwd6g?e=oQdiC7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Resumen:**
+<div style="break-before: page; page-break-before: always;"></div>
 
 ### 4.3.3. Evaluaciones según heurísticas
 
@@ -3104,6 +3107,8 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/Ec
 **Heurística violada:** Utilidad y relevancia  
 **Descripción:** La sección de perfil con sistema de recompensas y niveles no es percibida como útil por los usuarios objetivo. Los supervisores y jefes de obra expresaron que esta funcionalidad "no me serviría tanto", prefiriendo características más prácticas relacionadas directamente con la gestión de obra.
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 ### #4 Falta de integración de multimedia en proyectos
 **Severidad:** 3 - Problema mayor  
 **Heurística violada:** Flexibilidad y eficiencia de uso  
@@ -3144,6 +3149,8 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/Ec
 - Mejorar la paleta de colores e incluir más elementos visuales
 - Implementar soporte multilenguaje completo en la aplicación móvil
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
@@ -3156,11 +3163,15 @@ El plan Lean UX canvas identifica que el usuario crítico y el vector de adopci�
 
 ---
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 ## Video App Validation
 
 El siguiente video documenta el proceso de **validación de la aplicación** (App Validation), una etapa fundamental detallada en la sección 4.3 de este informe. 
 
 En la grabación, se evidencia la metodología de entrevistas de validación aplicadas a nuestro segmento objetivo principal: Supervisores y Jefes de Obra. Se muestra cómo se les presenta el prototipo interactivo de EngiTrack y la Landing Page desplegada. El objetivo fue recopilar su feedback directo sobre la usabilidad, la propuesta de valor y la utilidad de las funcionalidades clave.
+
+<img src="images/app-validation.png" alt="PB" width="1000">
 
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/IQB14kuRU33HToR_ymFM8FmLAQND8zIgBUg7t0m9Jo3gXE4?e=ydV9m9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -3176,6 +3187,8 @@ El video detalla la propuesta de valor de EngiTrack como una solución móvil, a
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQASbXif_YYFTquEc8A4S8W8AY0wV65xlWdwAuJy2JChFWY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RoU5um 
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 ## Video About-the-team
 
 El siguiente video presenta a los miembros de la startup **BrosTechnologies**, el equipo responsable del análisis, diseño y desarrollo de la solución EngiTrack. Cada integrante describe su rol principal dentro del proyecto, las tecnologías que aplicó y su contribución específica al producto final. Este video complementa la información presentada en la sección 1.1.2 (Perfiles de integrantes del equipo) y refleja la colaboración y la aplicación práctica de los conocimientos descritos en la tabla de Student Outcome.
@@ -3183,6 +3196,8 @@ El siguiente video presenta a los miembros de la startup **BrosTechnologies**, e
 <img src="images/about-the-team.png" alt="PB" width="1000">
 
 [Video About The Team:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQDPaNeuh1QgS4HtCcGP3crrAdXqZKLU43Jk5Y2xFPlNxsc) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQDPaNeuh1QgS4HtCcGP3crrAdXqZKLU43Jk5Y2xFPlNxsc
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 # Glosario
 
