@@ -2955,7 +2955,7 @@ En el Sprint 3 hemos logrado implementar el la versi처n completa de la aplicaci�
   <img src="images/flutter_video_tb2.jpg" alt="PI5" height="450">
 </p> 
 
-Video de demostraci처n de la aplicaci처n en Flutter: 
+Video de demostraci처n de la aplicaci처n en Flutter: https://drive.google.com/file/d/1NXD6e6WJnnNbkwo9u1wFxpPxWEWlSG7r/view
 
 <div style="break-before: page; page-break-before: always;"></div>
 
@@ -2979,7 +2979,7 @@ representativa de cada uno:
 
 Backend: https://engitrack-backend-production.up.railway.app/index.html
 
-Aplicaci처n en Flutter:
+Aplicaci처n en Flutter: https://appdistribution.firebase.google.com/testerapps/1:526610844773:android:6084d1229776c7667bca8c/releases/0eajrrl5v1ato?utm_source=firebase-console 
 
 <div style="break-before: page; page-break-before: always;"></div>
 
