@@ -2979,7 +2979,7 @@ representativa de cada uno:
 
 Backend: https://engitrack-backend-production.up.railway.app/index.html
 
-Aplicación en Flutter:
+Aplicación en Flutter: https://appdistribution.firebase.google.com/testerapps/1:526610844773:android:6084d1229776c7667bca8c/releases/0eajrrl5v1ato?utm_source=firebase-console 
 
 <div style="break-before: page; page-break-before: always;"></div>
 
