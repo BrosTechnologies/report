@@ -2847,8 +2847,58 @@ En esta parte mostramos las tareas que se realizarán/realizaron en este sprint.
 
 [Link a Trello:](https://trello.com/b/Lw00Z8sn/sprint-planning-3) https://trello.com/b/Lw00Z8sn/sprint-planning-3
 
-
-
+<table style="width:100%; border-collapse: collapse;">
+    <tr>
+        <th style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint #</th>
+        <th style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint 3</th>
+    </tr>
+    <tr>
+        <th colspan="2" style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint Planning Background</th>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Date</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">19-11-2025</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Time</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">5:00 pm - 10:00 pm</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Location</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Canal de Voz de Discord</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Prepared By</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Castro Sanchez, Amir</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Attendees (to planning meeting)</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Bellido Salas, Raúl<br>Castro Sanchez, Amir Gabriel<br>Gonzales Valverde, Carlos Matthew<br>Prado Vargas, Mario Benjamín<br>Fernández Remón, Roy</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 2 Review Summary</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Se logro una versión casi final y se desplegó nuestra aplicación hecha en Android Studio. Se avanzó con los nuevos puntos del reporte y se levantaron varias de las observaciones</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 2 Retrospective Summary</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">El equipo identificó y planeo una reunión de emergencia para tratar el tema de la aplicación en Flutter, el cual requería una visión estratégica a futuro para poder usar de manera eficiente nuestro recurso del tiempo y evitar una posible sobrecarga relacionado con otras tareas como el avance del reporte y creación de multimedia </td>
+    </tr>
+    <tr>
+        <th colspan="2" style="padding: 8px; border: 1px solid #ddd; text-align: left;">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 3 Goal</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">El objetivo principal de este sprint es desarrollar las funcionalidades core de la aplicación, para el otro segmento objetivo y esta vez usando otras tecnologias para la aplicacion móvil que seria Flutter/Dart</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sprint 3 Velocity</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">36</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Sum of Story Points</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">35</td>
+    </tr>
+</table>
 
 
 <div style="break-before: page; page-break-before: always;"></div>
