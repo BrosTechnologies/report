@@ -264,6 +264,7 @@ Aqui podemos observar La cantidad de commits realizados por cada persona por ent
       - [4.2.2.8. Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)
     - [4.2.3. Sprint 3](#423-sprint-3)
       - [4.2.3.1. Sprint Planning 3](#4231-sprint-planning-3)
+      - [4.3.1.2. Sprint Backlog 3](#4312-sprint-backlog-3)
   - [4.3. Validation Interviews](#43-validation-interviews)
     - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
       - [Introducción](#introducción)
@@ -2899,6 +2900,23 @@ En esta parte mostramos las tareas que se realizarán/realizaron en este sprint.
         <td style="padding: 8px; border: 1px solid #ddd;">35</td>
     </tr>
 </table>
+
+#### 4.3.1.2. Sprint Backlog 3
+
+| ID | Título | Descripción | Est. (H) | Asignado | Estado | Relacionado (Epic/Story) |
+| :--- | :--- | :--- | :---: | :--- | :--- | :--- |
+| **TE01** | Setup Proyecto Flutter | Inicializar proyecto Flutter, configurar estructura de carpetas (Clean Arch), temas y rutas. | 4 | Lead/Mobile | **Done** | N/A |
+| **HU16.F** | Editar Perfil (Flutter) | Implementar UI en Flutter para edición de datos del supervisor. *(Refleja commits de features/profile)* | 8 | Mobile Dev | **To Review** | EP04 / HU16 |
+| **HU09.F** | Ingresar Nuevo Proyecto (Flutter) | Pantalla para crear proyectos y validación de fechas en Flutter. *(Refleja commits de features/projects)* | 8 | Mobile Dev | **To Review** | EP06 / HU09 |
+| **HU25.F** | Listar Proyectos (Flutter) | Implementar vista de lista de proyectos activos con consumo de API. | 6 | Mobile Dev | **In Process** | EP06 / HU25 |
+| **HU06.F** | Registro de Trabajadores (Flutter) | Formulario Flutter para agregar trabajadores y validación de datos. *(Refleja commits de features/workers)* | 8 | Mobile Dev | **To Review** | EP02 / HU06 |
+| **HU10.F** | Lista de Trabajadores (Flutter) | Vista para visualizar la lista de trabajadores asignados por obra. | 6 | Mobile Dev | **In Process** | EP02 / HU10 |
+| **HU00.F** | Auth: Login y Registro (Flutter) | Pantallas de Login y Registro conectadas al Backend. *(Refleja commits de login/register)* | 8 | Mobile Dev | **Done** | N/A (Core) |
+| **HU20.1** | Reporte Incidentes (UI Flutter) | Crear formulario en Flutter para reporte de incidentes (reemplaza la tarea de Android). | 8 | Mobile Dev | **To Do** | EP03 / HU20 |
+| **TS14** | Endpoint POST Incidente | Backend: Crear endpoint para registrar incidentes con validación. | 6 | Backend Dev | **To Do** | EP03 / HU20 |
+| **HU01.F** | Registro Entrada Materiales (Flutter) | UI en Flutter para el ingreso de materiales (Módulo Inventario). | 8 | Mobile Dev | **To Do** | EP01 / HU01 |
+| **TS10.1** | Lógica Alerta Stock (Backend) | Finalizar lógica de verificación de stock mínimo (Arrastrado del Sprint 1). | 4 | Backend Dev | **To Do** | EP01 / HU03 |
+| **SP04** | Estudio Bibliotecas PDF | Finalizar evaluación de librerías para reportes (Arrastrado del Sprint 2). | 4 | Tech Lead | **To Do** | EP03 |
 
 
 <div style="break-before: page; page-break-before: always;"></div>
