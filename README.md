@@ -262,6 +262,8 @@ Aqui podemos observar La cantidad de commits realizados por cada persona por ent
       - [4.2.2.6. Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)
       - [4.2.2.7. Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)
       - [4.2.2.8. Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)
+    - [4.2.3. Sprint 3](#423-sprint-3)
+      - [4.2.3.1. Sprint Planning 3](#4231-sprint-planning-3)
   - [4.3. Validation Interviews](#43-validation-interviews)
     - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
       - [Introducción](#introducción)
@@ -2832,7 +2834,24 @@ equipo a través de la plataforma GitHub:
 
 <p align="center">
   <img src="images/tb2_insights.jpg" alt="PI5" width="1000">
-</p> 
+</p>
+
+### 4.2.3. Sprint 3
+
+En esta sección se registra y explica el avance final en términos de producto y trabajo colaborativo para el Sprint 3, enfocado en terminar la aplicación movil en flutter con cambios menores en el backend y la aplicacion hecha en jetpack compose. Se detalla el progreso tangible y funcional, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva.
+
+#### 4.2.3.1. Sprint Planning 3
+
+En esta parte mostramos las tareas que se realizarán/realizaron en este sprint.
+<img src="images/sprint-planning-3.png" alt="SP3" width="1000">
+
+[Link a Trello:](https://trello.com/b/Lw00Z8sn/sprint-planning-3) https://trello.com/b/Lw00Z8sn/sprint-planning-3
+
+
+
+
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 ## 4.3. Validation Interviews
 
