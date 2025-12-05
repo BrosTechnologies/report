@@ -3172,11 +3172,15 @@ El siguiente video presenta "EngiTrack", el producto digital desarrollado por la
 
 El video detalla la propuesta de valor de EngiTrack como una solución móvil, accesible e intuitiva. Se exponen las funcionalidades clave diseñadas para los segmentos objetivo, el **Supervisor de Obra** y el **Contratante**, resumiendo cómo la aplicación centraliza la información para optimizar la gestión de proyectos, tareas y colaboradores, asegurando un control total y mayor transparencia.
 
+<img src="images/about-the-product.png" alt="PB" width="1000">
+
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQASbXif_YYFTquEc8A4S8W8AY0wV65xlWdwAuJy2JChFWY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RoU5um 
 
 ## Video About-the-team
 
 El siguiente video presenta a los miembros de la startup **BrosTechnologies**, el equipo responsable del análisis, diseño y desarrollo de la solución EngiTrack. Cada integrante describe su rol principal dentro del proyecto, las tecnologías que aplicó y su contribución específica al producto final. Este video complementa la información presentada en la sección 1.1.2 (Perfiles de integrantes del equipo) y refleja la colaboración y la aplicación práctica de los conocimientos descritos en la tabla de Student Outcome.
+
+<img src="images/about-the-team.png" alt="PB" width="1000">
 
 [Video About The Team:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQDPaNeuh1QgS4HtCcGP3crrAdXqZKLU43Jk5Y2xFPlNxsc) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310680_upc_edu_pe/IQDPaNeuh1QgS4HtCcGP3crrAdXqZKLU43Jk5Y2xFPlNxsc
 
@@ -3189,6 +3193,8 @@ Numia. (s.f.). Digitalización de Empresas: Los Retos y Barreras Más Comunes. R
 Hinostroza, Q. P. (2019). Procedimientos para la implementación del modelado de la información de la construcción (BIM) en micro y pequeñas empresas del sector construcción \[Tesis de pregrado, Universidad Peruana de Ciencias Aplicadas\]. Repositorio Académico UPC. [https://repositorioacademico.upc.edu.pe/handle/10757/628105](https://repositorioacademico.upc.edu.pe/handle/10757/628105)
 
 López, L. (2022, 29 de marzo). 5 barreras para los gobiernos digitales inclusivos. CAF. Recuperado 8 de octubre de 2025, de[https://www.caf.com/es/blog/5-barreras-para-los-gobiernos-digitales-inclusivos/](https://www.caf.com/es/blog/5-barreras-para-los-gobiernos-digitales-inclusivos/)
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 # Anexos
 Anexo A. Video de exposición TP1: https://drive.google.com/drive/folders/1Z39yHmLJMF0U2zItULOfaYmyH_E7RApC?usp=sharing
